@@ -500,6 +500,11 @@
         "banned": false,
         "nama": "jeje",
         "saldo": 2390
+      },
+      "7302370420": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -804,6 +809,9 @@
         "liststore": {}
       },
       "7749513654": {
+        "liststore": {}
+      },
+      "7302370420": {
         "liststore": {}
       }
     }
