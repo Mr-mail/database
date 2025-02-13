@@ -41,6 +41,11 @@
         "nama": "huoxinyan",
         "saldo": 0
       },
+      "1959316791": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
       "2046197696": {
         "banned": false,
         "nama": "Stevano",
@@ -520,6 +525,9 @@
         "liststore": {}
       },
       "1903797644": {
+        "liststore": {}
+      },
+      "1959316791": {
         "liststore": {}
       },
       "2046197696": {
