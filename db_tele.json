@@ -69,7 +69,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 330814
+        "saldo": 338720
       },
       "7553188980": {
         "banned": false,
@@ -595,6 +595,11 @@
         "banned": false,
         "nama": "hihihihi",
         "saldo": 0
+      },
+      "6263742236": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -956,6 +961,9 @@
         "liststore": {}
       },
       "7486990358": {
+        "liststore": {}
+      },
+      "6263742236": {
         "liststore": {}
       }
     }
