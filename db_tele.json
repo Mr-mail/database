@@ -61,6 +61,11 @@
         "nama": "Stevano",
         "saldo": 0
       },
+      "2069137342": {
+        "banned": false,
+        "nama": "Rixzyy",
+        "saldo": 0
+      },
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
@@ -555,6 +560,16 @@
         "banned": false,
         "nama": "grece",
         "saldo": 0
+      },
+      "7503398719": {
+        "banned": false,
+        "nama": "Radithya",
+        "saldo": 0
+      },
+      "7367525729": {
+        "banned": false,
+        "nama": "yanzz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -592,6 +607,9 @@
         "liststore": {}
       },
       "2046197696": {
+        "liststore": {}
+      },
+      "2069137342": {
         "liststore": {}
       },
       "8012846823": {
@@ -892,6 +910,12 @@
         "liststore": {}
       },
       "6199719972": {
+        "liststore": {}
+      },
+      "7503398719": {
+        "liststore": {}
+      },
+      "7367525729": {
         "liststore": {}
       }
     }
