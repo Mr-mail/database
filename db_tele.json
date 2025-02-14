@@ -510,6 +510,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "5176789470": {
+        "banned": false,
+        "nama": "massnyuu69",
+        "saldo": 0
       }
     },
     "chats": {
@@ -820,6 +825,9 @@
         "liststore": {}
       },
       "7302370420": {
+        "liststore": {}
+      },
+      "5176789470": {
         "liststore": {}
       }
     }
