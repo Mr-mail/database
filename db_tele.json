@@ -570,6 +570,16 @@
         "banned": false,
         "nama": "yanzz",
         "saldo": 0
+      },
+      "5099886832": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "7384361659": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -916,6 +926,12 @@
         "liststore": {}
       },
       "7367525729": {
+        "liststore": {}
+      },
+      "5099886832": {
+        "liststore": {}
+      },
+      "7384361659": {
         "liststore": {}
       }
     }
