@@ -585,6 +585,11 @@
         "banned": false,
         "nama": "Dakz",
         "saldo": 0
+      },
+      "6955410369": {
+        "banned": false,
+        "nama": "Levi",
+        "saldo": 0
       }
     },
     "chats": {
@@ -940,6 +945,9 @@
         "liststore": {}
       },
       "7273007865": {
+        "liststore": {}
+      },
+      "6955410369": {
         "liststore": {}
       }
     }
