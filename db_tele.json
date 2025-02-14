@@ -515,6 +515,11 @@
         "banned": false,
         "nama": "massnyuu69",
         "saldo": 0
+      },
+      "6537695093": {
+        "banned": false,
+        "nama": "zuy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -828,6 +833,9 @@
         "liststore": {}
       },
       "5176789470": {
+        "liststore": {}
+      },
+      "6537695093": {
         "liststore": {}
       }
     }
