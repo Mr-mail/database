@@ -535,6 +535,26 @@
         "banned": false,
         "nama": "putra",
         "saldo": 0
+      },
+      "7065763951": {
+        "banned": false,
+        "nama": "x",
+        "saldo": 0
+      },
+      "6485689380": {
+        "banned": false,
+        "nama": "daniel",
+        "saldo": 0
+      },
+      "7286131866": {
+        "banned": false,
+        "nama": "dikaaa",
+        "saldo": 0
+      },
+      "6199719972": {
+        "banned": false,
+        "nama": "grece",
+        "saldo": 0
       }
     },
     "chats": {
@@ -860,6 +880,18 @@
         "liststore": {}
       },
       "7911362910": {
+        "liststore": {}
+      },
+      "7065763951": {
+        "liststore": {}
+      },
+      "6485689380": {
+        "liststore": {}
+      },
+      "7286131866": {
+        "liststore": {}
+      },
+      "6199719972": {
         "liststore": {}
       }
     }
