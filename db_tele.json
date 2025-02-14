@@ -509,7 +509,7 @@
       "6995158087": {
         "banned": false,
         "nama": "opet",
-        "saldo": 20
+        "saldo": 5020
       },
       "7749513654": {
         "banned": false,
@@ -579,6 +579,11 @@
       "7384361659": {
         "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "7273007865": {
+        "banned": false,
+        "nama": "Dakz",
         "saldo": 0
       }
     },
@@ -932,6 +937,9 @@
         "liststore": {}
       },
       "7384361659": {
+        "liststore": {}
+      },
+      "7273007865": {
         "liststore": {}
       }
     }
