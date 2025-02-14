@@ -46,6 +46,11 @@
         "nama": "Guest",
         "saldo": 0
       },
+      "2024984460": {
+        "banned": false,
+        "nama": "Yasir",
+        "saldo": 40
+      },
       "2046197696": {
         "banned": false,
         "nama": "Stevano",
@@ -533,6 +538,9 @@
         "liststore": {}
       },
       "1959316791": {
+        "liststore": {}
+      },
+      "2024984460": {
         "liststore": {}
       },
       "2046197696": {
