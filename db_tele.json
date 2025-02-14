@@ -1,6 +1,11 @@
 {
   "data": {
     "users": {
+      "913539406": {
+        "banned": false,
+        "nama": "shah",
+        "saldo": 0
+      },
       "953397565": {
         "banned": false,
         "nama": "Rixzyy",
@@ -525,9 +530,17 @@
         "banned": false,
         "nama": "gokupay",
         "saldo": 0
+      },
+      "7911362910": {
+        "banned": false,
+        "nama": "putra",
+        "saldo": 0
       }
     },
     "chats": {
+      "913539406": {
+        "liststore": {}
+      },
       "953397565": {
         "liststore": {}
       },
@@ -844,6 +857,9 @@
         "liststore": {}
       },
       "6728575981": {
+        "liststore": {}
+      },
+      "7911362910": {
         "liststore": {}
       }
     }
