@@ -54,7 +54,7 @@
       "2024984460": {
         "banned": false,
         "nama": "Yasir",
-        "saldo": 4000
+        "saldo": 40
       },
       "2046197696": {
         "banned": false,
@@ -79,7 +79,7 @@
       "8147427693": {
         "banned": false,
         "nama": "DestaHost",
-        "saldo": 0
+        "saldo": 7000
       },
       "6614638832": {
         "banned": false,
@@ -600,6 +600,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "6584147890": {
+        "banned": false,
+        "nama": "iem",
+        "saldo": 0
       }
     },
     "chats": {
@@ -964,6 +969,9 @@
         "liststore": {}
       },
       "6263742236": {
+        "liststore": {}
+      },
+      "6584147890": {
         "liststore": {}
       }
     }
