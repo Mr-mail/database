@@ -625,6 +625,11 @@
         "banned": false,
         "nama": "kevin",
         "saldo": 0
+      },
+      "6865496806": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1004,6 +1009,9 @@
         "liststore": {}
       },
       "5092071229": {
+        "liststore": {}
+      },
+      "6865496806": {
         "liststore": {}
       }
     }
