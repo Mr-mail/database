@@ -509,7 +509,7 @@
       "6995158087": {
         "banned": false,
         "nama": "opet",
-        "saldo": 11040
+        "saldo": 3040
       },
       "7749513654": {
         "banned": false,
@@ -609,6 +609,11 @@
       "6492861481": {
         "banned": false,
         "nama": "CIN",
+        "saldo": 0
+      },
+      "7998960652": {
+        "banned": false,
+        "nama": " asep",
         "saldo": 0
       }
     },
@@ -980,6 +985,9 @@
         "liststore": {}
       },
       "6492861481": {
+        "liststore": {}
+      },
+      "7998960652": {
         "liststore": {}
       }
     }
