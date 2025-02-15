@@ -605,6 +605,11 @@
         "banned": false,
         "nama": "iem",
         "saldo": 0
+      },
+      "6492861481": {
+        "banned": false,
+        "nama": "CIN",
+        "saldo": 0
       }
     },
     "chats": {
@@ -972,6 +977,9 @@
         "liststore": {}
       },
       "6584147890": {
+        "liststore": {}
+      },
+      "6492861481": {
         "liststore": {}
       }
     }
