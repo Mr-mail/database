@@ -66,6 +66,11 @@
         "nama": "Rixzyy",
         "saldo": 0
       },
+      "2083467309": {
+        "banned": false,
+        "nama": "dan",
+        "saldo": 0
+      },
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
@@ -615,6 +620,11 @@
         "banned": false,
         "nama": " asep",
         "saldo": 0
+      },
+      "5092071229": {
+        "banned": false,
+        "nama": "kevin",
+        "saldo": 0
       }
     },
     "chats": {
@@ -655,6 +665,9 @@
         "liststore": {}
       },
       "2069137342": {
+        "liststore": {}
+      },
+      "2083467309": {
         "liststore": {}
       },
       "8012846823": {
@@ -988,6 +1001,9 @@
         "liststore": {}
       },
       "7998960652": {
+        "liststore": {}
+      },
+      "5092071229": {
         "liststore": {}
       }
     }
