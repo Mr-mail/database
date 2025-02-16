@@ -770,6 +770,11 @@
         "banned": false,
         "nama": "nevew",
         "saldo": 0
+      },
+      "7565154481": {
+        "banned": false,
+        "nama": "warxz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1236,6 +1241,9 @@
         "liststore": {}
       },
       "5607759288": {
+        "liststore": {}
+      },
+      "7565154481": {
         "liststore": {}
       }
     }
