@@ -730,6 +730,26 @@
         "banned": false,
         "nama": "fakhrul",
         "saldo": 0
+      },
+      "5236386403": {
+        "banned": false,
+        "nama": "David",
+        "saldo": 8000
+      },
+      "7942844969": {
+        "banned": false,
+        "nama": "yuna",
+        "saldo": 0
+      },
+      "8063407120": {
+        "banned": false,
+        "nama": "ewe",
+        "saldo": 0
+      },
+      "7558084171": {
+        "banned": false,
+        "nama": "ikann",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1172,6 +1192,18 @@
         "liststore": {}
       },
       "6891772555": {
+        "liststore": {}
+      },
+      "5236386403": {
+        "liststore": {}
+      },
+      "7942844969": {
+        "liststore": {}
+      },
+      "8063407120": {
+        "liststore": {}
+      },
+      "7558084171": {
         "liststore": {}
       }
     }
