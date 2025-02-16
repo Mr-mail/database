@@ -760,6 +760,16 @@
         "banned": false,
         "nama": "diko",
         "saldo": 0
+      },
+      "6868110594": {
+        "banned": false,
+        "nama": "bibi",
+        "saldo": 0
+      },
+      "5607759288": {
+        "banned": false,
+        "nama": "nevew",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1220,6 +1230,12 @@
         "liststore": {}
       },
       "7975814462": {
+        "liststore": {}
+      },
+      "6868110594": {
+        "liststore": {}
+      },
+      "5607759288": {
         "liststore": {}
       }
     }
