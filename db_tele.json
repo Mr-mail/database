@@ -21,10 +21,20 @@
         "nama": "litha",
         "saldo": 0
       },
+      "1324205357": {
+        "banned": false,
+        "nama": "rama",
+        "saldo": 0
+      },
+      "1330656103": {
+        "banned": false,
+        "nama": "bucho",
+        "saldo": 2000
+      },
       "1397236504": {
         "banned": false,
         "nama": "ca",
-        "saldo": 5400
+        "saldo": 3480
       },
       "1495403758": {
         "banned": false,
@@ -74,7 +84,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 317625
+        "saldo": 280625
       },
       "7553188980": {
         "banned": false,
@@ -84,7 +94,7 @@
       "8147427693": {
         "banned": false,
         "nama": "DestaHost",
-        "saldo": 3888
+        "saldo": 1074
       },
       "6614638832": {
         "banned": false,
@@ -169,7 +179,7 @@
       "7684517225": {
         "banned": false,
         "nama": "sinz",
-        "saldo": 711
+        "saldo": 961
       },
       "6729233500": {
         "banned": false,
@@ -179,7 +189,7 @@
       "6631292027": {
         "banned": false,
         "nama": "Rg",
-        "saldo": 0
+        "saldo": 200
       },
       "5591213644": {
         "banned": false,
@@ -624,11 +634,101 @@
       "5092071229": {
         "banned": false,
         "nama": "kevin",
-        "saldo": 0
+        "saldo": 4000
       },
       "6865496806": {
         "banned": false,
+        "nama": "cuy",
+        "saldo": 0
+      },
+      "7506239981": {
+        "banned": false,
+        "nama": "sinz",
+        "saldo": 0
+      },
+      "5640414363": {
+        "banned": false,
+        "nama": "aryi",
+        "saldo": 0
+      },
+      "5461126225": {
+        "banned": false,
+        "nama": "rifki",
+        "saldo": 0
+      },
+      "6559225706": {
+        "banned": false,
+        "nama": "ndfnd",
+        "saldo": 0
+      },
+      "6721339496": {
+        "banned": false,
+        "nama": "Touka",
+        "saldo": 0
+      },
+      "7767664155": {
+        "banned": false,
+        "nama": "rexdetona",
+        "saldo": 0
+      },
+      "6352121610": {
+        "banned": false,
+        "nama": "Rioo",
+        "saldo": 2150
+      },
+      "6473812349": {
+        "banned": false,
+        "nama": "ikyy",
+        "saldo": 0
+      },
+      "7658657102": {
+        "banned": false,
+        "nama": "pp",
+        "saldo": 0
+      },
+      "7719251290": {
+        "banned": false,
+        "nama": "nax",
+        "saldo": 0
+      },
+      "6788458419": {
+        "banned": false,
+        "nama": "Irgi",
+        "saldo": 0
+      },
+      "6030296545": {
+        "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "6905898122": {
+        "banned": false,
+        "nama": "pepep",
+        "saldo": 0
+      },
+      "5093355914": {
+        "banned": false,
+        "nama": "brendi",
+        "saldo": 0
+      },
+      "7930138478": {
+        "banned": false,
+        "nama": "de4you",
+        "saldo": 0
+      },
+      "6206364825": {
+        "banned": false,
+        "nama": "junz",
+        "saldo": 0
+      },
+      "5391888239": {
+        "banned": false,
+        "nama": "pawas",
+        "saldo": 0
+      },
+      "6891772555": {
+        "banned": false,
+        "nama": "fakhrul",
         "saldo": 0
       }
     },
@@ -643,6 +743,12 @@
         "liststore": {}
       },
       "1317259674": {
+        "liststore": {}
+      },
+      "1324205357": {
+        "liststore": {}
+      },
+      "1330656103": {
         "liststore": {}
       },
       "1397236504": {
@@ -1012,6 +1118,60 @@
         "liststore": {}
       },
       "6865496806": {
+        "liststore": {}
+      },
+      "7506239981": {
+        "liststore": {}
+      },
+      "5640414363": {
+        "liststore": {}
+      },
+      "5461126225": {
+        "liststore": {}
+      },
+      "6559225706": {
+        "liststore": {}
+      },
+      "6721339496": {
+        "liststore": {}
+      },
+      "7767664155": {
+        "liststore": {}
+      },
+      "6352121610": {
+        "liststore": {}
+      },
+      "6473812349": {
+        "liststore": {}
+      },
+      "7658657102": {
+        "liststore": {}
+      },
+      "7719251290": {
+        "liststore": {}
+      },
+      "6788458419": {
+        "liststore": {}
+      },
+      "6030296545": {
+        "liststore": {}
+      },
+      "6905898122": {
+        "liststore": {}
+      },
+      "5093355914": {
+        "liststore": {}
+      },
+      "7930138478": {
+        "liststore": {}
+      },
+      "6206364825": {
+        "liststore": {}
+      },
+      "5391888239": {
+        "liststore": {}
+      },
+      "6891772555": {
         "liststore": {}
       }
     }
