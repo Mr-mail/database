@@ -529,7 +529,7 @@
       "7749513654": {
         "banned": false,
         "nama": "jeje",
-        "saldo": 2390
+        "saldo": 390
       },
       "7302370420": {
         "banned": false,
@@ -754,6 +754,11 @@
       "7366074025": {
         "banned": false,
         "nama": "Yori",
+        "saldo": 0
+      },
+      "7975814462": {
+        "banned": false,
+        "nama": "diko",
         "saldo": 0
       }
     },
@@ -1212,6 +1217,9 @@
         "liststore": {}
       },
       "7366074025": {
+        "liststore": {}
+      },
+      "7975814462": {
         "liststore": {}
       }
     }
