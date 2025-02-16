@@ -750,6 +750,11 @@
         "banned": false,
         "nama": "ikann",
         "saldo": 0
+      },
+      "7366074025": {
+        "banned": false,
+        "nama": "Yori",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1204,6 +1209,9 @@
         "liststore": {}
       },
       "7558084171": {
+        "liststore": {}
+      },
+      "7366074025": {
         "liststore": {}
       }
     }
