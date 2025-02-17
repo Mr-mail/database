@@ -36,6 +36,11 @@
         "nama": "bucho",
         "saldo": 2000
       },
+      "1338852829": {
+        "banned": false,
+        "nama": "almadun",
+        "saldo": 0
+      },
       "1397236504": {
         "banned": false,
         "nama": "ca",
@@ -820,6 +825,11 @@
         "banned": false,
         "nama": "bebek",
         "saldo": 0
+      },
+      "7596046755": {
+        "banned": false,
+        "nama": "Yanz18",
+        "saldo": 0
       }
     },
     "chats": {
@@ -842,6 +852,9 @@
         "liststore": {}
       },
       "1330656103": {
+        "liststore": {}
+      },
+      "1338852829": {
         "liststore": {}
       },
       "1397236504": {
@@ -1316,6 +1329,9 @@
         "liststore": {}
       },
       "5254873680": {
+        "liststore": {}
+      },
+      "7596046755": {
         "liststore": {}
       }
     }
