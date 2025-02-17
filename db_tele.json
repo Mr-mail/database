@@ -51,6 +51,11 @@
         "nama": "ca",
         "saldo": 1560
       },
+      "1431183063": {
+        "banned": false,
+        "nama": "dan",
+        "saldo": 0
+      },
       "1495403758": {
         "banned": false,
         "nama": "aba",
@@ -64,6 +69,11 @@
       "1872712293": {
         "banned": false,
         "nama": "xipulsa",
+        "saldo": 0
+      },
+      "1876710349": {
+        "banned": false,
+        "nama": "violence",
         "saldo": 0
       },
       "1903797644": {
@@ -840,6 +850,21 @@
         "banned": false,
         "nama": "ManMohamad",
         "saldo": 0
+      },
+      "7928414044": {
+        "banned": false,
+        "nama": "arcan",
+        "saldo": 0
+      },
+      "8147532741": {
+        "banned": false,
+        "nama": "Grzzzz",
+        "saldo": 0
+      },
+      "7554623747": {
+        "banned": false,
+        "nama": "Ruri",
+        "saldo": 0
       }
     },
     "chats": {
@@ -873,6 +898,9 @@
       "1397236504": {
         "liststore": {}
       },
+      "1431183063": {
+        "liststore": {}
+      },
       "1495403758": {
         "liststore": {}
       },
@@ -880,6 +908,9 @@
         "liststore": {}
       },
       "1872712293": {
+        "liststore": {}
+      },
+      "1876710349": {
         "liststore": {}
       },
       "1903797644": {
@@ -1348,6 +1379,15 @@
         "liststore": {}
       },
       "7441295201": {
+        "liststore": {}
+      },
+      "7928414044": {
+        "liststore": {}
+      },
+      "8147532741": {
+        "liststore": {}
+      },
+      "7554623747": {
         "liststore": {}
       }
     }
