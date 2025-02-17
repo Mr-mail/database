@@ -6,6 +6,11 @@
         "nama": "shah",
         "saldo": 0
       },
+      "939180509": {
+        "banned": false,
+        "nama": "Ordinary",
+        "saldo": 0
+      },
       "953397565": {
         "banned": false,
         "nama": "Rixzyy",
@@ -533,7 +538,7 @@
       },
       "7302370420": {
         "banned": false,
-        "nama": "Guest",
+        "nama": "panss",
         "saldo": 0
       },
       "5176789470": {
@@ -800,10 +805,23 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "5591270080": {
+        "banned": false,
+        "nama": "zill",
+        "saldo": 0
+      },
+      "6546091340": {
+        "banned": false,
+        "nama": "xyzick",
+        "saldo": 0
       }
     },
     "chats": {
       "913539406": {
+        "liststore": {}
+      },
+      "939180509": {
         "liststore": {}
       },
       "953397565": {
@@ -1284,6 +1302,12 @@
         "liststore": {}
       },
       "7361350058": {
+        "liststore": {}
+      },
+      "5591270080": {
+        "liststore": {}
+      },
+      "6546091340": {
         "liststore": {}
       }
     }
