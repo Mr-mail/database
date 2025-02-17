@@ -41,6 +41,11 @@
         "nama": "almadun",
         "saldo": 0
       },
+      "1342399887": {
+        "banned": false,
+        "nama": "Faykal",
+        "saldo": 0
+      },
       "1397236504": {
         "banned": false,
         "nama": "ca",
@@ -184,7 +189,7 @@
       "7141421535": {
         "banned": false,
         "nama": "raff",
-        "saldo": 6935
+        "saldo": 935
       },
       "7684517225": {
         "banned": false,
@@ -860,6 +865,9 @@
         "liststore": {}
       },
       "1338852829": {
+        "liststore": {}
+      },
+      "1342399887": {
         "liststore": {}
       },
       "1397236504": {
