@@ -86,6 +86,11 @@
         "nama": "Guest",
         "saldo": 0
       },
+      "2004577074": {
+        "banned": false,
+        "nama": "Fhrzz",
+        "saldo": 0
+      },
       "2024984460": {
         "banned": false,
         "nama": "Yasir",
@@ -885,6 +890,11 @@
         "banned": false,
         "nama": "rizky",
         "saldo": 0
+      },
+      "7206352771": {
+        "banned": false,
+        "nama": "kin",
+        "saldo": 0
       }
     },
     "chats": {
@@ -937,6 +947,9 @@
         "liststore": {}
       },
       "1959316791": {
+        "liststore": {}
+      },
+      "2004577074": {
         "liststore": {}
       },
       "2024984460": {
@@ -1420,6 +1433,9 @@
         "liststore": {}
       },
       "6115577297": {
+        "liststore": {}
+      },
+      "7206352771": {
         "liststore": {}
       }
     }
