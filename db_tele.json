@@ -785,6 +785,11 @@
         "banned": false,
         "nama": "febris",
         "saldo": 0
+      },
+      "7403054484": {
+        "banned": false,
+        "nama": "nishi",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1260,6 +1265,9 @@
         "liststore": {}
       },
       "5418400607": {
+        "liststore": {}
+      },
+      "7403054484": {
         "liststore": {}
       }
     }
