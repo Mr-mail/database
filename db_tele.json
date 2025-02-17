@@ -795,6 +795,11 @@
         "banned": false,
         "nama": "deni",
         "saldo": 0
+      },
+      "7361350058": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1276,6 +1281,9 @@
         "liststore": {}
       },
       "5587814058": {
+        "liststore": {}
+      },
+      "7361350058": {
         "liststore": {}
       }
     }
