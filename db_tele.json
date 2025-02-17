@@ -790,6 +790,11 @@
         "banned": false,
         "nama": "nishi",
         "saldo": 0
+      },
+      "5587814058": {
+        "banned": false,
+        "nama": "deni",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1268,6 +1273,9 @@
         "liststore": {}
       },
       "7403054484": {
+        "liststore": {}
+      },
+      "5587814058": {
         "liststore": {}
       }
     }
