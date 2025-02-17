@@ -880,6 +880,11 @@
         "banned": false,
         "nama": "djshop",
         "saldo": 0
+      },
+      "6115577297": {
+        "banned": false,
+        "nama": "rizky",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1412,6 +1417,9 @@
         "liststore": {}
       },
       "8012928241": {
+        "liststore": {}
+      },
+      "6115577297": {
         "liststore": {}
       }
     }
