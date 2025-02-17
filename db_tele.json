@@ -184,7 +184,7 @@
       "7141421535": {
         "banned": false,
         "nama": "raff",
-        "saldo": 280
+        "saldo": 6935
       },
       "7684517225": {
         "banned": false,
@@ -830,6 +830,11 @@
         "banned": false,
         "nama": "Yanz18",
         "saldo": 0
+      },
+      "7441295201": {
+        "banned": false,
+        "nama": "ManMohamad",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1332,6 +1337,9 @@
         "liststore": {}
       },
       "7596046755": {
+        "liststore": {}
+      },
+      "7441295201": {
         "liststore": {}
       }
     }
