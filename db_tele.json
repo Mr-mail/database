@@ -920,6 +920,16 @@
         "banned": false,
         "nama": "Kizho",
         "saldo": 0
+      },
+      "6660843660": {
+        "banned": false,
+        "nama": "sneepzyy",
+        "saldo": 0
+      },
+      "5431368079": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1476,6 +1486,12 @@
         "liststore": {}
       },
       "7465739067": {
+        "liststore": {}
+      },
+      "6660843660": {
+        "liststore": {}
+      },
+      "5431368079": {
         "liststore": {}
       }
     }
