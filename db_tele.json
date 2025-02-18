@@ -900,6 +900,26 @@
         "banned": false,
         "nama": "andre",
         "saldo": 0
+      },
+      "7492752334": {
+        "banned": false,
+        "nama": "ss",
+        "saldo": 0
+      },
+      "7412906249": {
+        "banned": false,
+        "nama": "edo",
+        "saldo": 0
+      },
+      "5888825822": {
+        "banned": false,
+        "nama": "dipp",
+        "saldo": 0
+      },
+      "7465739067": {
+        "banned": false,
+        "nama": "Kizho",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1444,6 +1464,18 @@
         "liststore": {}
       },
       "6738842091": {
+        "liststore": {}
+      },
+      "7492752334": {
+        "liststore": {}
+      },
+      "7412906249": {
+        "liststore": {}
+      },
+      "5888825822": {
+        "liststore": {}
+      },
+      "7465739067": {
         "liststore": {}
       }
     }
