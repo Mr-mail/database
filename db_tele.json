@@ -46,6 +46,11 @@
         "nama": "Faykal",
         "saldo": 0
       },
+      "1379993668": {
+        "banned": false,
+        "nama": "Bagas",
+        "saldo": 0
+      },
       "1397236504": {
         "banned": false,
         "nama": "ca",
@@ -114,7 +119,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 266927
+        "saldo": 261582
       },
       "7553188980": {
         "banned": false,
@@ -1008,6 +1013,9 @@
         "liststore": {}
       },
       "1342399887": {
+        "liststore": {}
+      },
+      "1379993668": {
         "liststore": {}
       },
       "1397236504": {
