@@ -950,6 +950,36 @@
         "banned": false,
         "nama": "fixxy",
         "saldo": 0
+      },
+      "6645254955": {
+        "banned": false,
+        "nama": "kouki",
+        "saldo": 0
+      },
+      "8186025496": {
+        "banned": false,
+        "nama": "kuwua",
+        "saldo": 0
+      },
+      "5993743128": {
+        "banned": false,
+        "nama": "nuel",
+        "saldo": 1724
+      },
+      "6900737970": {
+        "banned": false,
+        "nama": "aldixyz",
+        "saldo": 0
+      },
+      "7544918092": {
+        "banned": false,
+        "nama": "Donzz",
+        "saldo": 0
+      },
+      "5988643688": {
+        "banned": false,
+        "nama": "Wildan",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1524,6 +1554,24 @@
         "liststore": {}
       },
       "7507185532": {
+        "liststore": {}
+      },
+      "6645254955": {
+        "liststore": {}
+      },
+      "8186025496": {
+        "liststore": {}
+      },
+      "5993743128": {
+        "liststore": {}
+      },
+      "6900737970": {
+        "liststore": {}
+      },
+      "7544918092": {
+        "liststore": {}
+      },
+      "5988643688": {
         "liststore": {}
       }
     }
