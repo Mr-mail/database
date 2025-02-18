@@ -940,6 +940,11 @@
         "banned": false,
         "nama": "yan",
         "saldo": 0
+      },
+      "7708235966": {
+        "banned": false,
+        "nama": "fianz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1508,6 +1513,9 @@
         "liststore": {}
       },
       "7830903520": {
+        "liststore": {}
+      },
+      "7708235966": {
         "liststore": {}
       }
     }
