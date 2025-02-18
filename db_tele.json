@@ -930,6 +930,16 @@
         "banned": false,
         "nama": "zayn",
         "saldo": 0
+      },
+      "5359918369": {
+        "banned": false,
+        "nama": "Farel",
+        "saldo": 0
+      },
+      "7830903520": {
+        "banned": false,
+        "nama": "yan",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1492,6 +1502,12 @@
         "liststore": {}
       },
       "5431368079": {
+        "liststore": {}
+      },
+      "5359918369": {
+        "liststore": {}
+      },
+      "7830903520": {
         "liststore": {}
       }
     }
