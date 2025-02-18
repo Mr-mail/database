@@ -895,6 +895,11 @@
         "banned": false,
         "nama": "kin",
         "saldo": 0
+      },
+      "6738842091": {
+        "banned": false,
+        "nama": "andre",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1436,6 +1441,9 @@
         "liststore": {}
       },
       "7206352771": {
+        "liststore": {}
+      },
+      "6738842091": {
         "liststore": {}
       }
     }
