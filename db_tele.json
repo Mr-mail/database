@@ -1000,6 +1000,16 @@
         "banned": false,
         "nama": "pustaka",
         "saldo": 0
+      },
+      "5567896798": {
+        "banned": false,
+        "nama": "khalid",
+        "saldo": 0
+      },
+      "7694132294": {
+        "banned": false,
+        "nama": "wildan",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1604,6 +1614,12 @@
         "liststore": {}
       },
       "6165036087": {
+        "liststore": {}
+      },
+      "5567896798": {
+        "liststore": {}
+      },
+      "7694132294": {
         "liststore": {}
       }
     }
