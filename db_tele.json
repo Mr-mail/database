@@ -79,7 +79,7 @@
       "1876710349": {
         "banned": false,
         "nama": "violence",
-        "saldo": 0
+        "saldo": 5200
       },
       "1903797644": {
         "banned": false,
@@ -985,6 +985,16 @@
         "banned": false,
         "nama": "Wildan",
         "saldo": 440
+      },
+      "7522640469": {
+        "banned": false,
+        "nama": "kikokiko",
+        "saldo": 0
+      },
+      "7769908283": {
+        "banned": false,
+        "nama": "nanzz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1580,6 +1590,12 @@
         "liststore": {}
       },
       "5988643688": {
+        "liststore": {}
+      },
+      "7522640469": {
+        "liststore": {}
+      },
+      "7769908283": {
         "liststore": {}
       }
     }
