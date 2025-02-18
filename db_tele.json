@@ -945,6 +945,11 @@
         "banned": false,
         "nama": "fianz",
         "saldo": 0
+      },
+      "7507185532": {
+        "banned": false,
+        "nama": "fixxy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1516,6 +1521,9 @@
         "liststore": {}
       },
       "7708235966": {
+        "liststore": {}
+      },
+      "7507185532": {
         "liststore": {}
       }
     }
