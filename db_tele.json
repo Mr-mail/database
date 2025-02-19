@@ -129,7 +129,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 52750
+        "saldo": 41189
       },
       "7553188980": {
         "banned": false,
@@ -1080,6 +1080,16 @@
         "banned": false,
         "nama": "kai",
         "saldo": 0
+      },
+      "7247521168": {
+        "banned": false,
+        "nama": "hm",
+        "saldo": 0
+      },
+      "5532952501": {
+        "banned": false,
+        "nama": "Mizzquen",
+        "saldo": 7000
       }
     },
     "chats": {
@@ -1732,6 +1742,12 @@
         "liststore": {}
       },
       "6355071181": {
+        "liststore": {}
+      },
+      "7247521168": {
+        "liststore": {}
+      },
+      "5532952501": {
         "liststore": {}
       }
     }
