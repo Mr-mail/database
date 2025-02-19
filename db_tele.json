@@ -1105,6 +1105,16 @@
         "banned": false,
         "nama": "guntur",
         "saldo": 0
+      },
+      "7005474518": {
+        "banned": false,
+        "nama": "Adul",
+        "saldo": 0
+      },
+      "7609960074": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1772,6 +1782,12 @@
         "liststore": {}
       },
       "7581742026": {
+        "liststore": {}
+      },
+      "7005474518": {
+        "liststore": {}
+      },
+      "7609960074": {
         "liststore": {}
       }
     }
