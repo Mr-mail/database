@@ -1055,6 +1055,16 @@
         "banned": false,
         "nama": "iqbal",
         "saldo": 0
+      },
+      "7428925321": {
+        "banned": false,
+        "nama": "rhmt",
+        "saldo": 0
+      },
+      "6411649819": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1692,6 +1702,12 @@
         "liststore": {}
       },
       "7437930292": {
+        "liststore": {}
+      },
+      "7428925321": {
+        "liststore": {}
+      },
+      "6411649819": {
         "liststore": {}
       }
     }
