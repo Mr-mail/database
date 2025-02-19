@@ -1020,6 +1020,16 @@
         "banned": false,
         "nama": "lordzx",
         "saldo": 0
+      },
+      "7477973364": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "7635071107": {
+        "banned": false,
+        "nama": "panzx",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1636,6 +1646,12 @@
         "liststore": {}
       },
       "7049380939": {
+        "liststore": {}
+      },
+      "7477973364": {
+        "liststore": {}
+      },
+      "7635071107": {
         "liststore": {}
       }
     }
