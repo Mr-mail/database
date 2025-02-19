@@ -9,7 +9,7 @@
       "939180509": {
         "banned": false,
         "nama": "Ordinary",
-        "saldo": 0
+        "saldo": 686
       },
       "953397565": {
         "banned": false,
@@ -1030,6 +1030,11 @@
         "banned": false,
         "nama": "panzx",
         "saldo": 0
+      },
+      "7012072338": {
+        "banned": false,
+        "nama": "zulfa",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1652,6 +1657,9 @@
         "liststore": {}
       },
       "7635071107": {
+        "liststore": {}
+      },
+      "7012072338": {
         "liststore": {}
       }
     }
