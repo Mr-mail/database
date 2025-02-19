@@ -1089,7 +1089,17 @@
       "5532952501": {
         "banned": false,
         "nama": "Mizzquen",
-        "saldo": 7000
+        "saldo": 1410
+      },
+      "7568615881": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "6432482512": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1748,6 +1758,12 @@
         "liststore": {}
       },
       "5532952501": {
+        "liststore": {}
+      },
+      "7568615881": {
+        "liststore": {}
+      },
+      "6432482512": {
         "liststore": {}
       }
     }
