@@ -1040,6 +1040,11 @@
         "banned": false,
         "nama": "zulfa",
         "saldo": 0
+      },
+      "7711317360": {
+        "banned": false,
+        "nama": "piikz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1668,6 +1673,9 @@
         "liststore": {}
       },
       "7012072338": {
+        "liststore": {}
+      },
+      "7711317360": {
         "liststore": {}
       }
     }
