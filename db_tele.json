@@ -59,7 +59,7 @@
       "1397236504": {
         "banned": false,
         "nama": "ca",
-        "saldo": 1560
+        "saldo": 5201
       },
       "1431183063": {
         "banned": false,
@@ -1045,6 +1045,11 @@
         "banned": false,
         "nama": "piikz",
         "saldo": 0
+      },
+      "6227786863": {
+        "banned": false,
+        "nama": "s",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1676,6 +1681,9 @@
         "liststore": {}
       },
       "7711317360": {
+        "liststore": {}
+      },
+      "6227786863": {
         "liststore": {}
       }
     }
