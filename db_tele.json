@@ -1010,6 +1010,16 @@
         "banned": false,
         "nama": "wildan",
         "saldo": 0
+      },
+      "6196878623": {
+        "banned": false,
+        "nama": "Rafaczx",
+        "saldo": 0
+      },
+      "7049380939": {
+        "banned": false,
+        "nama": "lordzx",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1620,6 +1630,12 @@
         "liststore": {}
       },
       "7694132294": {
+        "liststore": {}
+      },
+      "6196878623": {
+        "liststore": {}
+      },
+      "7049380939": {
         "liststore": {}
       }
     }
