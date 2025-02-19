@@ -1,6 +1,11 @@
 {
   "data": {
     "users": {
+      "595092077": {
+        "banned": false,
+        "nama": "trimaberes",
+        "saldo": 0
+      },
       "913539406": {
         "banned": false,
         "nama": "shah",
@@ -119,7 +124,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 247524
+        "saldo": 163334
       },
       "7553188980": {
         "banned": false,
@@ -1038,6 +1043,9 @@
       }
     },
     "chats": {
+      "595092077": {
+        "liststore": {}
+      },
       "913539406": {
         "liststore": {}
       },
