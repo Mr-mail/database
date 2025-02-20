@@ -1135,6 +1135,11 @@
         "banned": false,
         "nama": "jumardin",
         "saldo": 0
+      },
+      "5652591036": {
+        "banned": false,
+        "nama": "o",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1820,6 +1825,9 @@
         "liststore": {}
       },
       "6830762272": {
+        "liststore": {}
+      },
+      "5652591036": {
         "liststore": {}
       }
     }
