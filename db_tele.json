@@ -1140,6 +1140,11 @@
         "banned": false,
         "nama": "o",
         "saldo": 0
+      },
+      "6625153230": {
+        "banned": false,
+        "nama": "Frank",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1828,6 +1833,9 @@
         "liststore": {}
       },
       "5652591036": {
+        "liststore": {}
+      },
+      "6625153230": {
         "liststore": {}
       }
     }
