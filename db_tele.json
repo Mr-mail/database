@@ -116,6 +116,11 @@
         "nama": "Stevano",
         "saldo": 0
       },
+      "2048153401": {
+        "banned": false,
+        "nama": "Bombom",
+        "saldo": 0
+      },
       "2069137342": {
         "banned": false,
         "nama": "Rixzyy",
@@ -1185,6 +1190,9 @@
         "liststore": {}
       },
       "2046197696": {
+        "liststore": {}
+      },
+      "2048153401": {
         "liststore": {}
       },
       "2069137342": {
