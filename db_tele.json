@@ -229,7 +229,7 @@
       "7141421535": {
         "banned": false,
         "nama": "raff",
-        "saldo": 139
+        "saldo": 317
       },
       "7684517225": {
         "banned": false,
@@ -1155,6 +1155,21 @@
         "banned": false,
         "nama": "nabawi",
         "saldo": 0
+      },
+      "6176312135": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "7600822681": {
+        "banned": false,
+        "nama": "Rizz",
+        "saldo": 0
+      },
+      "7250791942": {
+        "banned": false,
+        "nama": "Yuma Keei",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1852,6 +1867,15 @@
         "liststore": {}
       },
       "7167051316": {
+        "liststore": {}
+      },
+      "6176312135": {
+        "liststore": {}
+      },
+      "7600822681": {
+        "liststore": {}
+      },
+      "7250791942": {
         "liststore": {}
       }
     }
