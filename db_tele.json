@@ -26,6 +26,11 @@
         "nama": "Rixzyy",
         "saldo": 0
       },
+      "982351292": {
+        "banned": false,
+        "nama": "adrian",
+        "saldo": 0
+      },
       "1271500748": {
         "banned": false,
         "nama": "elvozin",
@@ -134,7 +139,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 41189
+        "saldo": 24229
       },
       "7553188980": {
         "banned": false,
@@ -704,7 +709,7 @@
       "5461126225": {
         "banned": false,
         "nama": "rifki",
-        "saldo": 10000
+        "saldo": 0
       },
       "6559225706": {
         "banned": false,
@@ -1136,6 +1141,9 @@
         "liststore": {}
       },
       "953397565": {
+        "liststore": {}
+      },
+      "982351292": {
         "liststore": {}
       },
       "1271500748": {
