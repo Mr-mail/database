@@ -1129,7 +1129,7 @@
       "7609960074": {
         "banned": false,
         "nama": "Richatd",
-        "saldo": 0
+        "saldo": 42542
       },
       "5325811621": {
         "banned": false,
@@ -1194,6 +1194,11 @@
       "6378998283": {
         "banned": false,
         "nama": "nazy",
+        "saldo": 0
+      },
+      "6912943418": {
+        "banned": false,
+        "nama": "de4you",
         "saldo": 0
       }
     },
@@ -1916,6 +1921,9 @@
         "liststore": {}
       },
       "6378998283": {
+        "liststore": {}
+      },
+      "6912943418": {
         "liststore": {}
       }
     }
