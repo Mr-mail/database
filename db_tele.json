@@ -229,7 +229,7 @@
       "7141421535": {
         "banned": false,
         "nama": "raff",
-        "saldo": 935
+        "saldo": 139
       },
       "7684517225": {
         "banned": false,
@@ -1149,6 +1149,11 @@
       "5708464442": {
         "banned": false,
         "nama": "kuyyy",
+        "saldo": 3080
+      },
+      "7167051316": {
+        "banned": false,
+        "nama": "nabawi",
         "saldo": 0
       }
     },
@@ -1844,6 +1849,9 @@
         "liststore": {}
       },
       "5708464442": {
+        "liststore": {}
+      },
+      "7167051316": {
         "liststore": {}
       }
     }
