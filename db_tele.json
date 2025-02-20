@@ -1145,6 +1145,11 @@
         "banned": false,
         "nama": "Frank",
         "saldo": 0
+      },
+      "5708464442": {
+        "banned": false,
+        "nama": "kuyyy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1836,6 +1841,9 @@
         "liststore": {}
       },
       "6625153230": {
+        "liststore": {}
+      },
+      "5708464442": {
         "liststore": {}
       }
     }
