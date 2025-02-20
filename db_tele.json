@@ -1170,6 +1170,26 @@
         "banned": false,
         "nama": "Yuma Keei",
         "saldo": 0
+      },
+      "5734452103": {
+        "banned": false,
+        "nama": "hann",
+        "saldo": 0
+      },
+      "7706611289": {
+        "banned": false,
+        "nama": "Ra",
+        "saldo": 0
+      },
+      "6914699711": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "6378998283": {
+        "banned": false,
+        "nama": "nazy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1876,6 +1896,18 @@
         "liststore": {}
       },
       "7250791942": {
+        "liststore": {}
+      },
+      "5734452103": {
+        "liststore": {}
+      },
+      "7706611289": {
+        "liststore": {}
+      },
+      "6914699711": {
+        "liststore": {}
+      },
+      "6378998283": {
         "liststore": {}
       }
     }
