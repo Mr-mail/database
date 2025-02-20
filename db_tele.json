@@ -11,6 +11,11 @@
         "nama": "ridho",
         "saldo": 0
       },
+      "810798966": {
+        "banned": false,
+        "nama": "ican",
+        "saldo": 0
+      },
       "913539406": {
         "banned": false,
         "nama": "shah",
@@ -1129,7 +1134,7 @@
       "7609960074": {
         "banned": false,
         "nama": "Richatd",
-        "saldo": 42542
+        "saldo": 11484
       },
       "5325811621": {
         "banned": false,
@@ -1207,6 +1212,9 @@
         "liststore": {}
       },
       "804798806": {
+        "liststore": {}
+      },
+      "810798966": {
         "liststore": {}
       },
       "913539406": {
