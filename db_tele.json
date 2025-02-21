@@ -1280,6 +1280,11 @@
         "banned": false,
         "nama": "ymine",
         "saldo": 0
+      },
+      "7995155231": {
+        "banned": false,
+        "nama": "Ryan",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2052,6 +2057,9 @@
         "liststore": {}
       },
       "6323416445": {
+        "liststore": {}
+      },
+      "7995155231": {
         "liststore": {}
       }
     }
