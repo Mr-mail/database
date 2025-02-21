@@ -91,6 +91,11 @@
         "nama": "zoro",
         "saldo": 0
       },
+      "1863833934": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
       "1872712293": {
         "banned": false,
         "nama": "xipulsa",
@@ -494,7 +499,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 148
+        "saldo": 15148
       },
       "5688877828": {
         "banned": false,
@@ -1235,6 +1240,21 @@
         "banned": false,
         "nama": "Hasan",
         "saldo": 0
+      },
+      "8168928954": {
+        "banned": false,
+        "nama": "jemboet",
+        "saldo": 0
+      },
+      "6234839763": {
+        "banned": false,
+        "nama": "adit",
+        "saldo": 0
+      },
+      "8199420865": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1290,6 +1310,9 @@
         "liststore": {}
       },
       "1815165381": {
+        "liststore": {}
+      },
+      "1863833934": {
         "liststore": {}
       },
       "1872712293": {
@@ -1980,6 +2003,15 @@
         "liststore": {}
       },
       "5525907539": {
+        "liststore": {}
+      },
+      "8168928954": {
+        "liststore": {}
+      },
+      "6234839763": {
+        "liststore": {}
+      },
+      "8199420865": {
         "liststore": {}
       }
     }
