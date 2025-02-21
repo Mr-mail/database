@@ -1290,6 +1290,11 @@
         "banned": false,
         "nama": "dilxz",
         "saldo": 0
+      },
+      "7611183043": {
+        "banned": false,
+        "nama": "prill",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2068,6 +2073,9 @@
         "liststore": {}
       },
       "7564477303": {
+        "liststore": {}
+      },
+      "7611183043": {
         "liststore": {}
       }
     }
