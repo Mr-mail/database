@@ -1220,6 +1220,11 @@
         "banned": false,
         "nama": "tedi",
         "saldo": 0
+      },
+      "6606960641": {
+        "banned": false,
+        "nama": "aprico",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1956,6 +1961,9 @@
         "liststore": {}
       },
       "8088489127": {
+        "liststore": {}
+      },
+      "6606960641": {
         "liststore": {}
       }
     }
