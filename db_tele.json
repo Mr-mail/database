@@ -1230,6 +1230,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "5525907539": {
+        "banned": false,
+        "nama": "Hasan",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1972,6 +1977,9 @@
         "liststore": {}
       },
       "7137560148": {
+        "liststore": {}
+      },
+      "5525907539": {
         "liststore": {}
       }
     }
