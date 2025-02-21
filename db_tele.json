@@ -66,6 +66,11 @@
         "nama": "Faykal",
         "saldo": 0
       },
+      "1378403620": {
+        "banned": false,
+        "nama": "shu",
+        "saldo": 0
+      },
       "1379993668": {
         "banned": false,
         "nama": "Bagas",
@@ -1258,7 +1263,7 @@
       },
       "7118922761": {
         "banned": false,
-        "nama": "Guest",
+        "nama": "Yanz18",
         "saldo": 0
       }
     },
@@ -1300,6 +1305,9 @@
         "liststore": {}
       },
       "1342399887": {
+        "liststore": {}
+      },
+      "1378403620": {
         "liststore": {}
       },
       "1379993668": {
