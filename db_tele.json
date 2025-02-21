@@ -1285,6 +1285,11 @@
         "banned": false,
         "nama": "Ryan",
         "saldo": 0
+      },
+      "7564477303": {
+        "banned": false,
+        "nama": "dilxz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2060,6 +2065,9 @@
         "liststore": {}
       },
       "7995155231": {
+        "liststore": {}
+      },
+      "7564477303": {
         "liststore": {}
       }
     }
