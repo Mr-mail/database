@@ -494,7 +494,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 310
+        "saldo": 1015
       },
       "5688877828": {
         "banned": false,
@@ -1209,6 +1209,11 @@
       "7683495436": {
         "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "7594063428": {
+        "banned": false,
+        "nama": "Zaky",
         "saldo": 0
       }
     },
@@ -1940,6 +1945,9 @@
         "liststore": {}
       },
       "7683495436": {
+        "liststore": {}
+      },
+      "7594063428": {
         "liststore": {}
       }
     }
