@@ -1064,7 +1064,7 @@
       "7049380939": {
         "banned": false,
         "nama": "lordzx",
-        "saldo": 0
+        "saldo": 2000
       },
       "7477973364": {
         "banned": false,
@@ -1314,6 +1314,16 @@
       "7081435476": {
         "banned": false,
         "nama": "aldroid",
+        "saldo": 0
+      },
+      "7778384734": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "5261731638": {
+        "banned": false,
+        "nama": "ramnt",
         "saldo": 0
       }
     },
@@ -2108,6 +2118,12 @@
         "liststore": {}
       },
       "7081435476": {
+        "liststore": {}
+      },
+      "7778384734": {
+        "liststore": {}
+      },
+      "5261731638": {
         "liststore": {}
       }
     }
