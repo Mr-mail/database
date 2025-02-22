@@ -1168,7 +1168,7 @@
       },
       "6625153230": {
         "banned": false,
-        "nama": "Frank",
+        "nama": "frank",
         "saldo": 0
       },
       "5708464442": {
@@ -1309,6 +1309,11 @@
       "7350702044": {
         "banned": false,
         "nama": "Radjz",
+        "saldo": 0
+      },
+      "7081435476": {
+        "banned": false,
+        "nama": "aldroid",
         "saldo": 0
       }
     },
@@ -2100,6 +2105,9 @@
         "liststore": {}
       },
       "7350702044": {
+        "liststore": {}
+      },
+      "7081435476": {
         "liststore": {}
       }
     }
