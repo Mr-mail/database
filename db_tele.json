@@ -66,6 +66,11 @@
         "nama": "Faykal",
         "saldo": 0
       },
+      "1362680990": {
+        "banned": false,
+        "nama": "minz",
+        "saldo": 0
+      },
       "1378403620": {
         "banned": false,
         "nama": "shu",
@@ -1300,6 +1305,11 @@
         "banned": false,
         "nama": " amat",
         "saldo": 0
+      },
+      "7350702044": {
+        "banned": false,
+        "nama": "Radjz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1340,6 +1350,9 @@
         "liststore": {}
       },
       "1342399887": {
+        "liststore": {}
+      },
+      "1362680990": {
         "liststore": {}
       },
       "1378403620": {
@@ -2084,6 +2097,9 @@
         "liststore": {}
       },
       "7466493796": {
+        "liststore": {}
+      },
+      "7350702044": {
         "liststore": {}
       }
     }
