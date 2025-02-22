@@ -1325,6 +1325,11 @@
         "banned": false,
         "nama": "ramnt",
         "saldo": 0
+      },
+      "6723265327": {
+        "banned": false,
+        "nama": "ramz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2124,6 +2129,9 @@
         "liststore": {}
       },
       "5261731638": {
+        "liststore": {}
+      },
+      "6723265327": {
         "liststore": {}
       }
     }
