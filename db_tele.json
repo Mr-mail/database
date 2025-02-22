@@ -1295,6 +1295,11 @@
         "banned": false,
         "nama": "prill",
         "saldo": 0
+      },
+      "7466493796": {
+        "banned": false,
+        "nama": " amat",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2076,6 +2081,9 @@
         "liststore": {}
       },
       "7611183043": {
+        "liststore": {}
+      },
+      "7466493796": {
         "liststore": {}
       }
     }
