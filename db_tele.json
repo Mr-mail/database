@@ -167,7 +167,7 @@
         "saldo": 392339
       },
       "7553188980": {
-        "banned": false,
+        "banned": true,
         "nama": "Saya",
         "saldo": 200
       },
@@ -1330,6 +1330,11 @@
         "banned": false,
         "nama": "ramz",
         "saldo": 0
+      },
+      "7391424294": {
+        "banned": false,
+        "nama": "ardi tsky",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2132,6 +2137,9 @@
         "liststore": {}
       },
       "6723265327": {
+        "liststore": {}
+      },
+      "7391424294": {
         "liststore": {}
       }
     }
