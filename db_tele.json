@@ -171,10 +171,15 @@
         "nama": "dan",
         "saldo": 0
       },
+      "2084123337": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 356189
+        "saldo": 346377
       },
       "7553188980": {
         "banned": true,
@@ -1488,6 +1493,9 @@
         "liststore": {}
       },
       "2083467309": {
+        "liststore": {}
+      },
+      "2084123337": {
         "liststore": {}
       },
       "8012846823": {
