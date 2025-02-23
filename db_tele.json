@@ -1069,7 +1069,7 @@
       "7049380939": {
         "banned": false,
         "nama": "lordzx",
-        "saldo": 2000
+        "saldo": 590
       },
       "7477973364": {
         "banned": false,
@@ -1354,6 +1354,16 @@
       "6523456683": {
         "banned": false,
         "nama": "gen",
+        "saldo": 0
+      },
+      "6888809295": {
+        "banned": false,
+        "nama": "aini",
+        "saldo": 0
+      },
+      "7986214914": {
+        "banned": false,
+        "nama": "asu malaka",
         "saldo": 0
       }
     },
@@ -2172,6 +2182,12 @@
         "liststore": {}
       },
       "6523456683": {
+        "liststore": {}
+      },
+      "6888809295": {
+        "liststore": {}
+      },
+      "7986214914": {
         "liststore": {}
       }
     }
