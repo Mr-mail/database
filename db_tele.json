@@ -494,7 +494,7 @@
       "5652877689": {
         "banned": false,
         "nama": "Rixzzy",
-        "saldo": 0
+        "saldo": 6834
       },
       "6465634286": {
         "banned": false,
@@ -519,7 +519,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 4070
+        "saldo": 1017
       },
       "5688877828": {
         "banned": false,
@@ -1380,6 +1380,11 @@
         "banned": false,
         "nama": "ary",
         "saldo": 0
+      },
+      "7407440121": {
+        "banned": false,
+        "nama": "nath",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2212,6 +2217,9 @@
         "liststore": {}
       },
       "7575311208": {
+        "liststore": {}
+      },
+      "7407440121": {
         "liststore": {}
       }
     }
