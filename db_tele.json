@@ -141,6 +141,11 @@
         "nama": "rachel",
         "saldo": 6137
       },
+      "1927764453": {
+        "banned": false,
+        "nama": "izi",
+        "saldo": 0
+      },
       "1959316791": {
         "banned": false,
         "nama": "Guest",
@@ -1435,6 +1440,11 @@
         "banned": false,
         "nama": "zoyy",
         "saldo": 0
+      },
+      "5374260137": {
+        "banned": false,
+        "nama": "Rixzyy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1520,6 +1530,9 @@
         "liststore": {}
       },
       "1915189098": {
+        "liststore": {}
+      },
+      "1927764453": {
         "liststore": {}
       },
       "1959316791": {
@@ -2300,6 +2313,9 @@
         "liststore": {}
       },
       "6297346020": {
+        "liststore": {}
+      },
+      "5374260137": {
         "liststore": {}
       }
     }
