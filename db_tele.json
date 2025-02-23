@@ -1365,6 +1365,11 @@
         "banned": false,
         "nama": "asu malaka",
         "saldo": 0
+      },
+      "7794076524": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2188,6 +2193,9 @@
         "liststore": {}
       },
       "7986214914": {
+        "liststore": {}
+      },
+      "7794076524": {
         "liststore": {}
       }
     }
