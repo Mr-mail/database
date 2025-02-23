@@ -6,6 +6,11 @@
         "nama": "trimaberes",
         "saldo": 0
       },
+      "648514594": {
+        "banned": false,
+        "nama": "amboirik",
+        "saldo": 726
+      },
       "656810755": {
         "banned": false,
         "nama": "Rex",
@@ -1410,10 +1415,18 @@
         "banned": false,
         "nama": "azii",
         "saldo": 0
+      },
+      "5684411351": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
       "595092077": {
+        "liststore": {}
+      },
+      "648514594": {
         "liststore": {}
       },
       "656810755": {
@@ -2260,6 +2273,9 @@
         "liststore": {}
       },
       "6715865291": {
+        "liststore": {}
+      },
+      "5684411351": {
         "liststore": {}
       }
     }
