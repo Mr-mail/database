@@ -1425,6 +1425,16 @@
         "banned": false,
         "nama": "Mannx",
         "saldo": 0
+      },
+      "8148623445": {
+        "banned": false,
+        "nama": "ryu",
+        "saldo": 0
+      },
+      "6297346020": {
+        "banned": false,
+        "nama": "zoyy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2284,6 +2294,12 @@
         "liststore": {}
       },
       "6069020470": {
+        "liststore": {}
+      },
+      "8148623445": {
+        "liststore": {}
+      },
+      "6297346020": {
         "liststore": {}
       }
     }
