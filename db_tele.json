@@ -96,6 +96,11 @@
         "nama": "aba",
         "saldo": 0
       },
+      "1702340032": {
+        "banned": false,
+        "nama": "meki",
+        "saldo": 0
+      },
       "1815165381": {
         "banned": false,
         "nama": "zoro",
@@ -1340,6 +1345,16 @@
         "banned": false,
         "nama": "Yanz",
         "saldo": 0
+      },
+      "7143032702": {
+        "banned": false,
+        "nama": "makli",
+        "saldo": 0
+      },
+      "6523456683": {
+        "banned": false,
+        "nama": "gen",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1398,6 +1413,9 @@
         "liststore": {}
       },
       "1495403758": {
+        "liststore": {}
+      },
+      "1702340032": {
         "liststore": {}
       },
       "1815165381": {
@@ -2148,6 +2166,12 @@
         "liststore": {}
       },
       "7432909839": {
+        "liststore": {}
+      },
+      "7143032702": {
+        "liststore": {}
+      },
+      "6523456683": {
         "liststore": {}
       }
     }
