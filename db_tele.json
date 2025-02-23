@@ -414,7 +414,7 @@
       "7632989254": {
         "banned": false,
         "nama": "annzx",
-        "saldo": 0
+        "saldo": 592
       },
       "7087222825": {
         "banned": false,
@@ -1063,7 +1063,7 @@
       },
       "5567896798": {
         "banned": false,
-        "nama": "khalid",
+        "nama": "khaliddafa",
         "saldo": 0
       },
       "7694132294": {
@@ -1164,7 +1164,7 @@
       "7609960074": {
         "banned": false,
         "nama": "Richatd",
-        "saldo": 1446
+        "saldo": 41634
       },
       "5325811621": {
         "banned": false,
@@ -1404,6 +1404,11 @@
       "7839416405": {
         "banned": false,
         "nama": "Hilmi",
+        "saldo": 0
+      },
+      "6715865291": {
+        "banned": false,
+        "nama": "azii",
         "saldo": 0
       }
     },
@@ -2252,6 +2257,9 @@
         "liststore": {}
       },
       "7839416405": {
+        "liststore": {}
+      },
+      "6715865291": {
         "liststore": {}
       }
     }
