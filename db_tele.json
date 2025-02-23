@@ -1169,7 +1169,7 @@
       "7609960074": {
         "banned": false,
         "nama": "Richatd",
-        "saldo": 41634
+        "saldo": 15208
       },
       "5325811621": {
         "banned": false,
@@ -1419,6 +1419,11 @@
       "5684411351": {
         "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "6069020470": {
+        "banned": false,
+        "nama": "Mannx",
         "saldo": 0
       }
     },
@@ -2276,6 +2281,9 @@
         "liststore": {}
       },
       "5684411351": {
+        "liststore": {}
+      },
+      "6069020470": {
         "liststore": {}
       }
     }
