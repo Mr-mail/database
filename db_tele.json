@@ -6,6 +6,11 @@
         "nama": "trimaberes",
         "saldo": 0
       },
+      "656810755": {
+        "banned": false,
+        "nama": "Rex",
+        "saldo": 0
+      },
       "804798806": {
         "banned": false,
         "nama": "ridho",
@@ -1370,10 +1375,18 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "7575311208": {
+        "banned": false,
+        "nama": "ary",
+        "saldo": 0
       }
     },
     "chats": {
       "595092077": {
+        "liststore": {}
+      },
+      "656810755": {
         "liststore": {}
       },
       "804798806": {
@@ -2196,6 +2209,9 @@
         "liststore": {}
       },
       "7794076524": {
+        "liststore": {}
+      },
+      "7575311208": {
         "liststore": {}
       }
     }
