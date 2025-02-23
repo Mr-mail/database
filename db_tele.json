@@ -1400,6 +1400,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "7839416405": {
+        "banned": false,
+        "nama": "Hilmi",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2244,6 +2249,9 @@
         "liststore": {}
       },
       "5627032301": {
+        "liststore": {}
+      },
+      "7839416405": {
         "liststore": {}
       }
     }
