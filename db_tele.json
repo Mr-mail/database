@@ -96,6 +96,11 @@
         "nama": "ca",
         "saldo": 3842
       },
+      "1419140953": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
       "1431183063": {
         "banned": false,
         "nama": "dan",
@@ -1448,7 +1453,32 @@
       },
       "7251003308": {
         "banned": false,
+        "nama": "adazz",
+        "saldo": 0
+      },
+      "7111193041": {
+        "banned": false,
+        "nama": "ana",
+        "saldo": 0
+      },
+      "6689942393": {
+        "banned": false,
+        "nama": "ana",
+        "saldo": 0
+      },
+      "8037984042": {
+        "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "7268089870": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "7682134155": {
+        "banned": false,
+        "nama": "ayaa",
         "saldo": 0
       }
     },
@@ -1508,6 +1538,9 @@
         "liststore": {}
       },
       "1397236504": {
+        "liststore": {}
+      },
+      "1419140953": {
         "liststore": {}
       },
       "1431183063": {
@@ -2324,6 +2357,21 @@
         "liststore": {}
       },
       "7251003308": {
+        "liststore": {}
+      },
+      "7111193041": {
+        "liststore": {}
+      },
+      "6689942393": {
+        "liststore": {}
+      },
+      "8037984042": {
+        "liststore": {}
+      },
+      "7268089870": {
+        "liststore": {}
+      },
+      "7682134155": {
         "liststore": {}
       }
     }
