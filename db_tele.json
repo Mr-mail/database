@@ -1445,6 +1445,11 @@
         "banned": false,
         "nama": "Rixzyy",
         "saldo": 0
+      },
+      "7251003308": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2316,6 +2321,9 @@
         "liststore": {}
       },
       "5374260137": {
+        "liststore": {}
+      },
+      "7251003308": {
         "liststore": {}
       }
     }
