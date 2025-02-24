@@ -339,7 +339,7 @@
       "6363164205": {
         "banned": false,
         "nama": "kayzahi",
-        "saldo": 3549
+        "saldo": 13549
       },
       "7130426214": {
         "banned": false,
@@ -1348,7 +1348,7 @@
       },
       "7778384734": {
         "banned": false,
-        "nama": "Guest",
+        "nama": "ram",
         "saldo": 0
       },
       "5261731638": {
@@ -1479,6 +1479,16 @@
       "7682134155": {
         "banned": false,
         "nama": "ayaa",
+        "saldo": 0
+      },
+      "7802133332": {
+        "banned": false,
+        "nama": "aninn",
+        "saldo": 0
+      },
+      "5566430083": {
+        "banned": false,
+        "nama": "Kaito",
         "saldo": 0
       }
     },
@@ -2372,6 +2382,12 @@
         "liststore": {}
       },
       "7682134155": {
+        "liststore": {}
+      },
+      "7802133332": {
+        "liststore": {}
+      },
+      "5566430083": {
         "liststore": {}
       }
     }
