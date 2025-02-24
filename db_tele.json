@@ -1515,6 +1515,11 @@
         "banned": false,
         "nama": "vanzz",
         "saldo": 0
+      },
+      "7636471407": {
+        "banned": false,
+        "nama": "kai",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2428,6 +2433,9 @@
         "liststore": {}
       },
       "7326969844": {
+        "liststore": {}
+      },
+      "7636471407": {
         "liststore": {}
       }
     }
