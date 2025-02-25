@@ -3,7 +3,7 @@
     "users": {
       "595092077": {
         "banned": false,
-        "nama": "trimaberes",
+        "nama": "Taufiq",
         "saldo": 0
       },
       "648514594": {
@@ -130,6 +130,11 @@
         "banned": false,
         "nama": "meki",
         "saldo": 0
+      },
+      "1741336633": {
+        "banned": false,
+        "nama": "ikbal",
+        "saldo": 3500
       },
       "1815165381": {
         "banned": false,
@@ -304,7 +309,7 @@
       "7141421535": {
         "banned": false,
         "nama": "raff",
-        "saldo": 317
+        "saldo": 309
       },
       "7684517225": {
         "banned": false,
@@ -559,7 +564,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 1017
+        "saldo": 16017
       },
       "5688877828": {
         "banned": false,
@@ -1540,6 +1545,26 @@
         "banned": false,
         "nama": "zarr",
         "saldo": 0
+      },
+      "7071058993": {
+        "banned": false,
+        "nama": "amanah",
+        "saldo": 0
+      },
+      "6429052010": {
+        "banned": false,
+        "nama": "stef",
+        "saldo": 0
+      },
+      "7309889169": {
+        "banned": false,
+        "nama": "maxtzy",
+        "saldo": 0
+      },
+      "7207590202": {
+        "banned": false,
+        "nama": "ziel",
+        "saldo": 0
       }
     },
     "chats": {
@@ -1619,6 +1644,9 @@
         "liststore": {}
       },
       "1702340032": {
+        "liststore": {}
+      },
+      "1741336633": {
         "liststore": {}
       },
       "1815165381": {
@@ -2468,6 +2496,18 @@
         "liststore": {}
       },
       "7112397993": {
+        "liststore": {}
+      },
+      "7071058993": {
+        "liststore": {}
+      },
+      "6429052010": {
+        "liststore": {}
+      },
+      "7309889169": {
+        "liststore": {}
+      },
+      "7207590202": {
         "liststore": {}
       }
     }
