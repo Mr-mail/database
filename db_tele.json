@@ -354,7 +354,7 @@
       "6363164205": {
         "banned": false,
         "nama": "kayzahi",
-        "saldo": 13549
+        "saldo": 8989
       },
       "7130426214": {
         "banned": false,
@@ -1494,7 +1494,7 @@
       "7682134155": {
         "banned": false,
         "nama": "ayaa",
-        "saldo": 0
+        "saldo": 9563
       },
       "7802133332": {
         "banned": false,
@@ -1524,6 +1524,11 @@
       "7452409911": {
         "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "6655868409": {
+        "banned": false,
+        "nama": "Alfzr",
         "saldo": 0
       }
     },
@@ -2444,6 +2449,9 @@
         "liststore": {}
       },
       "7452409911": {
+        "liststore": {}
+      },
+      "6655868409": {
         "liststore": {}
       }
     }
