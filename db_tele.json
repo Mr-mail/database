@@ -159,7 +159,7 @@
       "1898870310": {
         "banned": false,
         "nama": "Jeandye",
-        "saldo": 12812
+        "saldo": 10754
       },
       "1903797644": {
         "banned": false,
@@ -364,7 +364,7 @@
       "6363164205": {
         "banned": false,
         "nama": "kayzahi",
-        "saldo": 24965
+        "saldo": 17953
       },
       "7130426214": {
         "banned": false,
@@ -564,7 +564,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 9566
+        "saldo": 12566
       },
       "5688877828": {
         "banned": false,
@@ -1564,11 +1564,26 @@
       "7207590202": {
         "banned": false,
         "nama": "ziel",
-        "saldo": 0
+        "saldo": 5000
       },
       "7012464663": {
         "banned": false,
         "nama": "Adamtzy",
+        "saldo": 0
+      },
+      "7376174736": {
+        "banned": false,
+        "nama": "dikzxzx",
+        "saldo": 0
+      },
+      "7774800935": {
+        "banned": false,
+        "nama": "Zulkhairi",
+        "saldo": 564
+      },
+      "5526854597": {
+        "banned": false,
+        "nama": "liaaa",
         "saldo": 0
       }
     },
@@ -2516,6 +2531,15 @@
         "liststore": {}
       },
       "7012464663": {
+        "liststore": {}
+      },
+      "7376174736": {
+        "liststore": {}
+      },
+      "7774800935": {
+        "liststore": {}
+      },
+      "5526854597": {
         "liststore": {}
       }
     }
