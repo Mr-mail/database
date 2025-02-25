@@ -1520,6 +1520,11 @@
         "banned": false,
         "nama": "kai",
         "saldo": 0
+      },
+      "7452409911": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2436,6 +2441,9 @@
         "liststore": {}
       },
       "7636471407": {
+        "liststore": {}
+      },
+      "7452409911": {
         "liststore": {}
       }
     }
