@@ -46,6 +46,11 @@
         "nama": "adrian",
         "saldo": 0
       },
+      "1261128300": {
+        "banned": false,
+        "nama": "Flavo",
+        "saldo": 3000
+      },
       "1271500748": {
         "banned": false,
         "nama": "elvozin",
@@ -134,7 +139,7 @@
       "1741336633": {
         "banned": false,
         "nama": "ikbal",
-        "saldo": 1580
+        "saldo": 3500
       },
       "1815165381": {
         "banned": false,
@@ -1623,6 +1628,9 @@
         "liststore": {}
       },
       "982351292": {
+        "liststore": {}
+      },
+      "1261128300": {
         "liststore": {}
       },
       "1271500748": {
