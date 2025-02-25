@@ -151,6 +151,11 @@
         "nama": "violence",
         "saldo": 35
       },
+      "1898870310": {
+        "banned": false,
+        "nama": "Jeandye",
+        "saldo": 4000
+      },
       "1903797644": {
         "banned": false,
         "nama": "huoxinyan",
@@ -354,7 +359,7 @@
       "6363164205": {
         "banned": false,
         "nama": "kayzahi",
-        "saldo": 8989
+        "saldo": 1977
       },
       "7130426214": {
         "banned": false,
@@ -1529,6 +1534,11 @@
       "6655868409": {
         "banned": false,
         "nama": "Alfzr",
+        "saldo": 3940
+      },
+      "7112397993": {
+        "banned": false,
+        "nama": "zarr",
         "saldo": 0
       }
     },
@@ -1621,6 +1631,9 @@
         "liststore": {}
       },
       "1876710349": {
+        "liststore": {}
+      },
+      "1898870310": {
         "liststore": {}
       },
       "1903797644": {
@@ -2452,6 +2465,9 @@
         "liststore": {}
       },
       "6655868409": {
+        "liststore": {}
+      },
+      "7112397993": {
         "liststore": {}
       }
     }
