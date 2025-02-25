@@ -564,7 +564,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 16017
+        "saldo": 9566
       },
       "5688877828": {
         "banned": false,
@@ -1565,6 +1565,11 @@
         "banned": false,
         "nama": "ziel",
         "saldo": 0
+      },
+      "7012464663": {
+        "banned": false,
+        "nama": "Adamtzy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2508,6 +2513,9 @@
         "liststore": {}
       },
       "7207590202": {
+        "liststore": {}
+      },
+      "7012464663": {
         "liststore": {}
       }
     }
