@@ -1590,6 +1590,11 @@
         "banned": false,
         "nama": "kaliojh",
         "saldo": 0
+      },
+      "7085429027": {
+        "banned": false,
+        "nama": "rizxyy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2548,6 +2553,9 @@
         "liststore": {}
       },
       "7129284989": {
+        "liststore": {}
+      },
+      "7085429027": {
         "liststore": {}
       }
     }
