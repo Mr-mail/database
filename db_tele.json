@@ -1675,6 +1675,11 @@
         "banned": false,
         "nama": "rizzzz",
         "saldo": 0
+      },
+      "7382962440": {
+        "banned": false,
+        "nama": "caca",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2687,6 +2692,9 @@
         "liststore": {}
       },
       "6728799583": {
+        "liststore": {}
+      },
+      "7382962440": {
         "liststore": {}
       }
     }
