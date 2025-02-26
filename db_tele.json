@@ -379,7 +379,7 @@
       "6363164205": {
         "banned": false,
         "nama": "kayzahi",
-        "saldo": 23934
+        "saldo": 8808
       },
       "7130426214": {
         "banned": false,
@@ -579,7 +579,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 2658
+        "saldo": 2583
       },
       "5688877828": {
         "banned": false,
@@ -1119,7 +1119,7 @@
       "5567896798": {
         "banned": false,
         "nama": "DAFASTORE",
-        "saldo": 0
+        "saldo": 6000
       },
       "7694132294": {
         "banned": false,
@@ -1519,7 +1519,7 @@
       "7682134155": {
         "banned": false,
         "nama": "ayaa",
-        "saldo": 8204
+        "saldo": 1985
       },
       "7802133332": {
         "banned": false,
@@ -1634,6 +1634,11 @@
       "6854219835": {
         "banned": false,
         "nama": "Rapa",
+        "saldo": 0
+      },
+      "7656497981": {
+        "banned": false,
+        "nama": "noname",
         "saldo": 0
       }
     },
@@ -2623,6 +2628,9 @@
         "liststore": {}
       },
       "-4603191339": {
+        "liststore": {}
+      },
+      "7656497981": {
         "liststore": {}
       }
     }
