@@ -156,6 +156,11 @@
         "nama": "zoro",
         "saldo": 0
       },
+      "1857633105": {
+        "banned": false,
+        "nama": "Wokid",
+        "saldo": 0
+      },
       "1863833934": {
         "banned": false,
         "nama": "Guest",
@@ -1644,6 +1649,16 @@
       "7179517968": {
         "banned": false,
         "nama": "dika",
+        "saldo": 10000
+      },
+      "6580786166": {
+        "banned": false,
+        "nama": "Rahmat",
+        "saldo": 0
+      },
+      "7683685739": {
+        "banned": false,
+        "nama": "rizqi",
         "saldo": 0
       }
     },
@@ -1739,6 +1754,9 @@
         "liststore": {}
       },
       "1815165381": {
+        "liststore": {}
+      },
+      "1857633105": {
         "liststore": {}
       },
       "1863833934": {
@@ -2639,6 +2657,12 @@
         "liststore": {}
       },
       "7179517968": {
+        "liststore": {}
+      },
+      "6580786166": {
+        "liststore": {}
+      },
+      "7683685739": {
         "liststore": {}
       }
     }
