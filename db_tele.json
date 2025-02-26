@@ -101,6 +101,11 @@
         "nama": "Bagas",
         "saldo": 0
       },
+      "1393286551": {
+        "banned": false,
+        "nama": "Rixzyy",
+        "saldo": 0
+      },
       "1397236504": {
         "banned": false,
         "nama": "ca",
@@ -1644,7 +1649,7 @@
       "7656497981": {
         "banned": false,
         "nama": "noname",
-        "saldo": 0
+        "saldo": 2000
       },
       "7179517968": {
         "banned": false,
@@ -1659,6 +1664,11 @@
       "7683685739": {
         "banned": false,
         "nama": "rizqi",
+        "saldo": 4655
+      },
+      "5758103599": {
+        "banned": false,
+        "nama": "Guest",
         "saldo": 0
       }
     },
@@ -1721,6 +1731,9 @@
         "liststore": {}
       },
       "1379993668": {
+        "liststore": {}
+      },
+      "1393286551": {
         "liststore": {}
       },
       "1397236504": {
@@ -2663,6 +2676,9 @@
         "liststore": {}
       },
       "7683685739": {
+        "liststore": {}
+      },
+      "5758103599": {
         "liststore": {}
       }
     }
