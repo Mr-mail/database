@@ -1014,7 +1014,7 @@
       "8012928241": {
         "banned": false,
         "nama": "djshop",
-        "saldo": 0
+        "saldo": 500
       },
       "6115577297": {
         "banned": false,
@@ -1664,11 +1664,16 @@
       "7683685739": {
         "banned": false,
         "nama": "rizqi",
-        "saldo": 4655
+        "saldo": 970
       },
       "5758103599": {
         "banned": false,
-        "nama": "Guest",
+        "nama": "inui",
+        "saldo": 0
+      },
+      "6728799583": {
+        "banned": false,
+        "nama": "rizzzz",
         "saldo": 0
       }
     },
@@ -2679,6 +2684,9 @@
         "liststore": {}
       },
       "5758103599": {
+        "liststore": {}
+      },
+      "6728799583": {
         "liststore": {}
       }
     }
