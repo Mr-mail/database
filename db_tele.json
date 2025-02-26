@@ -1605,6 +1605,21 @@
         "banned": false,
         "nama": "rizxyy",
         "saldo": 0
+      },
+      "5530436998": {
+        "banned": false,
+        "nama": "Sagung",
+        "saldo": 0
+      },
+      "7077140556": {
+        "banned": false,
+        "nama": "sandx",
+        "saldo": 0
+      },
+      "6590073873": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2572,6 +2587,15 @@
         "liststore": {}
       },
       "7085429027": {
+        "liststore": {}
+      },
+      "5530436998": {
+        "liststore": {}
+      },
+      "7077140556": {
+        "liststore": {}
+      },
+      "6590073873": {
         "liststore": {}
       }
     }
