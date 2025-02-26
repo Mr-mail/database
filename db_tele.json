@@ -1,6 +1,11 @@
 {
   "data": {
     "users": {
+      "203657091": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
       "595092077": {
         "banned": false,
         "nama": "Taufiq",
@@ -1603,6 +1608,9 @@
       }
     },
     "chats": {
+      "203657091": {
+        "liststore": {}
+      },
       "595092077": {
         "liststore": {}
       },
