@@ -1680,6 +1680,16 @@
         "banned": false,
         "nama": "caca",
         "saldo": 0
+      },
+      "7653620638": {
+        "banned": false,
+        "nama": "ramz",
+        "saldo": 0
+      },
+      "7439922499": {
+        "banned": false,
+        "nama": "boy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2695,6 +2705,12 @@
         "liststore": {}
       },
       "7382962440": {
+        "liststore": {}
+      },
+      "7653620638": {
+        "liststore": {}
+      },
+      "7439922499": {
         "liststore": {}
       }
     }
