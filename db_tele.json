@@ -278,7 +278,7 @@
       },
       "7025520274": {
         "banned": false,
-        "nama": "Guest",
+        "nama": "Rixzyy",
         "saldo": 0
       },
       "8115383238": {
@@ -1119,7 +1119,7 @@
       "5567896798": {
         "banned": false,
         "nama": "DAFASTORE",
-        "saldo": 5621
+        "saldo": 3843
       },
       "7694132294": {
         "banned": false,
@@ -1639,6 +1639,11 @@
       "7656497981": {
         "banned": false,
         "nama": "noname",
+        "saldo": 0
+      },
+      "7179517968": {
+        "banned": false,
+        "nama": "dika",
         "saldo": 0
       }
     },
@@ -2631,6 +2636,9 @@
         "liststore": {}
       },
       "7656497981": {
+        "liststore": {}
+      },
+      "7179517968": {
         "liststore": {}
       }
     }
