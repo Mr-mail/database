@@ -489,7 +489,7 @@
       "7632989254": {
         "banned": false,
         "nama": "annzx",
-        "saldo": 20857
+        "saldo": 4253
       },
       "7087222825": {
         "banned": false,
@@ -1714,7 +1714,12 @@
       "7262069191": {
         "banned": false,
         "nama": "dhan",
-        "saldo": 2060
+        "saldo": 4060
+      },
+      "7089319504": {
+        "banned": false,
+        "nama": "hhh",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2751,6 +2756,9 @@
         "liststore": {}
       },
       "7262069191": {
+        "liststore": {}
+      },
+      "7089319504": {
         "liststore": {}
       }
     }
