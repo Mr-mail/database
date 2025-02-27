@@ -1639,7 +1639,7 @@
       "7077140556": {
         "banned": false,
         "nama": "sandx",
-        "saldo": 0
+        "saldo": 2940
       },
       "6590073873": {
         "banned": false,
@@ -1710,6 +1710,11 @@
         "banned": false,
         "nama": "ikky",
         "saldo": 0
+      },
+      "7262069191": {
+        "banned": false,
+        "nama": "dhan",
+        "saldo": 5000
       }
     },
     "chats": {
@@ -2743,6 +2748,9 @@
         "liststore": {}
       },
       "7929209784": {
+        "liststore": {}
+      },
+      "7262069191": {
         "liststore": {}
       }
     }
