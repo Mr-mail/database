@@ -1750,6 +1750,11 @@
         "banned": false,
         "nama": "Wann",
         "saldo": 0
+      },
+      "6455307328": {
+        "banned": false,
+        "nama": "fhry",
+        "saldo": 60
       }
     },
     "chats": {
@@ -2807,6 +2812,9 @@
         "liststore": {}
       },
       "7656557999": {
+        "liststore": {}
+      },
+      "6455307328": {
         "liststore": {}
       }
     }
