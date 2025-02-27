@@ -1745,6 +1745,11 @@
         "banned": false,
         "nama": "naya",
         "saldo": 0
+      },
+      "7656557999": {
+        "banned": false,
+        "nama": "Wann",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2799,6 +2804,9 @@
         "liststore": {}
       },
       "5771099427": {
+        "liststore": {}
+      },
+      "7656557999": {
         "liststore": {}
       }
     }
