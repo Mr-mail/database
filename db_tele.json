@@ -146,6 +146,11 @@
         "nama": "Hams",
         "saldo": 0
       },
+      "1598992742": {
+        "banned": false,
+        "nama": "marr",
+        "saldo": 0
+      },
       "1644712510": {
         "banned": false,
         "nama": "Rafqa",
@@ -399,7 +404,7 @@
       "6363164205": {
         "banned": false,
         "nama": "kayzahi",
-        "saldo": 8808
+        "saldo": 5868
       },
       "7130426214": {
         "banned": false,
@@ -599,7 +604,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 2583
+        "saldo": 7583
       },
       "5688877828": {
         "banned": false,
@@ -1808,6 +1813,9 @@
         "liststore": {}
       },
       "1585533802": {
+        "liststore": {}
+      },
+      "1598992742": {
         "liststore": {}
       },
       "1644712510": {
