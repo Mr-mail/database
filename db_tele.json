@@ -1735,6 +1735,11 @@
         "banned": false,
         "nama": "Vanzz",
         "saldo": 2000
+      },
+      "5771099427": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2783,6 +2788,9 @@
         "liststore": {}
       },
       "8038072428": {
+        "liststore": {}
+      },
+      "5771099427": {
         "liststore": {}
       }
     }
