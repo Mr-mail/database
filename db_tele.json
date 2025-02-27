@@ -6,6 +6,11 @@
         "nama": "Guest",
         "saldo": 0
       },
+      "370477288": {
+        "banned": false,
+        "nama": "Xandoit",
+        "saldo": 0
+      },
       "595092077": {
         "banned": false,
         "nama": "Taufiq",
@@ -159,7 +164,7 @@
       "1741336633": {
         "banned": false,
         "nama": "ikbal",
-        "saldo": 3500
+        "saldo": 560
       },
       "1815165381": {
         "banned": false,
@@ -249,7 +254,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 218864
+        "saldo": 223061
       },
       "7553188980": {
         "banned": true,
@@ -1704,6 +1709,9 @@
     },
     "chats": {
       "203657091": {
+        "liststore": {}
+      },
+      "370477288": {
         "liststore": {}
       },
       "595092077": {
