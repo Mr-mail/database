@@ -404,7 +404,7 @@
       "6363164205": {
         "banned": false,
         "nama": "kayzahi",
-        "saldo": 41844
+        "saldo": 34832
       },
       "7130426214": {
         "banned": false,
@@ -1730,6 +1730,11 @@
         "banned": false,
         "nama": "amet",
         "saldo": 0
+      },
+      "8038072428": {
+        "banned": false,
+        "nama": "Vanzz",
+        "saldo": 2000
       }
     },
     "chats": {
@@ -2775,6 +2780,9 @@
         "liststore": {}
       },
       "7552736552": {
+        "liststore": {}
+      },
+      "8038072428": {
         "liststore": {}
       }
     }
