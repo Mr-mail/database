@@ -171,6 +171,11 @@
         "nama": "ikbal",
         "saldo": 560
       },
+      "1794439624": {
+        "banned": false,
+        "nama": "vano",
+        "saldo": 0
+      },
       "1815165381": {
         "banned": false,
         "nama": "zoro",
@@ -604,7 +609,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 7583
+        "saldo": 1132
       },
       "5688877828": {
         "banned": false,
@@ -1738,7 +1743,7 @@
       },
       "5771099427": {
         "banned": false,
-        "nama": "Guest",
+        "nama": "naya",
         "saldo": 0
       }
     },
@@ -1843,6 +1848,9 @@
         "liststore": {}
       },
       "1741336633": {
+        "liststore": {}
+      },
+      "1794439624": {
         "liststore": {}
       },
       "1815165381": {
