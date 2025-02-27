@@ -1725,6 +1725,11 @@
         "banned": false,
         "nama": "hhh",
         "saldo": 0
+      },
+      "7552736552": {
+        "banned": false,
+        "nama": "amet",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2767,6 +2772,9 @@
         "liststore": {}
       },
       "7089319504": {
+        "liststore": {}
+      },
+      "7552736552": {
         "liststore": {}
       }
     }
