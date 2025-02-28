@@ -269,7 +269,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 957997
+        "saldo": 948089
       },
       "7553188980": {
         "banned": true,
@@ -1434,7 +1434,7 @@
       "6723265327": {
         "banned": false,
         "nama": "ramz",
-        "saldo": 2074
+        "saldo": 2655
       },
       "7391424294": {
         "banned": false,
@@ -1729,7 +1729,7 @@
       "7262069191": {
         "banned": false,
         "nama": "dhan",
-        "saldo": 4060
+        "saldo": 1120
       },
       "7089319504": {
         "banned": false,
@@ -1804,6 +1804,11 @@
       "6991499507": {
         "banned": false,
         "nama": "hizu",
+        "saldo": 0
+      },
+      "7440245995": {
+        "banned": false,
+        "nama": "rio",
         "saldo": 0
       }
     },
@@ -2895,6 +2900,9 @@
         "liststore": {}
       },
       "6991499507": {
+        "liststore": {}
+      },
+      "7440245995": {
         "liststore": {}
       }
     }
