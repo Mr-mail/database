@@ -161,6 +161,11 @@
         "nama": "putra",
         "saldo": 0
       },
+      "1689151172": {
+        "banned": false,
+        "nama": "Amelia",
+        "saldo": 0
+      },
       "1702340032": {
         "banned": false,
         "nama": "meki",
@@ -1759,11 +1764,16 @@
       "7354630754": {
         "banned": false,
         "nama": "mika",
-        "saldo": 3120
+        "saldo": 180
       },
       "7985671718": {
         "banned": false,
         "nama": "Ghipeb",
+        "saldo": 0
+      },
+      "7017252806": {
+        "banned": false,
+        "nama": "Guest",
         "saldo": 0
       }
     },
@@ -1862,6 +1872,9 @@
         "liststore": {}
       },
       "1661695060": {
+        "liststore": {}
+      },
+      "1689151172": {
         "liststore": {}
       },
       "1702340032": {
@@ -2831,6 +2844,9 @@
         "liststore": {}
       },
       "7985671718": {
+        "liststore": {}
+      },
+      "7017252806": {
         "liststore": {}
       }
     }
