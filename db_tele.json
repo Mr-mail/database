@@ -1755,6 +1755,16 @@
         "banned": false,
         "nama": "fhry",
         "saldo": 60
+      },
+      "7354630754": {
+        "banned": false,
+        "nama": "mika",
+        "saldo": 3120
+      },
+      "7985671718": {
+        "banned": false,
+        "nama": "Ghipeb",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2815,6 +2825,12 @@
         "liststore": {}
       },
       "6455307328": {
+        "liststore": {}
+      },
+      "7354630754": {
+        "liststore": {}
+      },
+      "7985671718": {
         "liststore": {}
       }
     }
