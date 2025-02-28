@@ -1434,7 +1434,7 @@
       "6723265327": {
         "banned": false,
         "nama": "ramz",
-        "saldo": 0
+        "saldo": 2074
       },
       "7391424294": {
         "banned": false,
@@ -1790,6 +1790,21 @@
         "banned": false,
         "nama": "Albi",
         "saldo": 3000
+      },
+      "6887207731": {
+        "banned": false,
+        "nama": "iYann",
+        "saldo": 0
+      },
+      "6534527239": {
+        "banned": false,
+        "nama": "roman",
+        "saldo": 2060
+      },
+      "6991499507": {
+        "banned": false,
+        "nama": "hizu",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2871,6 +2886,15 @@
         "liststore": {}
       },
       "5254020314": {
+        "liststore": {}
+      },
+      "6887207731": {
+        "liststore": {}
+      },
+      "6534527239": {
+        "liststore": {}
+      },
+      "6991499507": {
         "liststore": {}
       }
     }
