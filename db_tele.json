@@ -269,7 +269,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 212466
+        "saldo": 200568
       },
       "7553188980": {
         "banned": true,
@@ -414,7 +414,7 @@
       "6363164205": {
         "banned": false,
         "nama": "kayzahi",
-        "saldo": 34832
+        "saldo": 31892
       },
       "7130426214": {
         "banned": false,
@@ -504,7 +504,7 @@
       "7632989254": {
         "banned": false,
         "nama": "annzx",
-        "saldo": 11253
+        "saldo": 5146
       },
       "7087222825": {
         "banned": false,
@@ -1775,6 +1775,16 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "6198195919": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "7630397920": {
+        "banned": false,
+        "nama": "yansah",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2847,6 +2857,12 @@
         "liststore": {}
       },
       "7017252806": {
+        "liststore": {}
+      },
+      "6198195919": {
+        "liststore": {}
+      },
+      "7630397920": {
         "liststore": {}
       }
     }
