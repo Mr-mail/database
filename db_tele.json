@@ -1819,7 +1819,12 @@
       "7633909239": {
         "banned": false,
         "nama": "Asraf",
-        "saldo": 12939
+        "saldo": 4027
+      },
+      "8129830602": {
+        "banned": false,
+        "nama": "zipta",
+        "saldo": 5060
       }
     },
     "chats": {
@@ -2919,6 +2924,9 @@
         "liststore": {}
       },
       "7633909239": {
+        "liststore": {}
+      },
+      "8129830602": {
         "liststore": {}
       }
     }
