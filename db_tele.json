@@ -1905,6 +1905,11 @@
         "banned": false,
         "nama": "kevin",
         "saldo": 0
+      },
+      "7201248947": {
+        "banned": false,
+        "nama": "pental",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3055,6 +3060,9 @@
         "liststore": {}
       },
       "7063750602": {
+        "liststore": {}
+      },
+      "7201248947": {
         "liststore": {}
       }
     }
