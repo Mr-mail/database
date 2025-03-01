@@ -1860,6 +1860,11 @@
         "banned": false,
         "nama": "IMCbl",
         "saldo": 0
+      },
+      "7670044878": {
+        "banned": false,
+        "nama": "volker",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2983,6 +2988,9 @@
         "liststore": {}
       },
       "7770276880": {
+        "liststore": {}
+      },
+      "7670044878": {
         "liststore": {}
       }
     }
