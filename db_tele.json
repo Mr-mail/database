@@ -1915,6 +1915,21 @@
         "banned": false,
         "nama": "semmm",
         "saldo": 0
+      },
+      "6078943140": {
+        "banned": false,
+        "nama": "wann",
+        "saldo": 0
+      },
+      "6886345177": {
+        "banned": false,
+        "nama": "tan",
+        "saldo": 0
+      },
+      "5437687285": {
+        "banned": false,
+        "nama": "Ridho",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3071,6 +3086,15 @@
         "liststore": {}
       },
       "6250429796": {
+        "liststore": {}
+      },
+      "6078943140": {
+        "liststore": {}
+      },
+      "6886345177": {
+        "liststore": {}
+      },
+      "5437687285": {
         "liststore": {}
       }
     }
