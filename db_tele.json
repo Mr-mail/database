@@ -3,7 +3,7 @@
     "users": {
       "203657091": {
         "banned": false,
-        "nama": "Guest",
+        "nama": "wyudha",
         "saldo": 0
       },
       "370477288": {
@@ -1825,6 +1825,21 @@
         "banned": false,
         "nama": "zipta",
         "saldo": 5060
+      },
+      "7870242260": {
+        "banned": false,
+        "nama": "Ramsid",
+        "saldo": 0
+      },
+      "6015661996": {
+        "banned": false,
+        "nama": "sigma",
+        "saldo": 5000
+      },
+      "8129640128": {
+        "banned": false,
+        "nama": "Zacky",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2927,6 +2942,15 @@
         "liststore": {}
       },
       "8129830602": {
+        "liststore": {}
+      },
+      "7870242260": {
+        "liststore": {}
+      },
+      "6015661996": {
+        "liststore": {}
+      },
+      "8129640128": {
         "liststore": {}
       }
     }
