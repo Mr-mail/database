@@ -4,7 +4,7 @@
       "203657091": {
         "banned": false,
         "nama": "wyudha",
-        "saldo": 12000
+        "saldo": 17000
       },
       "370477288": {
         "banned": false,
@@ -114,7 +114,12 @@
       "1397236504": {
         "banned": false,
         "nama": "ca",
-        "saldo": 2378
+        "saldo": 6146
+      },
+      "1402074133": {
+        "banned": false,
+        "nama": "Rentzy",
+        "saldo": 0
       },
       "1419140953": {
         "banned": false,
@@ -1324,7 +1329,7 @@
       "6378998283": {
         "banned": false,
         "nama": "nazy",
-        "saldo": 3000
+        "saldo": 60
       },
       "6912943418": {
         "banned": false,
@@ -1754,7 +1759,7 @@
       "5771099427": {
         "banned": false,
         "nama": "naya",
-        "saldo": 0
+        "saldo": 2000
       },
       "7656557999": {
         "banned": false,
@@ -1970,6 +1975,9 @@
         "liststore": {}
       },
       "1397236504": {
+        "liststore": {}
+      },
+      "1402074133": {
         "liststore": {}
       },
       "1419140953": {
