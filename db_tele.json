@@ -1689,7 +1689,7 @@
       "7179517968": {
         "banned": false,
         "nama": "dika",
-        "saldo": 10000
+        "saldo": 956
       },
       "6580786166": {
         "banned": false,
@@ -1864,7 +1864,7 @@
       "7138192400": {
         "banned": false,
         "nama": "freyana",
-        "saldo": 32
+        "saldo": 5474
       },
       "7770276880": {
         "banned": false,
@@ -1909,6 +1909,11 @@
       "7201248947": {
         "banned": false,
         "nama": "pental",
+        "saldo": 0
+      },
+      "6250429796": {
+        "banned": false,
+        "nama": "semmm",
         "saldo": 0
       }
     },
@@ -3063,6 +3068,9 @@
         "liststore": {}
       },
       "7201248947": {
+        "liststore": {}
+      },
+      "6250429796": {
         "liststore": {}
       }
     }
