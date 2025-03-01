@@ -4,7 +4,7 @@
       "203657091": {
         "banned": false,
         "nama": "wyudha",
-        "saldo": 0
+        "saldo": 12000
       },
       "370477288": {
         "banned": false,
@@ -1324,7 +1324,7 @@
       "6378998283": {
         "banned": false,
         "nama": "nazy",
-        "saldo": 60
+        "saldo": 3000
       },
       "6912943418": {
         "banned": false,
@@ -1859,7 +1859,7 @@
       "7138192400": {
         "banned": false,
         "nama": "freyana",
-        "saldo": 3474
+        "saldo": 5474
       },
       "7770276880": {
         "banned": false,
@@ -1884,6 +1884,21 @@
       "6679404162": {
         "banned": false,
         "nama": "Kal_7280",
+        "saldo": 0
+      },
+      "6855526158": {
+        "banned": false,
+        "nama": "Sintaa",
+        "saldo": 0
+      },
+      "6403707463": {
+        "banned": false,
+        "nama": "Rass",
+        "saldo": 0
+      },
+      "7063750602": {
+        "banned": false,
+        "nama": "kevin",
         "saldo": 0
       }
     },
@@ -3023,6 +3038,15 @@
         "liststore": {}
       },
       "6679404162": {
+        "liststore": {}
+      },
+      "6855526158": {
+        "liststore": {}
+      },
+      "6403707463": {
+        "liststore": {}
+      },
+      "7063750602": {
         "liststore": {}
       }
     }
