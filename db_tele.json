@@ -1874,7 +1874,7 @@
       "7138192400": {
         "banned": false,
         "nama": "freyana",
-        "saldo": 8283
+        "saldo": 746
       },
       "7770276880": {
         "banned": false,
@@ -1990,6 +1990,11 @@
         "banned": false,
         "nama": "Lxz",
         "saldo": 0
+      },
+      "7118035927": {
+        "banned": false,
+        "nama": "Mail",
+        "saldo": 655
       }
     },
     "chats": {
@@ -3191,6 +3196,9 @@
         "liststore": {}
       },
       "7058748400": {
+        "liststore": {}
+      },
+      "7118035927": {
         "liststore": {}
       }
     }
