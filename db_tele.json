@@ -146,6 +146,11 @@
         "nama": "ppp",
         "saldo": 0
       },
+      "1475365115": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
       "1495403758": {
         "banned": false,
         "nama": "aba",
@@ -284,7 +289,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 826611
+        "saldo": 807594
       },
       "7553188980": {
         "banned": true,
@@ -1029,7 +1034,7 @@
       "7928414044": {
         "banned": false,
         "nama": "arcan",
-        "saldo": 3060
+        "saldo": 120
       },
       "8147532741": {
         "banned": false,
@@ -1945,6 +1950,26 @@
         "banned": false,
         "nama": "athar",
         "saldo": 0
+      },
+      "7293612116": {
+        "banned": false,
+        "nama": "Epi",
+        "saldo": 4705
+      },
+      "6553586695": {
+        "banned": false,
+        "nama": "7788",
+        "saldo": 0
+      },
+      "6362223824": {
+        "banned": false,
+        "nama": "Aska",
+        "saldo": 0
+      },
+      "8028667007": {
+        "banned": false,
+        "nama": "Barzx",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2033,6 +2058,9 @@
         "liststore": {}
       },
       "1466964780": {
+        "liststore": {}
+      },
+      "1475365115": {
         "liststore": {}
       },
       "1495403758": {
@@ -3119,6 +3147,18 @@
         "liststore": {}
       },
       "6246967588": {
+        "liststore": {}
+      },
+      "7293612116": {
+        "liststore": {}
+      },
+      "6553586695": {
+        "liststore": {}
+      },
+      "6362223824": {
+        "liststore": {}
+      },
+      "8028667007": {
         "liststore": {}
       }
     }
