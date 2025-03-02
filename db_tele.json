@@ -289,7 +289,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 807594
+        "saldo": 761903
       },
       "7553188980": {
         "banned": true,
@@ -1034,7 +1034,7 @@
       "7928414044": {
         "banned": false,
         "nama": "arcan",
-        "saldo": 120
+        "saldo": 180
       },
       "8147532741": {
         "banned": false,
@@ -1874,7 +1874,7 @@
       "7138192400": {
         "banned": false,
         "nama": "freyana",
-        "saldo": 5474
+        "saldo": 32
       },
       "7770276880": {
         "banned": false,
@@ -1954,7 +1954,7 @@
       "7293612116": {
         "banned": false,
         "nama": "Epi",
-        "saldo": 4705
+        "saldo": 410
       },
       "6553586695": {
         "banned": false,
@@ -1969,6 +1969,16 @@
       "8028667007": {
         "banned": false,
         "nama": "Barzx",
+        "saldo": 0
+      },
+      "7536363371": {
+        "banned": false,
+        "nama": "renz",
+        "saldo": 0
+      },
+      "5657710516": {
+        "banned": false,
+        "nama": "Nephyy",
         "saldo": 0
       }
     },
@@ -3159,6 +3169,12 @@
         "liststore": {}
       },
       "8028667007": {
+        "liststore": {}
+      },
+      "7536363371": {
+        "liststore": {}
+      },
+      "5657710516": {
         "liststore": {}
       }
     }
