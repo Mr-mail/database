@@ -1898,7 +1898,7 @@
       },
       "6679404162": {
         "banned": false,
-        "nama": "Kal_7280",
+        "nama": "ucup",
         "saldo": 0
       },
       "6855526158": {
@@ -2014,6 +2014,21 @@
       "6941356590": {
         "banned": false,
         "nama": "kaitoonoko",
+        "saldo": 0
+      },
+      "6427094316": {
+        "banned": false,
+        "nama": "Zaxx",
+        "saldo": 0
+      },
+      "6270428986": {
+        "banned": false,
+        "nama": "tars",
+        "saldo": 0
+      },
+      "6354380190": {
+        "banned": false,
+        "nama": "KinGNB",
         "saldo": 0
       }
     },
@@ -3231,6 +3246,15 @@
         "liststore": {}
       },
       "6941356590": {
+        "liststore": {}
+      },
+      "6427094316": {
+        "liststore": {}
+      },
+      "6270428986": {
+        "liststore": {}
+      },
+      "6354380190": {
         "liststore": {}
       }
     }
