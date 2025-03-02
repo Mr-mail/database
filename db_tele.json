@@ -2000,6 +2000,21 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "7761333969": {
+        "banned": false,
+        "nama": "zim",
+        "saldo": 0
+      },
+      "7310984460": {
+        "banned": false,
+        "nama": "Satriaa",
+        "saldo": 0
+      },
+      "6941356590": {
+        "banned": false,
+        "nama": "kaitoonoko",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3207,6 +3222,15 @@
         "liststore": {}
       },
       "7707728648": {
+        "liststore": {}
+      },
+      "7761333969": {
+        "liststore": {}
+      },
+      "7310984460": {
+        "liststore": {}
+      },
+      "6941356590": {
         "liststore": {}
       }
     }
