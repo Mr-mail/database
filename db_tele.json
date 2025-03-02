@@ -2004,7 +2004,7 @@
       "7761333969": {
         "banned": false,
         "nama": "zim",
-        "saldo": 14060
+        "saldo": 1744
       },
       "7310984460": {
         "banned": false,
@@ -2030,6 +2030,11 @@
         "banned": false,
         "nama": "KinGNB",
         "saldo": 5000
+      },
+      "7772829433": {
+        "banned": false,
+        "nama": "naddz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3255,6 +3260,9 @@
         "liststore": {}
       },
       "6354380190": {
+        "liststore": {}
+      },
+      "7772829433": {
         "liststore": {}
       }
     }
