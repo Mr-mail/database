@@ -1954,7 +1954,7 @@
       "7293612116": {
         "banned": false,
         "nama": "Epi",
-        "saldo": 2410
+        "saldo": 4760
       },
       "6553586695": {
         "banned": false,
@@ -1995,6 +1995,11 @@
         "banned": false,
         "nama": "Mail",
         "saldo": 655
+      },
+      "7707728648": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3199,6 +3204,9 @@
         "liststore": {}
       },
       "7118035927": {
+        "liststore": {}
+      },
+      "7707728648": {
         "liststore": {}
       }
     }
