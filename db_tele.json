@@ -11,6 +11,11 @@
         "nama": "Xandoit",
         "saldo": 0
       },
+      "421483840": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
       "595092077": {
         "banned": false,
         "nama": "Taufiq",
@@ -279,7 +284,7 @@
       "8012846823": {
         "banned": false,
         "nama": "rixzyy",
-        "saldo": 833623
+        "saldo": 826611
       },
       "7553188980": {
         "banned": true,
@@ -524,7 +529,7 @@
       "7074398032": {
         "banned": false,
         "nama": "zyy",
-        "saldo": 5905
+        "saldo": 1156
       },
       "8052779783": {
         "banned": false,
@@ -1024,7 +1029,7 @@
       "7928414044": {
         "banned": false,
         "nama": "arcan",
-        "saldo": 60
+        "saldo": 3060
       },
       "8147532741": {
         "banned": false,
@@ -1947,6 +1952,9 @@
         "liststore": {}
       },
       "370477288": {
+        "liststore": {}
+      },
+      "421483840": {
         "liststore": {}
       },
       "595092077": {
