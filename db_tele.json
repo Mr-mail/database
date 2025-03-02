@@ -634,7 +634,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 23132
+        "saldo": 2037
       },
       "5688877828": {
         "banned": false,
@@ -1874,7 +1874,7 @@
       "7138192400": {
         "banned": false,
         "nama": "freyana",
-        "saldo": 32
+        "saldo": 8283
       },
       "7770276880": {
         "banned": false,
@@ -1954,7 +1954,7 @@
       "7293612116": {
         "banned": false,
         "nama": "Epi",
-        "saldo": 410
+        "saldo": 2410
       },
       "6553586695": {
         "banned": false,
@@ -1979,6 +1979,16 @@
       "5657710516": {
         "banned": false,
         "nama": "Nephyy",
+        "saldo": 0
+      },
+      "6272975576": {
+        "banned": false,
+        "nama": "dimas",
+        "saldo": 0
+      },
+      "7058748400": {
+        "banned": false,
+        "nama": "Lxz",
         "saldo": 0
       }
     },
@@ -3175,6 +3185,12 @@
         "liststore": {}
       },
       "5657710516": {
+        "liststore": {}
+      },
+      "6272975576": {
+        "liststore": {}
+      },
+      "7058748400": {
         "liststore": {}
       }
     }
