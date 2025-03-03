@@ -2045,6 +2045,11 @@
         "banned": false,
         "nama": "Fahmi",
         "saldo": 5652
+      },
+      "7888370232": {
+        "banned": false,
+        "nama": " bar",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3279,6 +3284,9 @@
         "liststore": {}
       },
       "5729743695": {
+        "liststore": {}
+      },
+      "7888370232": {
         "liststore": {}
       }
     }
