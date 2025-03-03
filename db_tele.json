@@ -261,6 +261,11 @@
         "nama": "Yasir",
         "saldo": 40
       },
+      "2031867508": {
+        "banned": false,
+        "nama": "abilikarka",
+        "saldo": 0
+      },
       "2046197696": {
         "banned": false,
         "nama": "Stevano",
@@ -2192,6 +2197,9 @@
         "liststore": {}
       },
       "2024984460": {
+        "liststore": {}
+      },
+      "2031867508": {
         "liststore": {}
       },
       "2046197696": {
