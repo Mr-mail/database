@@ -1999,7 +1999,7 @@
       "7118035927": {
         "banned": false,
         "nama": "Mail",
-        "saldo": 22655
+        "saldo": 7271
       },
       "7707728648": {
         "banned": false,
@@ -2019,7 +2019,7 @@
       "6941356590": {
         "banned": false,
         "nama": "kaitoonoko",
-        "saldo": 6000
+        "saldo": 655
       },
       "6427094316": {
         "banned": false,
@@ -2049,6 +2049,11 @@
       "7888370232": {
         "banned": false,
         "nama": " bar",
+        "saldo": 0
+      },
+      "7118072115": {
+        "banned": false,
+        "nama": "KeJaaOFC",
         "saldo": 0
       }
     },
@@ -3287,6 +3292,9 @@
         "liststore": {}
       },
       "7888370232": {
+        "liststore": {}
+      },
+      "7118072115": {
         "liststore": {}
       }
     }
