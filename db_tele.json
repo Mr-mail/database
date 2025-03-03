@@ -299,7 +299,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 655436
+        "saldo": 645436
       },
       "7553188980": {
         "banned": true,
@@ -1553,8 +1553,8 @@
       },
       "5374260137": {
         "banned": false,
-        "nama": "Guest",
-        "saldo": 0
+        "nama": "yes",
+        "saldo": 4000
       },
       "7251003308": {
         "banned": false,
@@ -2065,6 +2065,11 @@
         "banned": false,
         "nama": "rian",
         "saldo": 16000
+      },
+      "7797379933": {
+        "banned": false,
+        "nama": "Rafyy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3311,6 +3316,9 @@
         "liststore": {}
       },
       "6011446900": {
+        "liststore": {}
+      },
+      "7797379933": {
         "liststore": {}
       }
     }
