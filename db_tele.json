@@ -2040,6 +2040,11 @@
         "banned": false,
         "nama": "naddz",
         "saldo": 0
+      },
+      "5729743695": {
+        "banned": false,
+        "nama": "Fahmi",
+        "saldo": 5652
       }
     },
     "chats": {
@@ -3271,6 +3276,9 @@
         "liststore": {}
       },
       "7772829433": {
+        "liststore": {}
+      },
+      "5729743695": {
         "liststore": {}
       }
     }
