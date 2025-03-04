@@ -1554,7 +1554,7 @@
       "5374260137": {
         "banned": false,
         "nama": "yes",
-        "saldo": 4000
+        "saldo": 760
       },
       "7251003308": {
         "banned": false,
@@ -2074,6 +2074,11 @@
       "7319778154": {
         "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "5559800206": {
+        "banned": false,
+        "nama": "JEZZ",
         "saldo": 0
       }
     },
@@ -3327,6 +3332,9 @@
         "liststore": {}
       },
       "7319778154": {
+        "liststore": {}
+      },
+      "5559800206": {
         "liststore": {}
       }
     }
