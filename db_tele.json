@@ -2059,7 +2059,7 @@
       "7118072115": {
         "banned": false,
         "nama": "KeJaaOFC",
-        "saldo": 4060
+        "saldo": 820
       },
       "6011446900": {
         "banned": false,
@@ -2079,6 +2079,11 @@
       "5559800206": {
         "banned": false,
         "nama": "JEZZ",
+        "saldo": 0
+      },
+      "5091570030": {
+        "banned": false,
+        "nama": "faanrky",
         "saldo": 0
       }
     },
@@ -3335,6 +3340,9 @@
         "liststore": {}
       },
       "5559800206": {
+        "liststore": {}
+      },
+      "5091570030": {
         "liststore": {}
       }
     }
