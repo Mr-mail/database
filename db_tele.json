@@ -2064,7 +2064,7 @@
       "7118072115": {
         "banned": false,
         "nama": "KeJaaOFC",
-        "saldo": 7009
+        "saldo": 3592
       },
       "6011446900": {
         "banned": false,
@@ -2099,6 +2099,11 @@
       "5932778220": {
         "banned": false,
         "nama": "alza",
+        "saldo": 0
+      },
+      "6770516826": {
+        "banned": false,
+        "nama": "putrrrra",
         "saldo": 0
       }
     },
@@ -3367,6 +3372,9 @@
         "liststore": {}
       },
       "5932778220": {
+        "liststore": {}
+      },
+      "6770516826": {
         "liststore": {}
       }
     }
