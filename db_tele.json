@@ -1914,7 +1914,7 @@
       "6679404162": {
         "banned": false,
         "nama": "ucup",
-        "saldo": 60
+        "saldo": 126
       },
       "6855526158": {
         "banned": false,
@@ -2109,6 +2109,11 @@
       "7058433813": {
         "banned": false,
         "nama": "ciko",
+        "saldo": 0
+      },
+      "6773620530": {
+        "banned": false,
+        "nama": "VallBoy",
         "saldo": 0
       }
     },
@@ -3383,6 +3388,9 @@
         "liststore": {}
       },
       "7058433813": {
+        "liststore": {}
+      },
+      "6773620530": {
         "liststore": {}
       }
     }
