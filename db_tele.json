@@ -124,7 +124,7 @@
       "1397236504": {
         "banned": false,
         "nama": "ca",
-        "saldo": 4487
+        "saldo": 2828
       },
       "1402074133": {
         "banned": false,
@@ -304,7 +304,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 608719
+        "saldo": 600719
       },
       "7553188980": {
         "banned": true,
@@ -2095,6 +2095,11 @@
         "banned": false,
         "nama": "yaz",
         "saldo": 0
+      },
+      "5932778220": {
+        "banned": false,
+        "nama": "alza",
+        "saldo": 18000
       }
     },
     "chats": {
@@ -3359,6 +3364,9 @@
         "liststore": {}
       },
       "7334121391": {
+        "liststore": {}
+      },
+      "5932778220": {
         "liststore": {}
       }
     }
