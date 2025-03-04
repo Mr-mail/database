@@ -1049,7 +1049,7 @@
       "7928414044": {
         "banned": false,
         "nama": "arcan",
-        "saldo": 10858
+        "saldo": 7392
       },
       "8147532741": {
         "banned": false,
@@ -2104,6 +2104,11 @@
       "6770516826": {
         "banned": false,
         "nama": "putrrrra",
+        "saldo": 0
+      },
+      "7058433813": {
+        "banned": false,
+        "nama": "ciko",
         "saldo": 0
       }
     },
@@ -3375,6 +3380,9 @@
         "liststore": {}
       },
       "6770516826": {
+        "liststore": {}
+      },
+      "7058433813": {
         "liststore": {}
       }
     }
