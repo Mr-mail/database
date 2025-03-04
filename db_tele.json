@@ -171,6 +171,11 @@
         "nama": "marr",
         "saldo": 0
       },
+      "1640549674": {
+        "banned": false,
+        "nama": "iyannn",
+        "saldo": 0
+      },
       "1644712510": {
         "banned": false,
         "nama": "Rafqa",
@@ -1044,7 +1049,7 @@
       "7928414044": {
         "banned": false,
         "nama": "arcan",
-        "saldo": 6180
+        "saldo": 4517
       },
       "8147532741": {
         "banned": false,
@@ -2074,7 +2079,7 @@
       "7319778154": {
         "banned": false,
         "nama": "naddz",
-        "saldo": 8000
+        "saldo": 3040
       },
       "5559800206": {
         "banned": false,
@@ -2188,6 +2193,9 @@
         "liststore": {}
       },
       "1598992742": {
+        "liststore": {}
+      },
+      "1640549674": {
         "liststore": {}
       },
       "1644712510": {
