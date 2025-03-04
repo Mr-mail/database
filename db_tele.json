@@ -1834,7 +1834,7 @@
       "6534527239": {
         "banned": false,
         "nama": "roman",
-        "saldo": 1120
+        "saldo": 925
       },
       "6991499507": {
         "banned": false,
@@ -2090,6 +2090,11 @@
         "banned": false,
         "nama": "faanrky",
         "saldo": -4544
+      },
+      "7334121391": {
+        "banned": false,
+        "nama": "yaz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3351,6 +3356,9 @@
         "liststore": {}
       },
       "5091570030": {
+        "liststore": {}
+      },
+      "7334121391": {
         "liststore": {}
       }
     }
