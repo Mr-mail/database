@@ -124,7 +124,7 @@
       "1397236504": {
         "banned": false,
         "nama": "ca",
-        "saldo": 5594
+        "saldo": 3935
       },
       "1402074133": {
         "banned": false,
@@ -304,7 +304,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 585033
+        "saldo": 562967
       },
       "7553188980": {
         "banned": true,
@@ -1514,7 +1514,7 @@
       "7407440121": {
         "banned": false,
         "nama": "nath",
-        "saldo": 60
+        "saldo": 510
       },
       "6323227445": {
         "banned": false,
@@ -2144,6 +2144,11 @@
       "7115609296": {
         "banned": false,
         "nama": "riky aja",
+        "saldo": 0
+      },
+      "6640291113": {
+        "banned": false,
+        "nama": "agung",
         "saldo": 0
       }
     },
@@ -3439,6 +3444,9 @@
         "liststore": {}
       },
       "7115609296": {
+        "liststore": {}
+      },
+      "6640291113": {
         "liststore": {}
       }
     }
