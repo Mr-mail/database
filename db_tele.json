@@ -2130,6 +2130,11 @@
         "banned": false,
         "nama": "rizz",
         "saldo": 0
+      },
+      "7647786331": {
+        "banned": false,
+        "nama": "Valuu",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3415,6 +3420,9 @@
         "liststore": {}
       },
       "6754589926": {
+        "liststore": {}
+      },
+      "7647786331": {
         "liststore": {}
       }
     }
