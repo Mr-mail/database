@@ -2140,6 +2140,11 @@
         "banned": false,
         "nama": "skyline",
         "saldo": 0
+      },
+      "7115609296": {
+        "banned": false,
+        "nama": "riky aja",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3431,6 +3436,9 @@
         "liststore": {}
       },
       "5824666176": {
+        "liststore": {}
+      },
+      "7115609296": {
         "liststore": {}
       }
     }
