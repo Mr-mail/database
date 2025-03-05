@@ -1914,7 +1914,7 @@
       "6679404162": {
         "banned": false,
         "nama": "ucup",
-        "saldo": 126
+        "saldo": 5126
       },
       "6855526158": {
         "banned": false,
@@ -2119,6 +2119,16 @@
       "6098623473": {
         "banned": false,
         "nama": "aditya",
+        "saldo": 0
+      },
+      "6454588964": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "6754589926": {
+        "banned": false,
+        "nama": "rizz",
         "saldo": 0
       }
     },
@@ -3399,6 +3409,12 @@
         "liststore": {}
       },
       "6098623473": {
+        "liststore": {}
+      },
+      "6454588964": {
+        "liststore": {}
+      },
+      "6754589926": {
         "liststore": {}
       }
     }
