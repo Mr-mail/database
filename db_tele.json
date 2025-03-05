@@ -2054,7 +2054,7 @@
       "5729743695": {
         "banned": false,
         "nama": "Fahmi",
-        "saldo": 17657
+        "saldo": 34723
       },
       "7888370232": {
         "banned": false,
@@ -2150,6 +2150,16 @@
         "banned": false,
         "nama": "agung",
         "saldo": 0
+      },
+      "6644740188": {
+        "banned": false,
+        "nama": "Fann",
+        "saldo": 0
+      },
+      "5197332818": {
+        "banned": false,
+        "nama": "gumam",
+        "saldo": 5000
       }
     },
     "chats": {
@@ -3447,6 +3457,12 @@
         "liststore": {}
       },
       "6640291113": {
+        "liststore": {}
+      },
+      "6644740188": {
+        "liststore": {}
+      },
+      "5197332818": {
         "liststore": {}
       }
     }
