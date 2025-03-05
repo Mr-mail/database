@@ -334,7 +334,7 @@
       "7200213951": {
         "banned": false,
         "nama": "nao",
-        "saldo": 1794
+        "saldo": 3794
       },
       "7549896234": {
         "banned": false,
@@ -1049,7 +1049,7 @@
       "7928414044": {
         "banned": false,
         "nama": "arcan",
-        "saldo": 7392
+        "saldo": 4152
       },
       "8147532741": {
         "banned": false,
@@ -1189,7 +1189,7 @@
       "5567896798": {
         "banned": false,
         "nama": "Dafa,store",
-        "saldo": 1195
+        "saldo": 715
       },
       "7694132294": {
         "banned": false,
@@ -2064,7 +2064,7 @@
       "7118072115": {
         "banned": false,
         "nama": "KeJaaOFC",
-        "saldo": 352
+        "saldo": 6352
       },
       "6011446900": {
         "banned": false,
@@ -2134,6 +2134,11 @@
       "7647786331": {
         "banned": false,
         "nama": "Valuu",
+        "saldo": 0
+      },
+      "5824666176": {
+        "banned": false,
+        "nama": "skyline",
         "saldo": 0
       }
     },
@@ -3423,6 +3428,9 @@
         "liststore": {}
       },
       "7647786331": {
+        "liststore": {}
+      },
+      "5824666176": {
         "liststore": {}
       }
     }
