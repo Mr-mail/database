@@ -2160,6 +2160,11 @@
         "banned": false,
         "nama": "gumam",
         "saldo": 740
+      },
+      "5839070895": {
+        "banned": false,
+        "nama": "mingyu",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3463,6 +3468,9 @@
         "liststore": {}
       },
       "5197332818": {
+        "liststore": {}
+      },
+      "5839070895": {
         "liststore": {}
       }
     }
