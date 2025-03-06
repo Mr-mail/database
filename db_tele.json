@@ -2190,6 +2190,11 @@
         "banned": false,
         "nama": "Cokzz",
         "saldo": 2352
+      },
+      "6651068816": {
+        "banned": false,
+        "nama": "Aden",
+        "saldo": 500
       }
     },
     "chats": {
@@ -3511,6 +3516,9 @@
         "liststore": {}
       },
       "6916997916": {
+        "liststore": {}
+      },
+      "6651068816": {
         "liststore": {}
       }
     }
