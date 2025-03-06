@@ -2185,6 +2185,11 @@
         "banned": false,
         "nama": "perdomsehh",
         "saldo": 0
+      },
+      "6916997916": {
+        "banned": false,
+        "nama": "Cokzz",
+        "saldo": 5000
       }
     },
     "chats": {
@@ -3503,6 +3508,9 @@
         "liststore": {}
       },
       "7901365148": {
+        "liststore": {}
+      },
+      "6916997916": {
         "liststore": {}
       }
     }
