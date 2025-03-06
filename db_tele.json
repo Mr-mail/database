@@ -2054,7 +2054,7 @@
       "5729743695": {
         "banned": false,
         "nama": "Fahmi",
-        "saldo": 28243
+        "saldo": 24803
       },
       "7888370232": {
         "banned": false,
@@ -2064,7 +2064,7 @@
       "7118072115": {
         "banned": false,
         "nama": "KeJaaOFC",
-        "saldo": 1110
+        "saldo": 7110
       },
       "6011446900": {
         "banned": false,
@@ -2169,6 +2169,11 @@
       "7613429323": {
         "banned": false,
         "nama": "byad",
+        "saldo": 0
+      },
+      "7860185246": {
+        "banned": false,
+        "nama": "Jaszz",
         "saldo": 0
       }
     },
@@ -3479,6 +3484,9 @@
         "liststore": {}
       },
       "7613429323": {
+        "liststore": {}
+      },
+      "7860185246": {
         "liststore": {}
       }
     }
