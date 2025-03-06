@@ -76,6 +76,11 @@
         "nama": "elvozin",
         "saldo": 0
       },
+      "1315430061": {
+        "banned": false,
+        "nama": "zanss",
+        "saldo": 0
+      },
       "1317259674": {
         "banned": false,
         "nama": "litha",
@@ -649,7 +654,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 47
+        "saldo": 2550
       },
       "5688877828": {
         "banned": false,
@@ -2210,6 +2215,41 @@
         "banned": false,
         "nama": "Rasyid",
         "saldo": 0
+      },
+      "7409978233": {
+        "banned": false,
+        "nama": "hanz",
+        "saldo": 0
+      },
+      "6655964701": {
+        "banned": false,
+        "nama": "onyvi",
+        "saldo": 0
+      },
+      "7417532973": {
+        "banned": false,
+        "nama": "ven",
+        "saldo": 0
+      },
+      "5451984681": {
+        "banned": false,
+        "nama": "udin",
+        "saldo": 0
+      },
+      "8105812832": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "6662052107": {
+        "banned": false,
+        "nama": "Musyafa",
+        "saldo": 0
+      },
+      "5505627777": {
+        "banned": false,
+        "nama": "Kenn",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2256,6 +2296,9 @@
         "liststore": {}
       },
       "1271500748": {
+        "liststore": {}
+      },
+      "1315430061": {
         "liststore": {}
       },
       "1317259674": {
@@ -3543,6 +3586,27 @@
         "liststore": {}
       },
       "6585072381": {
+        "liststore": {}
+      },
+      "7409978233": {
+        "liststore": {}
+      },
+      "6655964701": {
+        "liststore": {}
+      },
+      "7417532973": {
+        "liststore": {}
+      },
+      "5451984681": {
+        "liststore": {}
+      },
+      "8105812832": {
+        "liststore": {}
+      },
+      "6662052107": {
+        "liststore": {}
+      },
+      "5505627777": {
         "liststore": {}
       }
     }
