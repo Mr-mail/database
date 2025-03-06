@@ -463,7 +463,7 @@
       },
       "5451611344": {
         "banned": false,
-        "nama": "Guest",
+        "nama": "Rams",
         "saldo": 0
       },
       "8152335407": {
@@ -649,7 +649,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 4235
+        "saldo": 47
       },
       "5688877828": {
         "banned": false,
@@ -2054,7 +2054,7 @@
       "5729743695": {
         "banned": false,
         "nama": "Fahmi",
-        "saldo": 11043
+        "saldo": 7603
       },
       "7888370232": {
         "banned": false,
@@ -2195,6 +2195,21 @@
         "banned": false,
         "nama": "Aden",
         "saldo": 500
+      },
+      "6767139779": {
+        "banned": false,
+        "nama": "zakyy",
+        "saldo": 0
+      },
+      "7901115333": {
+        "banned": false,
+        "nama": "Yoga",
+        "saldo": 0
+      },
+      "6585072381": {
+        "banned": false,
+        "nama": "Rasyid",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3519,6 +3534,15 @@
         "liststore": {}
       },
       "6651068816": {
+        "liststore": {}
+      },
+      "6767139779": {
+        "liststore": {}
+      },
+      "7901115333": {
+        "liststore": {}
+      },
+      "6585072381": {
         "liststore": {}
       }
     }
