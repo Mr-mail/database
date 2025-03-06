@@ -649,7 +649,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 10358
+        "saldo": 4235
       },
       "5688877828": {
         "banned": false,
@@ -1049,7 +1049,7 @@
       "7928414044": {
         "banned": false,
         "nama": "arcan",
-        "saldo": 4152
+        "saldo": 912
       },
       "8147532741": {
         "banned": false,
@@ -1914,7 +1914,7 @@
       "6679404162": {
         "banned": false,
         "nama": "ucup",
-        "saldo": 5103
+        "saldo": 15011
       },
       "6855526158": {
         "banned": false,
@@ -2064,7 +2064,7 @@
       "7118072115": {
         "banned": false,
         "nama": "KeJaaOFC",
-        "saldo": 5872
+        "saldo": 1110
       },
       "6011446900": {
         "banned": false,
@@ -2164,6 +2164,11 @@
       "5839070895": {
         "banned": false,
         "nama": "mingyu",
+        "saldo": 0
+      },
+      "7613429323": {
+        "banned": false,
+        "nama": "byad",
         "saldo": 0
       }
     },
@@ -3471,6 +3476,9 @@
         "liststore": {}
       },
       "5839070895": {
+        "liststore": {}
+      },
+      "7613429323": {
         "liststore": {}
       }
     }
