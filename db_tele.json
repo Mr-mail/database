@@ -304,7 +304,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 548438
+        "saldo": 526932
       },
       "7553188980": {
         "banned": true,
@@ -1664,7 +1664,7 @@
       "7774800935": {
         "banned": false,
         "nama": "Zulkhairi",
-        "saldo": 564
+        "saldo": 5564
       },
       "5526854597": {
         "banned": false,
@@ -1889,7 +1889,7 @@
       "7138192400": {
         "banned": false,
         "nama": "freyana",
-        "saldo": 3613
+        "saldo": 173
       },
       "7770276880": {
         "banned": false,
@@ -2024,7 +2024,7 @@
       "7310984460": {
         "banned": false,
         "nama": "Satriaa",
-        "saldo": 160
+        "saldo": 120
       },
       "6941356590": {
         "banned": false,
@@ -2054,7 +2054,7 @@
       "5729743695": {
         "banned": false,
         "nama": "Fahmi",
-        "saldo": 24803
+        "saldo": 11043
       },
       "7888370232": {
         "banned": false,
@@ -2064,7 +2064,7 @@
       "7118072115": {
         "banned": false,
         "nama": "KeJaaOFC",
-        "saldo": 7110
+        "saldo": 3670
       },
       "6011446900": {
         "banned": false,
@@ -2174,6 +2174,11 @@
       "7860185246": {
         "banned": false,
         "nama": "Jaszz",
+        "saldo": 0
+      },
+      "6755621180": {
+        "banned": false,
+        "nama": "zall",
         "saldo": 0
       }
     },
@@ -3487,6 +3492,9 @@
         "liststore": {}
       },
       "7860185246": {
+        "liststore": {}
+      },
+      "6755621180": {
         "liststore": {}
       }
     }
