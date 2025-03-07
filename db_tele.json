@@ -2069,7 +2069,7 @@
       "5729743695": {
         "banned": false,
         "nama": "Fahmi",
-        "saldo": 4163
+        "saldo": 7603
       },
       "7888370232": {
         "banned": false,
@@ -2299,6 +2299,11 @@
       "7620657502": {
         "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "6629012702": {
+        "banned": false,
+        "nama": "Tyana",
         "saldo": 0
       }
     },
@@ -3687,6 +3692,9 @@
         "liststore": {}
       },
       "7620657502": {
+        "liststore": {}
+      },
+      "6629012702": {
         "liststore": {}
       }
     }
