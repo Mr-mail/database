@@ -223,7 +223,7 @@
       },
       "1804565433": {
         "banned": false,
-        "nama": "Guest",
+        "nama": "Shiro",
         "saldo": 0
       },
       "1815165381": {
@@ -324,7 +324,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 494481
+        "saldo": 482358
       },
       "7553188980": {
         "banned": true,
@@ -1774,7 +1774,7 @@
       "6472514378": {
         "banned": false,
         "nama": "Fmanzz",
-        "saldo": 0
+        "saldo": 40
       },
       "7929209784": {
         "banned": false,
@@ -2309,6 +2309,11 @@
       "6629012702": {
         "banned": false,
         "nama": "Tyana",
+        "saldo": 0
+      },
+      "6106516858": {
+        "banned": false,
+        "nama": "Agung",
         "saldo": 0
       }
     },
@@ -3703,6 +3708,9 @@
         "liststore": {}
       },
       "6629012702": {
+        "liststore": {}
+      },
+      "6106516858": {
         "liststore": {}
       }
     }
