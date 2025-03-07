@@ -2340,6 +2340,11 @@
         "banned": false,
         "nama": "ngszzz",
         "saldo": 0
+      },
+      "6024630052": {
+        "banned": false,
+        "nama": "hantu",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3751,6 +3756,9 @@
         "liststore": {}
       },
       "6215433076": {
+        "liststore": {}
+      },
+      "6024630052": {
         "liststore": {}
       }
     }
