@@ -319,7 +319,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 526932
+        "saldo": 498310
       },
       "7553188980": {
         "banned": true,
@@ -1904,7 +1904,7 @@
       "7138192400": {
         "banned": false,
         "nama": "freyana",
-        "saldo": 173
+        "saldo": 244
       },
       "7770276880": {
         "banned": false,
@@ -2274,6 +2274,21 @@
       "7341628986": {
         "banned": false,
         "nama": "boy",
+        "saldo": 0
+      },
+      "7839618829": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "6865101634": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "6921194843": {
+        "banned": false,
+        "nama": "rixzyy",
         "saldo": 0
       }
     },
@@ -3647,6 +3662,15 @@
         "liststore": {}
       },
       "7341628986": {
+        "liststore": {}
+      },
+      "7839618829": {
+        "liststore": {}
+      },
+      "6865101634": {
+        "liststore": {}
+      },
+      "6921194843": {
         "liststore": {}
       }
     }
