@@ -1204,7 +1204,7 @@
       "5567896798": {
         "banned": false,
         "nama": "Dafa,store",
-        "saldo": 715
+        "saldo": 275
       },
       "7694132294": {
         "banned": false,
@@ -1769,7 +1769,7 @@
       "6472514378": {
         "banned": false,
         "nama": "Fmanzz",
-        "saldo": 0
+        "saldo": 5000
       },
       "7929209784": {
         "banned": false,
@@ -2294,6 +2294,11 @@
       "7233272550": {
         "banned": false,
         "nama": "thoriq",
+        "saldo": 0
+      },
+      "7620657502": {
+        "banned": false,
+        "nama": "Guest",
         "saldo": 0
       }
     },
@@ -3679,6 +3684,9 @@
         "liststore": {}
       },
       "7233272550": {
+        "liststore": {}
+      },
+      "7620657502": {
         "liststore": {}
       }
     }
