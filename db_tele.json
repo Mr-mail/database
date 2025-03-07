@@ -2335,6 +2335,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "6215433076": {
+        "banned": false,
+        "nama": "ngszzz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3743,6 +3748,9 @@
         "liststore": {}
       },
       "8108745162": {
+        "liststore": {}
+      },
+      "6215433076": {
         "liststore": {}
       }
     }
