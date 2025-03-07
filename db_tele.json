@@ -2139,7 +2139,7 @@
       "6773620530": {
         "banned": false,
         "nama": "VallBoy",
-        "saldo": 1080
+        "saldo": 5540
       },
       "6098623473": {
         "banned": false,
@@ -2324,6 +2324,11 @@
       "7686929348": {
         "banned": false,
         "nama": "caid",
+        "saldo": 0
+      },
+      "6568535839": {
+        "banned": false,
+        "nama": "ytou",
         "saldo": 0
       }
     },
@@ -3727,6 +3732,9 @@
         "liststore": {}
       },
       "7686929348": {
+        "liststore": {}
+      },
+      "6568535839": {
         "liststore": {}
       }
     }
