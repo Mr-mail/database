@@ -181,6 +181,11 @@
         "nama": "marr",
         "saldo": 0
       },
+      "1622364285": {
+        "banned": false,
+        "nama": "scyconize",
+        "saldo": 0
+      },
       "1640549674": {
         "banned": false,
         "nama": "iyannn",
@@ -324,7 +329,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 482358
+        "saldo": 456013
       },
       "7553188980": {
         "banned": true,
@@ -1989,7 +1994,7 @@
       "7293612116": {
         "banned": false,
         "nama": "Epi",
-        "saldo": 10
+        "saldo": 1529
       },
       "6553586695": {
         "banned": false,
@@ -2134,7 +2139,7 @@
       "6773620530": {
         "banned": false,
         "nama": "VallBoy",
-        "saldo": 5540
+        "saldo": 1080
       },
       "6098623473": {
         "banned": false,
@@ -2315,6 +2320,11 @@
         "banned": false,
         "nama": "Agung",
         "saldo": 0
+      },
+      "7686929348": {
+        "banned": false,
+        "nama": "caid",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2424,6 +2434,9 @@
         "liststore": {}
       },
       "1598992742": {
+        "liststore": {}
+      },
+      "1622364285": {
         "liststore": {}
       },
       "1640549674": {
@@ -3711,6 +3724,9 @@
         "liststore": {}
       },
       "6106516858": {
+        "liststore": {}
+      },
+      "7686929348": {
         "liststore": {}
       }
     }
