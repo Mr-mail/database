@@ -1074,7 +1074,7 @@
       "7928414044": {
         "banned": false,
         "nama": "arcan",
-        "saldo": 5472
+        "saldo": 2032
       },
       "8147532741": {
         "banned": false,
@@ -1539,7 +1539,7 @@
       "7407440121": {
         "banned": false,
         "nama": "nath",
-        "saldo": 510
+        "saldo": 12510
       },
       "6323227445": {
         "banned": false,
@@ -2038,7 +2038,7 @@
       },
       "7707728648": {
         "banned": false,
-        "nama": "Guest",
+        "nama": "zxuzin",
         "saldo": 0
       },
       "7761333969": {
@@ -2329,6 +2329,11 @@
       "6568535839": {
         "banned": false,
         "nama": "ytou",
+        "saldo": 0
+      },
+      "8108745162": {
+        "banned": false,
+        "nama": "Guest",
         "saldo": 0
       }
     },
@@ -3735,6 +3740,9 @@
         "liststore": {}
       },
       "6568535839": {
+        "liststore": {}
+      },
+      "8108745162": {
         "liststore": {}
       }
     }
