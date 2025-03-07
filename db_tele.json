@@ -24,7 +24,7 @@
       "595092077": {
         "banned": false,
         "nama": "Taufiq",
-        "saldo": 12000
+        "saldo": 0
       },
       "648514594": {
         "banned": false,
@@ -264,6 +264,11 @@
       "1927764453": {
         "banned": false,
         "nama": "izi",
+        "saldo": 0
+      },
+      "1950481383": {
+        "banned": false,
+        "nama": "nao nao",
         "saldo": 0
       },
       "1959316791": {
@@ -1214,7 +1219,7 @@
       "7049380939": {
         "banned": false,
         "nama": "lordzx",
-        "saldo": 1395
+        "saldo": 528
       },
       "7477973364": {
         "banned": false,
@@ -1924,7 +1929,7 @@
       "6679404162": {
         "banned": false,
         "nama": "ucup",
-        "saldo": 15011
+        "saldo": 8511
       },
       "6855526158": {
         "banned": false,
@@ -2064,7 +2069,7 @@
       "5729743695": {
         "banned": false,
         "nama": "Fahmi",
-        "saldo": 7603
+        "saldo": 4163
       },
       "7888370232": {
         "banned": false,
@@ -2265,6 +2270,11 @@
         "banned": false,
         "nama": "rexxtzy",
         "saldo": 0
+      },
+      "7341628986": {
+        "banned": false,
+        "nama": "boy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2425,6 +2435,9 @@
         "liststore": {}
       },
       "1927764453": {
+        "liststore": {}
+      },
+      "1950481383": {
         "liststore": {}
       },
       "1959316791": {
@@ -3631,6 +3644,9 @@
         "liststore": {}
       },
       "6965256545": {
+        "liststore": {}
+      },
+      "7341628986": {
         "liststore": {}
       }
     }
