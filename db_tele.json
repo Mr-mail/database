@@ -2380,6 +2380,16 @@
         "banned": false,
         "nama": "Jack",
         "saldo": 0
+      },
+      "7899673440": {
+        "banned": false,
+        "nama": "fanz",
+        "saldo": 0
+      },
+      "7994264155": {
+        "banned": false,
+        "nama": "rinjani",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3815,6 +3825,12 @@
         "liststore": {}
       },
       "6312801995": {
+        "liststore": {}
+      },
+      "7899673440": {
+        "liststore": {}
+      },
+      "7994264155": {
         "liststore": {}
       }
     }
