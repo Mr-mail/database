@@ -126,6 +126,11 @@
         "nama": "minz",
         "saldo": 0
       },
+      "1368371005": {
+        "banned": false,
+        "nama": "vina",
+        "saldo": 0
+      },
       "1378403620": {
         "banned": false,
         "nama": "shu",
@@ -344,7 +349,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 428167
+        "saldo": 433433
       },
       "7553188980": {
         "banned": true,
@@ -2390,6 +2395,11 @@
         "banned": false,
         "nama": "rinjani",
         "saldo": 4380
+      },
+      "6590221178": {
+        "banned": false,
+        "nama": "rixk",
+        "saldo": 0
       }
     },
     "chats": {
@@ -2466,6 +2476,9 @@
         "liststore": {}
       },
       "1362680990": {
+        "liststore": {}
+      },
+      "1368371005": {
         "liststore": {}
       },
       "1378403620": {
@@ -3831,6 +3844,9 @@
         "liststore": {}
       },
       "7994264155": {
+        "liststore": {}
+      },
+      "6590221178": {
         "liststore": {}
       }
     }
