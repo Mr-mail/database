@@ -2425,6 +2425,11 @@
         "banned": false,
         "nama": "zulfar",
         "saldo": 0
+      },
+      "7144439703": {
+        "banned": false,
+        "nama": "koo",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3887,6 +3892,9 @@
         "liststore": {}
       },
       "7310100790": {
+        "liststore": {}
+      },
+      "7144439703": {
         "liststore": {}
       }
     }
