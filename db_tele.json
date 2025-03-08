@@ -494,7 +494,7 @@
       "6363164205": {
         "banned": false,
         "nama": "kayzahi",
-        "saldo": 29665
+        "saldo": 26225
       },
       "7130426214": {
         "banned": false,
@@ -1039,7 +1039,7 @@
       "7565154481": {
         "banned": false,
         "nama": "warxz",
-        "saldo": 5620
+        "saldo": 2180
       },
       "6443517325": {
         "banned": false,
@@ -2409,6 +2409,11 @@
       "8066850598": {
         "banned": false,
         "nama": "sweezy",
+        "saldo": 0
+      },
+      "6887232592": {
+        "banned": false,
+        "nama": "deny",
         "saldo": 0
       }
     },
@@ -3863,6 +3868,9 @@
         "liststore": {}
       },
       "8066850598": {
+        "liststore": {}
+      },
+      "6887232592": {
         "liststore": {}
       }
     }
