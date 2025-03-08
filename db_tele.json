@@ -2400,6 +2400,11 @@
         "banned": false,
         "nama": "rixk",
         "saldo": 0
+      },
+      "5671503692": {
+        "banned": false,
+        "nama": "hendz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3847,6 +3852,9 @@
         "liststore": {}
       },
       "6590221178": {
+        "liststore": {}
+      },
+      "5671503692": {
         "liststore": {}
       }
     }
