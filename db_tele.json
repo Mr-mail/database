@@ -66,6 +66,11 @@
         "nama": "adrian",
         "saldo": 0
       },
+      "1249034623": {
+        "banned": false,
+        "nama": "zell",
+        "saldo": 0
+      },
       "1261128300": {
         "banned": false,
         "nama": "Flavo",
@@ -2400,6 +2405,9 @@
         "liststore": {}
       },
       "982351292": {
+        "liststore": {}
+      },
+      "1249034623": {
         "liststore": {}
       },
       "1261128300": {
