@@ -349,7 +349,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 433433
+        "saldo": 428433
       },
       "7553188980": {
         "banned": true,
@@ -1039,7 +1039,7 @@
       "7565154481": {
         "banned": false,
         "nama": "warxz",
-        "saldo": 4060
+        "saldo": 5620
       },
       "6443517325": {
         "banned": false,
@@ -2404,6 +2404,11 @@
       "5671503692": {
         "banned": false,
         "nama": "hendz",
+        "saldo": 0
+      },
+      "8066850598": {
+        "banned": false,
+        "nama": "sweezy",
         "saldo": 0
       }
     },
@@ -3855,6 +3860,9 @@
         "liststore": {}
       },
       "5671503692": {
+        "liststore": {}
+      },
+      "8066850598": {
         "liststore": {}
       }
     }
