@@ -21,6 +21,11 @@
         "nama": "Guest",
         "saldo": 0
       },
+      "568685728": {
+        "banned": false,
+        "nama": "Naira",
+        "saldo": 0
+      },
       "595092077": {
         "banned": false,
         "nama": "Taufiq",
@@ -189,7 +194,7 @@
       "1622364285": {
         "banned": false,
         "nama": "scyconize",
-        "saldo": 0
+        "saldo": 5966
       },
       "1640549674": {
         "banned": false,
@@ -1708,7 +1713,7 @@
       },
       "7085429027": {
         "banned": false,
-        "nama": "Guest",
+        "nama": "rizxyy",
         "saldo": 0
       },
       "5530436998": {
@@ -1944,7 +1949,7 @@
       "6679404162": {
         "banned": false,
         "nama": "ucup",
-        "saldo": 5071
+        "saldo": 1631
       },
       "6855526158": {
         "banned": false,
@@ -2378,6 +2383,9 @@
         "liststore": {}
       },
       "460239101": {
+        "liststore": {}
+      },
+      "568685728": {
         "liststore": {}
       },
       "595092077": {
