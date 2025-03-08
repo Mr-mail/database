@@ -2370,6 +2370,11 @@
         "banned": false,
         "nama": "DHILZ",
         "saldo": 0
+      },
+      "6312801995": {
+        "banned": false,
+        "nama": "Jack",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3799,6 +3804,9 @@
         "liststore": {}
       },
       "7340345384": {
+        "liststore": {}
+      },
+      "6312801995": {
         "liststore": {}
       }
     }
