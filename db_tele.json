@@ -2355,6 +2355,11 @@
         "banned": false,
         "nama": "akb",
         "saldo": 0
+      },
+      "7340345384": {
+        "banned": false,
+        "nama": "DHILZ",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3775,6 +3780,9 @@
         "liststore": {}
       },
       "6425257764": {
+        "liststore": {}
+      },
+      "7340345384": {
         "liststore": {}
       }
     }
