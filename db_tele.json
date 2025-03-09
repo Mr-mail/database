@@ -2450,6 +2450,11 @@
         "banned": false,
         "nama": "Hyr",
         "saldo": 94
+      },
+      "6597049540": {
+        "banned": false,
+        "nama": "Zii",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3927,6 +3932,9 @@
         "liststore": {}
       },
       "6612693021": {
+        "liststore": {}
+      },
+      "6597049540": {
         "liststore": {}
       }
     }
