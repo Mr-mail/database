@@ -2430,6 +2430,16 @@
         "banned": false,
         "nama": "koo",
         "saldo": 0
+      },
+      "7070455696": {
+        "banned": false,
+        "nama": "Benny",
+        "saldo": 0
+      },
+      "7267616724": {
+        "banned": false,
+        "nama": "OrngGnteng",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3895,6 +3905,12 @@
         "liststore": {}
       },
       "7144439703": {
+        "liststore": {}
+      },
+      "7070455696": {
+        "liststore": {}
+      },
+      "7267616724": {
         "liststore": {}
       }
     }
