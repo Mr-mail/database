@@ -41,6 +41,11 @@
         "nama": "Rex",
         "saldo": 0
       },
+      "772338474": {
+        "banned": false,
+        "nama": "mxn",
+        "saldo": 0
+      },
       "804798806": {
         "banned": false,
         "nama": "ridho",
@@ -694,7 +699,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 2201
+        "saldo": 10201
       },
       "5688877828": {
         "banned": false,
@@ -2495,6 +2500,9 @@
         "liststore": {}
       },
       "656810755": {
+        "liststore": {}
+      },
+      "772338474": {
         "liststore": {}
       },
       "804798806": {
