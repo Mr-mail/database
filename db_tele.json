@@ -2530,6 +2530,11 @@
         "banned": false,
         "nama": "yandex",
         "saldo": 0
+      },
+      "8102781824": {
+        "banned": false,
+        "nama": "arkan",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4058,6 +4063,9 @@
         "liststore": {}
       },
       "6562371334": {
+        "liststore": {}
+      },
+      "8102781824": {
         "liststore": {}
       }
     }
