@@ -2480,6 +2480,16 @@
         "banned": false,
         "nama": "Hansel/19",
         "saldo": 1560
+      },
+      "7350557037": {
+        "banned": false,
+        "nama": "gucigeng",
+        "saldo": 20875
+      },
+      "6329495578": {
+        "banned": false,
+        "nama": "blue",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3975,6 +3985,12 @@
         "liststore": {}
       },
       "5600472161": {
+        "liststore": {}
+      },
+      "7350557037": {
+        "liststore": {}
+      },
+      "6329495578": {
         "liststore": {}
       }
     }
