@@ -1884,7 +1884,7 @@
       "6534527239": {
         "banned": false,
         "nama": "roman",
-        "saldo": 5472
+        "saldo": 2032
       },
       "6991499507": {
         "banned": false,
@@ -2494,6 +2494,11 @@
       "7250341707": {
         "banned": false,
         "nama": "ZeeStoreV1",
+        "saldo": 0
+      },
+      "7276998584": {
+        "banned": false,
+        "nama": "fatih",
         "saldo": 0
       }
     },
@@ -4002,6 +4007,9 @@
         "liststore": {}
       },
       "-1002407788568": {
+        "liststore": {}
+      },
+      "7276998584": {
         "liststore": {}
       }
     }
