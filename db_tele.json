@@ -439,7 +439,7 @@
       "6428385735": {
         "banned": false,
         "nama": "cici",
-        "saldo": 371
+        "saldo": 431
       },
       "7141421535": {
         "banned": false,
@@ -1099,7 +1099,7 @@
       "7928414044": {
         "banned": false,
         "nama": "arcan",
-        "saldo": 9183
+        "saldo": 828
       },
       "8147532741": {
         "banned": false,
@@ -2489,6 +2489,11 @@
       "6329495578": {
         "banned": false,
         "nama": "blue",
+        "saldo": 0
+      },
+      "7250341707": {
+        "banned": false,
+        "nama": "ZeeStoreV1",
         "saldo": 0
       }
     },
@@ -3991,6 +3996,12 @@
         "liststore": {}
       },
       "6329495578": {
+        "liststore": {}
+      },
+      "7250341707": {
+        "liststore": {}
+      },
+      "-1002407788568": {
         "liststore": {}
       }
     }
