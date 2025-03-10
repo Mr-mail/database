@@ -76,6 +76,11 @@
         "nama": "adrian",
         "saldo": 0
       },
+      "987162467": {
+        "banned": false,
+        "nama": "Yudha",
+        "saldo": 0
+      },
       "1199617836": {
         "banned": false,
         "nama": "riz",
@@ -699,7 +704,7 @@
       "7011076345": {
         "banned": false,
         "nama": "VallzStore",
-        "saldo": 8750
+        "saldo": 2137
       },
       "5688877828": {
         "banned": false,
@@ -2546,6 +2551,9 @@
         "liststore": {}
       },
       "982351292": {
+        "liststore": {}
+      },
+      "987162467": {
         "liststore": {}
       },
       "1199617836": {
