@@ -2565,6 +2565,11 @@
         "banned": false,
         "nama": "marzsc",
         "saldo": 0
+      },
+      "6828137147": {
+        "banned": false,
+        "nama": "han",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4114,6 +4119,9 @@
         "liststore": {}
       },
       "7620795943": {
+        "liststore": {}
+      },
+      "6828137147": {
         "liststore": {}
       }
     }
