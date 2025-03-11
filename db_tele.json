@@ -389,7 +389,7 @@
       "5815870799": {
         "banned": false,
         "nama": "kuroo",
-        "saldo": 13523
+        "saldo": 119
       },
       "7200213951": {
         "banned": false,
@@ -509,7 +509,7 @@
       "6363164205": {
         "banned": false,
         "nama": "kayzahi",
-        "saldo": 47448
+        "saldo": 44008
       },
       "7130426214": {
         "banned": false,
@@ -2545,6 +2545,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "6961688873": {
+        "banned": false,
+        "nama": "gza",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4082,6 +4087,9 @@
         "liststore": {}
       },
       "7042786255": {
+        "liststore": {}
+      },
+      "6961688873": {
         "liststore": {}
       }
     }
