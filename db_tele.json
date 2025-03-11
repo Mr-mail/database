@@ -2570,6 +2570,11 @@
         "banned": false,
         "nama": "han",
         "saldo": 0
+      },
+      "5998406115": {
+        "banned": false,
+        "nama": "keii",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4122,6 +4127,9 @@
         "liststore": {}
       },
       "6828137147": {
+        "liststore": {}
+      },
+      "5998406115": {
         "liststore": {}
       }
     }
