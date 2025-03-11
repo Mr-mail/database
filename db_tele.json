@@ -69,7 +69,7 @@
       "939180509": {
         "banned": false,
         "nama": "Ordinary",
-        "saldo": 16486
+        "saldo": 641
       },
       "953397565": {
         "banned": false,
@@ -269,6 +269,11 @@
       "1815165381": {
         "banned": false,
         "nama": "zoro",
+        "saldo": 0
+      },
+      "1833362452": {
+        "banned": false,
+        "nama": "baboi",
         "saldo": 0
       },
       "1857633105": {
@@ -2738,6 +2743,9 @@
         "liststore": {}
       },
       "1815165381": {
+        "liststore": {}
+      },
+      "1833362452": {
         "liststore": {}
       },
       "1857633105": {
