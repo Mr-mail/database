@@ -2535,6 +2535,11 @@
         "banned": false,
         "nama": "arkan",
         "saldo": 0
+      },
+      "5351978289": {
+        "banned": false,
+        "nama": "Junaa",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4066,6 +4071,9 @@
         "liststore": {}
       },
       "8102781824": {
+        "liststore": {}
+      },
+      "5351978289": {
         "liststore": {}
       }
     }
