@@ -509,7 +509,7 @@
       "6363164205": {
         "banned": false,
         "nama": "kayzahi",
-        "saldo": 44008
+        "saldo": 40568
       },
       "7130426214": {
         "banned": false,
@@ -2550,6 +2550,11 @@
         "banned": false,
         "nama": "gza",
         "saldo": 0
+      },
+      "6885430705": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4090,6 +4095,9 @@
         "liststore": {}
       },
       "6961688873": {
+        "liststore": {}
+      },
+      "6885430705": {
         "liststore": {}
       }
     }
