@@ -389,7 +389,7 @@
       "5815870799": {
         "banned": false,
         "nama": "kuroo",
-        "saldo": 23
+        "saldo": 13523
       },
       "7200213951": {
         "banned": false,
@@ -2540,6 +2540,11 @@
         "banned": false,
         "nama": "Junaa",
         "saldo": 0
+      },
+      "7042786255": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4074,6 +4079,9 @@
         "liststore": {}
       },
       "5351978289": {
+        "liststore": {}
+      },
+      "7042786255": {
         "liststore": {}
       }
     }
