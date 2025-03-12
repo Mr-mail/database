@@ -2635,6 +2635,11 @@
         "banned": false,
         "nama": "LumnzTyz",
         "saldo": 0
+      },
+      "5244949136": {
+        "banned": false,
+        "nama": "Awik",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4226,6 +4231,9 @@
         "liststore": {}
       },
       "7684500393": {
+        "liststore": {}
+      },
+      "5244949136": {
         "liststore": {}
       }
     }
