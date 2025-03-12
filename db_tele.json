@@ -91,6 +91,11 @@
         "nama": "sipeen",
         "saldo": 0
       },
+      "1197545094": {
+        "banned": false,
+        "nama": "nesky",
+        "saldo": 0
+      },
       "1199617836": {
         "banned": false,
         "nama": "riz",
@@ -2685,6 +2690,9 @@
         "liststore": {}
       },
       "1142664138": {
+        "liststore": {}
+      },
+      "1197545094": {
         "liststore": {}
       },
       "1199617836": {
