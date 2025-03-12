@@ -2595,6 +2595,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "8045648799": {
+        "banned": false,
+        "nama": "Aldo",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4162,6 +4167,9 @@
         "liststore": {}
       },
       "6586248385": {
+        "liststore": {}
+      },
+      "8045648799": {
         "liststore": {}
       }
     }
