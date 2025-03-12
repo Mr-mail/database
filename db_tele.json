@@ -86,6 +86,11 @@
         "nama": "Yudha",
         "saldo": 0
       },
+      "1142664138": {
+        "banned": false,
+        "nama": "sipeen",
+        "saldo": 0
+      },
       "1199617836": {
         "banned": false,
         "nama": "riz",
@@ -324,6 +329,11 @@
       "1959316791": {
         "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "1973192455": {
+        "banned": false,
+        "nama": "dono",
         "saldo": 0
       },
       "2004577074": {
@@ -2664,6 +2674,9 @@
       "987162467": {
         "liststore": {}
       },
+      "1142664138": {
+        "liststore": {}
+      },
       "1199617836": {
         "liststore": {}
       },
@@ -2806,6 +2819,9 @@
         "liststore": {}
       },
       "1959316791": {
+        "liststore": {}
+      },
+      "1973192455": {
         "liststore": {}
       },
       "2004577074": {
