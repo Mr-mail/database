@@ -1979,7 +1979,7 @@
       "6679404162": {
         "banned": false,
         "nama": "ucup",
-        "saldo": 4631
+        "saldo": 1191
       },
       "6855526158": {
         "banned": false,
@@ -2599,6 +2599,11 @@
       "8045648799": {
         "banned": false,
         "nama": "Aldo",
+        "saldo": 0
+      },
+      "7364970615": {
+        "banned": false,
+        "nama": "Guest",
         "saldo": 0
       }
     },
@@ -4170,6 +4175,9 @@
         "liststore": {}
       },
       "8045648799": {
+        "liststore": {}
+      },
+      "7364970615": {
         "liststore": {}
       }
     }
