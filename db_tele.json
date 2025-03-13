@@ -2009,7 +2009,7 @@
       "7063750602": {
         "banned": false,
         "nama": "kevin",
-        "saldo": 4974
+        "saldo": 2554
       },
       "7201248947": {
         "banned": false,
@@ -2684,6 +2684,11 @@
       "5367413296": {
         "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "7068240720": {
+        "banned": false,
+        "nama": "rilzzxxx",
         "saldo": 0
       }
     },
@@ -4306,6 +4311,9 @@
         "liststore": {}
       },
       "5367413296": {
+        "liststore": {}
+      },
+      "7068240720": {
         "liststore": {}
       }
     }
