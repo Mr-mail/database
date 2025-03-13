@@ -2594,7 +2594,7 @@
       "5998406115": {
         "banned": false,
         "nama": "keii",
-        "saldo": 5000
+        "saldo": 2391
       },
       "7626541085": {
         "banned": false,
@@ -2654,6 +2654,21 @@
       "7179456791": {
         "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "7347485717": {
+        "banned": false,
+        "nama": "vira",
+        "saldo": 0
+      },
+      "6661661423": {
+        "banned": false,
+        "nama": "boyz",
+        "saldo": 0
+      },
+      "7812713673": {
+        "banned": false,
+        "nama": "fandy",
         "saldo": 0
       }
     },
@@ -4258,6 +4273,15 @@
         "liststore": {}
       },
       "7179456791": {
+        "liststore": {}
+      },
+      "7347485717": {
+        "liststore": {}
+      },
+      "6661661423": {
+        "liststore": {}
+      },
+      "7812713673": {
         "liststore": {}
       }
     }
