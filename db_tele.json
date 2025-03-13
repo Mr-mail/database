@@ -2675,6 +2675,11 @@
         "banned": false,
         "nama": "zannhoting",
         "saldo": 0
+      },
+      "7599876728": {
+        "banned": false,
+        "nama": "ditz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4290,6 +4295,9 @@
         "liststore": {}
       },
       "7164282124": {
+        "liststore": {}
+      },
+      "7599876728": {
         "liststore": {}
       }
     }
