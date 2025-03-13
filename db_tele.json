@@ -744,7 +744,7 @@
       "7484873622": {
         "banned": false,
         "nama": "Gisna",
-        "saldo": 812
+        "saldo": 4000
       },
       "6424277851": {
         "banned": false,
@@ -2670,6 +2670,11 @@
         "banned": false,
         "nama": "fandy",
         "saldo": 0
+      },
+      "7164282124": {
+        "banned": false,
+        "nama": "zannhoting",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4282,6 +4287,9 @@
         "liststore": {}
       },
       "7812713673": {
+        "liststore": {}
+      },
+      "7164282124": {
         "liststore": {}
       }
     }
