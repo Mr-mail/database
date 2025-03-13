@@ -2149,7 +2149,7 @@
       "6011446900": {
         "banned": false,
         "nama": "rian",
-        "saldo": 10976
+        "saldo": 6028
       },
       "7797379933": {
         "banned": false,
@@ -2639,6 +2639,11 @@
       "5244949136": {
         "banned": false,
         "nama": "Awik",
+        "saldo": 0
+      },
+      "7644251291": {
+        "banned": false,
+        "nama": "Abi",
         "saldo": 0
       }
     },
@@ -4234,6 +4239,9 @@
         "liststore": {}
       },
       "5244949136": {
+        "liststore": {}
+      },
+      "7644251291": {
         "liststore": {}
       }
     }
