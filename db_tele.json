@@ -1919,7 +1919,7 @@
       "6534527239": {
         "banned": false,
         "nama": "roman",
-        "saldo": 2032
+        "saldo": 5032
       },
       "6991499507": {
         "banned": false,
@@ -2679,7 +2679,7 @@
       "7164282124": {
         "banned": false,
         "nama": "zannhoting",
-        "saldo": 0
+        "saldo": 15000
       },
       "7599876728": {
         "banned": false,
@@ -2705,6 +2705,16 @@
         "banned": false,
         "nama": "bian",
         "saldo": 141
+      },
+      "6518393327": {
+        "banned": false,
+        "nama": "hanzz",
+        "saldo": 0
+      },
+      "6210118833": {
+        "banned": false,
+        "nama": "natt",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4338,6 +4348,12 @@
         "liststore": {}
       },
       "7871615966": {
+        "liststore": {}
+      },
+      "6518393327": {
+        "liststore": {}
+      },
+      "6210118833": {
         "liststore": {}
       }
     }
