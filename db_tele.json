@@ -371,6 +371,11 @@
         "nama": "Guest",
         "saldo": 0
       },
+      "2083266890": {
+        "banned": false,
+        "nama": "oscar",
+        "saldo": 2580
+      },
       "2083467309": {
         "banned": false,
         "nama": "dan",
@@ -1639,7 +1644,7 @@
       "5374260137": {
         "banned": false,
         "nama": "yes",
-        "saldo": 1901
+        "saldo": 2186
       },
       "7251003308": {
         "banned": false,
@@ -2913,6 +2918,9 @@
         "liststore": {}
       },
       "2069137342": {
+        "liststore": {}
+      },
+      "2083266890": {
         "liststore": {}
       },
       "2083467309": {
