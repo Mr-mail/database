@@ -54,7 +54,7 @@
       "810798966": {
         "banned": false,
         "nama": "ican",
-        "saldo": 4535
+        "saldo": 10000
       },
       "913539406": {
         "banned": false,
@@ -84,6 +84,11 @@
       "987162467": {
         "banned": false,
         "nama": "Yudha",
+        "saldo": 0
+      },
+      "994659657": {
+        "banned": false,
+        "nama": "Adit",
         "saldo": 0
       },
       "1011972118": {
@@ -2782,6 +2787,9 @@
         "liststore": {}
       },
       "987162467": {
+        "liststore": {}
+      },
+      "994659657": {
         "liststore": {}
       },
       "1011972118": {
