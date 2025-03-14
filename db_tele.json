@@ -86,6 +86,11 @@
         "nama": "Yudha",
         "saldo": 0
       },
+      "1011972118": {
+        "banned": false,
+        "nama": "rere",
+        "saldo": 0
+      },
       "1142664138": {
         "banned": false,
         "nama": "sipeen",
@@ -2679,7 +2684,7 @@
       "7164282124": {
         "banned": false,
         "nama": "zannhoting",
-        "saldo": 15000
+        "saldo": 2494
       },
       "7599876728": {
         "banned": false,
@@ -2714,6 +2719,11 @@
       "6210118833": {
         "banned": false,
         "nama": "natt",
+        "saldo": 0
+      },
+      "5471589401": {
+        "banned": false,
+        "nama": "Rzzz",
         "saldo": 0
       }
     },
@@ -2767,6 +2777,9 @@
         "liststore": {}
       },
       "987162467": {
+        "liststore": {}
+      },
+      "1011972118": {
         "liststore": {}
       },
       "1142664138": {
@@ -4354,6 +4367,9 @@
         "liststore": {}
       },
       "6210118833": {
+        "liststore": {}
+      },
+      "5471589401": {
         "liststore": {}
       }
     }
