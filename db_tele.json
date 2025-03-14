@@ -269,7 +269,7 @@
       "1701626852": {
         "banned": false,
         "nama": "eka",
-        "saldo": 0
+        "saldo": 3141
       },
       "1702340032": {
         "banned": false,
@@ -1934,7 +1934,7 @@
       "6534527239": {
         "banned": false,
         "nama": "roman",
-        "saldo": 5032
+        "saldo": 1592
       },
       "6991499507": {
         "banned": false,
@@ -2734,6 +2734,11 @@
       "5471589401": {
         "banned": false,
         "nama": "Rzzz",
+        "saldo": 0
+      },
+      "6942374510": {
+        "banned": false,
+        "nama": "yullay",
         "saldo": 0
       }
     },
@@ -4386,6 +4391,9 @@
         "liststore": {}
       },
       "5471589401": {
+        "liststore": {}
+      },
+      "6942374510": {
         "liststore": {}
       }
     }
