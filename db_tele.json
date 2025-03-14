@@ -2700,6 +2700,11 @@
         "banned": false,
         "nama": "zania",
         "saldo": 0
+      },
+      "7871615966": {
+        "banned": false,
+        "nama": "bian",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4330,6 +4335,9 @@
         "liststore": {}
       },
       "6743548707": {
+        "liststore": {}
+      },
+      "7871615966": {
         "liststore": {}
       }
     }
