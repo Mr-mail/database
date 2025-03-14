@@ -2695,6 +2695,11 @@
         "banned": false,
         "nama": "rilzzxxx",
         "saldo": 0
+      },
+      "6743548707": {
+        "banned": false,
+        "nama": "zania",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4322,6 +4327,9 @@
         "liststore": {}
       },
       "7068240720": {
+        "liststore": {}
+      },
+      "6743548707": {
         "liststore": {}
       }
     }
