@@ -2770,6 +2770,11 @@
         "banned": false,
         "nama": "boy",
         "saldo": 0
+      },
+      "6587927383": {
+        "banned": false,
+        "nama": "Rapz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4442,6 +4447,9 @@
         "liststore": {}
       },
       "6479100021": {
+        "liststore": {}
+      },
+      "6587927383": {
         "liststore": {}
       }
     }
