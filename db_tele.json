@@ -136,6 +136,11 @@
         "nama": "litha",
         "saldo": 0
       },
+      "1318100454": {
+        "banned": false,
+        "nama": "DWS",
+        "saldo": 0
+      },
       "1324205357": {
         "banned": false,
         "nama": "rama",
@@ -2699,7 +2704,7 @@
       "7599876728": {
         "banned": false,
         "nama": "ditz",
-        "saldo": 580
+        "saldo": 140
       },
       "5367413296": {
         "banned": false,
@@ -2749,6 +2754,11 @@
       "7483922340": {
         "banned": false,
         "nama": "bamz",
+        "saldo": 0
+      },
+      "5445289214": {
+        "banned": false,
+        "nama": "mayz",
         "saldo": 0
       }
     },
@@ -2832,6 +2842,9 @@
         "liststore": {}
       },
       "1317259674": {
+        "liststore": {}
+      },
+      "1318100454": {
         "liststore": {}
       },
       "1324205357": {
@@ -4410,6 +4423,9 @@
         "liststore": {}
       },
       "7483922340": {
+        "liststore": {}
+      },
+      "5445289214": {
         "liststore": {}
       }
     }
