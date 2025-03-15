@@ -1153,8 +1153,8 @@
       },
       "7928414044": {
         "banned": false,
-        "nama": "arcan",
-        "saldo": 1251
+        "nama": "pppp",
+        "saldo": 4251
       },
       "8147532741": {
         "banned": false,
@@ -1664,7 +1664,7 @@
       "5374260137": {
         "banned": false,
         "nama": "yes",
-        "saldo": 2186
+        "saldo": 12186
       },
       "7251003308": {
         "banned": false,
@@ -2689,7 +2689,7 @@
       "6661661423": {
         "banned": false,
         "nama": "boyz",
-        "saldo": 409
+        "saldo": 3909
       },
       "7812713673": {
         "banned": false,
@@ -2764,6 +2764,11 @@
       "7910620746": {
         "banned": false,
         "nama": "Youga",
+        "saldo": 0
+      },
+      "6479100021": {
+        "banned": false,
+        "nama": "boy",
         "saldo": 0
       }
     },
@@ -4434,6 +4439,9 @@
         "liststore": {}
       },
       "7910620746": {
+        "liststore": {}
+      },
+      "6479100021": {
         "liststore": {}
       }
     }
