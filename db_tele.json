@@ -2790,6 +2790,11 @@
         "banned": false,
         "nama": "Fanzz",
         "saldo": 0
+      },
+      "7031034962": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4474,6 +4479,9 @@
         "liststore": {}
       },
       "7478628133": {
+        "liststore": {}
+      },
+      "7031034962": {
         "liststore": {}
       }
     }
