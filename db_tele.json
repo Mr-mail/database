@@ -2760,6 +2760,11 @@
         "banned": false,
         "nama": "mayz",
         "saldo": 0
+      },
+      "7910620746": {
+        "banned": false,
+        "nama": "Youga",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4426,6 +4431,9 @@
         "liststore": {}
       },
       "5445289214": {
+        "liststore": {}
+      },
+      "7910620746": {
         "liststore": {}
       }
     }
