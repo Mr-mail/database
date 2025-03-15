@@ -2740,6 +2740,11 @@
         "banned": false,
         "nama": "yullay",
         "saldo": 0
+      },
+      "7140333162": {
+        "banned": false,
+        "nama": "kayz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4394,6 +4399,9 @@
         "liststore": {}
       },
       "6942374510": {
+        "liststore": {}
+      },
+      "7140333162": {
         "liststore": {}
       }
     }
