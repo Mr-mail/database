@@ -2745,6 +2745,11 @@
         "banned": false,
         "nama": "kayz",
         "saldo": 0
+      },
+      "7483922340": {
+        "banned": false,
+        "nama": "bamz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4402,6 +4407,9 @@
         "liststore": {}
       },
       "7140333162": {
+        "liststore": {}
+      },
+      "7483922340": {
         "liststore": {}
       }
     }
