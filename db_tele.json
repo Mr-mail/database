@@ -71,6 +71,11 @@
         "nama": "kimo",
         "saldo": 0
       },
+      "939028915": {
+        "banned": false,
+        "nama": "andi",
+        "saldo": 0
+      },
       "939180509": {
         "banned": false,
         "nama": "Ordinary",
@@ -2863,6 +2868,9 @@
         "liststore": {}
       },
       "935244825": {
+        "liststore": {}
+      },
+      "939028915": {
         "liststore": {}
       },
       "939180509": {
