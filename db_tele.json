@@ -6,6 +6,11 @@
         "nama": "wyudha",
         "saldo": 1482
       },
+      "317799434": {
+        "banned": false,
+        "nama": "Ryzen",
+        "saldo": 0
+      },
       "370477288": {
         "banned": false,
         "nama": "Xandoit",
@@ -2814,6 +2819,9 @@
     },
     "chats": {
       "203657091": {
+        "liststore": {}
+      },
+      "317799434": {
         "liststore": {}
       },
       "370477288": {
