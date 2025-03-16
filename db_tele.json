@@ -271,6 +271,11 @@
         "nama": "vaee",
         "saldo": 0
       },
+      "1678930377": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
       "1689151172": {
         "banned": false,
         "nama": "Amelia",
@@ -2978,6 +2983,9 @@
         "liststore": {}
       },
       "1664350882": {
+        "liststore": {}
+      },
+      "1678930377": {
         "liststore": {}
       },
       "1689151172": {
