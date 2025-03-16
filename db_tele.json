@@ -2414,7 +2414,7 @@
       "8108745162": {
         "banned": false,
         "nama": "dani",
-        "saldo": 0
+        "saldo": 3386
       },
       "6215433076": {
         "banned": false,
@@ -2805,6 +2805,11 @@
         "banned": false,
         "nama": "malzz",
         "saldo": 0
+      },
+      "6347435806": {
+        "banned": false,
+        "nama": "Rixzyy",
+        "saldo": 3400
       }
     },
     "chats": {
@@ -4498,6 +4503,9 @@
         "liststore": {}
       },
       "6787991230": {
+        "liststore": {}
+      },
+      "6347435806": {
         "liststore": {}
       }
     }
