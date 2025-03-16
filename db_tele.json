@@ -2554,7 +2554,7 @@
       "7276998584": {
         "banned": false,
         "nama": "fatih",
-        "saldo": 9443
+        "saldo": 3538
       },
       "7807210626": {
         "banned": false,
@@ -2689,7 +2689,7 @@
       "6661661423": {
         "banned": false,
         "nama": "boyz",
-        "saldo": 92
+        "saldo": 3432
       },
       "7812713673": {
         "banned": false,
@@ -2799,6 +2799,11 @@
       "6453428748": {
         "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "6787991230": {
+        "banned": false,
+        "nama": "malzz",
         "saldo": 0
       }
     },
@@ -4490,6 +4495,9 @@
         "liststore": {}
       },
       "6453428748": {
+        "liststore": {}
+      },
+      "6787991230": {
         "liststore": {}
       }
     }
