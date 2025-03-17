@@ -2830,6 +2830,16 @@
         "banned": false,
         "nama": "kyara",
         "saldo": 0
+      },
+      "6255799269": {
+        "banned": false,
+        "nama": "hazel",
+        "saldo": 0
+      },
+      "6308679962": {
+        "banned": false,
+        "nama": "adrian",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4538,6 +4548,12 @@
         "liststore": {}
       },
       "7264567410": {
+        "liststore": {}
+      },
+      "6255799269": {
+        "liststore": {}
+      },
+      "6308679962": {
         "liststore": {}
       }
     }
