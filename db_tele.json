@@ -2850,6 +2850,16 @@
         "banned": false,
         "nama": "rezy",
         "saldo": 0
+      },
+      "8001312467": {
+        "banned": false,
+        "nama": "May",
+        "saldo": 0
+      },
+      "7501227201": {
+        "banned": false,
+        "nama": "maya",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4570,6 +4580,12 @@
         "liststore": {}
       },
       "7348098806": {
+        "liststore": {}
+      },
+      "8001312467": {
+        "liststore": {}
+      },
+      "7501227201": {
         "liststore": {}
       }
     }
