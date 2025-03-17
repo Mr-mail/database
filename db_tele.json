@@ -424,7 +424,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 135819
+        "saldo": 159506
       },
       "7553188980": {
         "banned": true,
@@ -2634,7 +2634,7 @@
       "5998406115": {
         "banned": false,
         "nama": "keii",
-        "saldo": 1476
+        "saldo": 11476
       },
       "7626541085": {
         "banned": false,
@@ -2839,6 +2839,11 @@
       "6308679962": {
         "banned": false,
         "nama": "adrian",
+        "saldo": 0
+      },
+      "7528309496": {
+        "banned": false,
+        "nama": "enno",
         "saldo": 0
       }
     },
@@ -4554,6 +4559,9 @@
         "liststore": {}
       },
       "6308679962": {
+        "liststore": {}
+      },
+      "7528309496": {
         "liststore": {}
       }
     }
