@@ -2825,6 +2825,11 @@
         "banned": false,
         "nama": "Rixzyy",
         "saldo": 1587
+      },
+      "7264567410": {
+        "banned": false,
+        "nama": "kyara",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4530,6 +4535,9 @@
         "liststore": {}
       },
       "6347435806": {
+        "liststore": {}
+      },
+      "7264567410": {
         "liststore": {}
       }
     }
