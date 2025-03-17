@@ -2845,6 +2845,11 @@
         "banned": false,
         "nama": "enno",
         "saldo": 0
+      },
+      "7348098806": {
+        "banned": false,
+        "nama": "rezy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4562,6 +4567,9 @@
         "liststore": {}
       },
       "7528309496": {
+        "liststore": {}
+      },
+      "7348098806": {
         "liststore": {}
       }
     }
