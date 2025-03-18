@@ -949,7 +949,7 @@
       "6955410369": {
         "banned": false,
         "nama": "Levi",
-        "saldo": 359
+        "saldo": 4359
       },
       "7486990358": {
         "banned": false,
@@ -2880,6 +2880,11 @@
         "banned": false,
         "nama": "mdstore",
         "saldo": 0
+      },
+      "7423641973": {
+        "banned": false,
+        "nama": "FirmanFᶻ𓂃",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4618,6 +4623,9 @@
         "liststore": {}
       },
       "8136277220": {
+        "liststore": {}
+      },
+      "7423641973": {
         "liststore": {}
       }
     }
