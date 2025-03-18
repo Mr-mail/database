@@ -429,7 +429,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 154506
+        "saldo": 138004
       },
       "7553188980": {
         "banned": true,
@@ -454,7 +454,7 @@
       "5815870799": {
         "banned": false,
         "nama": "kuroo",
-        "saldo": 3685
+        "saldo": 17685
       },
       "7200213951": {
         "banned": false,
@@ -2870,6 +2870,16 @@
         "banned": false,
         "nama": "dimzz",
         "saldo": 0
+      },
+      "6572577174": {
+        "banned": false,
+        "nama": "abu",
+        "saldo": 0
+      },
+      "8136277220": {
+        "banned": false,
+        "nama": "mdstore",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4602,6 +4612,12 @@
         "liststore": {}
       },
       "7720431155": {
+        "liststore": {}
+      },
+      "6572577174": {
+        "liststore": {}
+      },
+      "8136277220": {
         "liststore": {}
       }
     }
