@@ -246,6 +246,11 @@
         "nama": "Hams",
         "saldo": 0
       },
+      "1589136230": {
+        "banned": false,
+        "nama": "dikzyy",
+        "saldo": 0
+      },
       "1598992742": {
         "banned": false,
         "nama": "marr",
@@ -424,7 +429,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 159506
+        "saldo": 154506
       },
       "7553188980": {
         "banned": true,
@@ -2203,7 +2208,7 @@
       },
       "5559800206": {
         "banned": false,
-        "nama": "JEZZ",
+        "nama": "Jezz",
         "saldo": 0
       },
       "5091570030": {
@@ -2634,7 +2639,7 @@
       "5998406115": {
         "banned": false,
         "nama": "keii",
-        "saldo": 4596
+        "saldo": 301
       },
       "7626541085": {
         "banned": false,
@@ -2860,6 +2865,11 @@
         "banned": false,
         "nama": "maya",
         "saldo": 0
+      },
+      "7720431155": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -3008,6 +3018,9 @@
         "liststore": {}
       },
       "1585533802": {
+        "liststore": {}
+      },
+      "1589136230": {
         "liststore": {}
       },
       "1598992742": {
@@ -4586,6 +4599,9 @@
         "liststore": {}
       },
       "7501227201": {
+        "liststore": {}
+      },
+      "7720431155": {
         "liststore": {}
       }
     }
