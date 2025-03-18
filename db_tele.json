@@ -1174,7 +1174,7 @@
       "7928414044": {
         "banned": false,
         "nama": "arcan",
-        "saldo": 26771
+        "saldo": 15471
       },
       "8147532741": {
         "banned": false,
@@ -2719,7 +2719,7 @@
       "7164282124": {
         "banned": false,
         "nama": "zannhoting",
-        "saldo": 3962
+        "saldo": 4528
       },
       "7599876728": {
         "banned": false,
@@ -2884,6 +2884,11 @@
       "7423641973": {
         "banned": false,
         "nama": "FirmanFᶻ𓂃",
+        "saldo": 0
+      },
+      "7945017590": {
+        "banned": false,
+        "nama": "alfa",
         "saldo": 0
       }
     },
@@ -4626,6 +4631,9 @@
         "liststore": {}
       },
       "7423641973": {
+        "liststore": {}
+      },
+      "7945017590": {
         "liststore": {}
       }
     }
