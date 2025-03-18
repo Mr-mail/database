@@ -2895,6 +2895,21 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "5662235124": {
+        "banned": false,
+        "nama": "kiki",
+        "saldo": 2000
+      },
+      "7008590299": {
+        "banned": false,
+        "nama": "bima",
+        "saldo": 0
+      },
+      "7840318939": {
+        "banned": false,
+        "nama": "Arilkent",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4642,6 +4657,15 @@
         "liststore": {}
       },
       "7028957150": {
+        "liststore": {}
+      },
+      "5662235124": {
+        "liststore": {}
+      },
+      "7008590299": {
+        "liststore": {}
+      },
+      "7840318939": {
         "liststore": {}
       }
     }
