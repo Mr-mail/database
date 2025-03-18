@@ -2910,6 +2910,11 @@
         "banned": false,
         "nama": "Arilkent",
         "saldo": 0
+      },
+      "5046809697": {
+        "banned": false,
+        "nama": "Juanda",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4666,6 +4671,9 @@
         "liststore": {}
       },
       "7840318939": {
+        "liststore": {}
+      },
+      "5046809697": {
         "liststore": {}
       }
     }
