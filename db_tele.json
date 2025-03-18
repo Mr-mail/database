@@ -1119,7 +1119,7 @@
       "7565154481": {
         "banned": false,
         "nama": "warxz",
-        "saldo": 4180
+        "saldo": 1906
       },
       "6443517325": {
         "banned": false,
@@ -1174,7 +1174,7 @@
       "7928414044": {
         "banned": false,
         "nama": "arcan",
-        "saldo": 15471
+        "saldo": 21301
       },
       "8147532741": {
         "banned": false,
@@ -2889,6 +2889,11 @@
       "7945017590": {
         "banned": false,
         "nama": "alfa",
+        "saldo": 0
+      },
+      "7028957150": {
+        "banned": false,
+        "nama": "Guest",
         "saldo": 0
       }
     },
@@ -4634,6 +4639,9 @@
         "liststore": {}
       },
       "7945017590": {
+        "liststore": {}
+      },
+      "7028957150": {
         "liststore": {}
       }
     }
