@@ -159,7 +159,7 @@
       "1330656103": {
         "banned": false,
         "nama": "bucho",
-        "saldo": 12000
+        "saldo": 4000
       },
       "1338852829": {
         "banned": false,
@@ -429,7 +429,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 85409
+        "saldo": 8395
       },
       "7553188980": {
         "banned": true,
@@ -949,7 +949,7 @@
       "6955410369": {
         "banned": false,
         "nama": "Levi",
-        "saldo": 4359
+        "saldo": 359
       },
       "7486990358": {
         "banned": false,
@@ -2023,7 +2023,7 @@
       },
       "7670044878": {
         "banned": false,
-        "nama": "volker",
+        "nama": "raxzy",
         "saldo": 0
       },
       "5734522710": {
@@ -2054,7 +2054,7 @@
       "7063750602": {
         "banned": false,
         "nama": "kevin",
-        "saldo": 3694
+        "saldo": 554
       },
       "7201248947": {
         "banned": false,
@@ -2915,6 +2915,11 @@
         "banned": false,
         "nama": "Juanda",
         "saldo": 0
+      },
+      "7719081698": {
+        "banned": false,
+        "nama": "Maulana",
+        "saldo": 740
       }
     },
     "chats": {
@@ -4674,6 +4679,9 @@
         "liststore": {}
       },
       "5046809697": {
+        "liststore": {}
+      },
+      "7719081698": {
         "liststore": {}
       }
     }
