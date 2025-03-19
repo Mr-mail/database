@@ -1119,7 +1119,7 @@
       "7565154481": {
         "banned": false,
         "nama": "warxz",
-        "saldo": 4601
+        "saldo": 293
       },
       "6443517325": {
         "banned": false,
@@ -2919,7 +2919,12 @@
       "7719081698": {
         "banned": false,
         "nama": "Maulana",
-        "saldo": 27085
+        "saldo": 22316
+      },
+      "7763055883": {
+        "banned": false,
+        "nama": "ociMybot",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4682,6 +4687,9 @@
         "liststore": {}
       },
       "7719081698": {
+        "liststore": {}
+      },
+      "7763055883": {
         "liststore": {}
       }
     }
