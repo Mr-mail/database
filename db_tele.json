@@ -381,6 +381,11 @@
         "nama": "dono",
         "saldo": 0
       },
+      "1991201365": {
+        "banned": false,
+        "nama": "mort",
+        "saldo": 0
+      },
       "2004577074": {
         "banned": false,
         "nama": "Fhrzz",
@@ -3164,6 +3169,9 @@
         "liststore": {}
       },
       "1973192455": {
+        "liststore": {}
+      },
+      "1991201365": {
         "liststore": {}
       },
       "2004577074": {
