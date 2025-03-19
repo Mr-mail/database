@@ -2919,7 +2919,7 @@
       "7719081698": {
         "banned": false,
         "nama": "Maulanajkt",
-        "saldo": 22316
+        "saldo": 19116
       },
       "7763055883": {
         "banned": false,
@@ -2929,6 +2929,11 @@
       "6680560015": {
         "banned": false,
         "nama": "dapa",
+        "saldo": 0
+      },
+      "5430453789": {
+        "banned": false,
+        "nama": "sup",
         "saldo": 0
       }
     },
@@ -4698,6 +4703,9 @@
         "liststore": {}
       },
       "6680560015": {
+        "liststore": {}
+      },
+      "5430453789": {
         "liststore": {}
       }
     }
