@@ -346,6 +346,11 @@
         "nama": "violence",
         "saldo": 35
       },
+      "1878078959": {
+        "banned": false,
+        "nama": "Ardiyan",
+        "saldo": 0
+      },
       "1898870310": {
         "banned": false,
         "nama": "Jeandye",
@@ -3158,6 +3163,9 @@
         "liststore": {}
       },
       "1876710349": {
+        "liststore": {}
+      },
+      "1878078959": {
         "liststore": {}
       },
       "1898870310": {
