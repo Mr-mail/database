@@ -2925,6 +2925,11 @@
         "banned": false,
         "nama": "ociMybot",
         "saldo": 0
+      },
+      "6680560015": {
+        "banned": false,
+        "nama": "dapa",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4690,6 +4695,9 @@
         "liststore": {}
       },
       "7763055883": {
+        "liststore": {}
+      },
+      "6680560015": {
         "liststore": {}
       }
     }
