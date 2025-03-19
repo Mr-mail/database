@@ -2945,6 +2945,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "6778694831": {
+        "banned": false,
+        "nama": "nab",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4722,6 +4727,9 @@
         "liststore": {}
       },
       "8018860887": {
+        "liststore": {}
+      },
+      "6778694831": {
         "liststore": {}
       }
     }
