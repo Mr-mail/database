@@ -2940,6 +2940,11 @@
         "banned": false,
         "nama": "sup",
         "saldo": 0
+      },
+      "8018860887": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4714,6 +4719,9 @@
         "liststore": {}
       },
       "5430453789": {
+        "liststore": {}
+      },
+      "8018860887": {
         "liststore": {}
       }
     }
