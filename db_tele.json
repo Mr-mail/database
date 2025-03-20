@@ -2594,7 +2594,7 @@
       "7807210626": {
         "banned": false,
         "nama": "greet",
-        "saldo": 0
+        "saldo": 488
       },
       "7879681127": {
         "banned": false,
@@ -2724,7 +2724,7 @@
       "6661661423": {
         "banned": false,
         "nama": "boyzz",
-        "saldo": 407
+        "saldo": 19
       },
       "7812713673": {
         "banned": false,
@@ -2985,6 +2985,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "6898950005": {
+        "banned": false,
+        "nama": "tirzz",
+        "saldo": 792
       }
     },
     "chats": {
@@ -4786,6 +4791,9 @@
         "liststore": {}
       },
       "7732167209": {
+        "liststore": {}
+      },
+      "6898950005": {
         "liststore": {}
       }
     }
