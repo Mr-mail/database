@@ -2970,6 +2970,11 @@
         "banned": false,
         "nama": "Sujono",
         "saldo": 0
+      },
+      "8020972760": {
+        "banned": false,
+        "nama": "lepi",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4762,6 +4767,9 @@
         "liststore": {}
       },
       "7056305490": {
+        "liststore": {}
+      },
+      "8020972760": {
         "liststore": {}
       }
     }
