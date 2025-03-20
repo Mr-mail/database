@@ -2990,6 +2990,11 @@
         "banned": false,
         "nama": "tirzz",
         "saldo": 901
+      },
+      "5994412252": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4794,6 +4799,9 @@
         "liststore": {}
       },
       "6898950005": {
+        "liststore": {}
+      },
+      "5994412252": {
         "liststore": {}
       }
     }
