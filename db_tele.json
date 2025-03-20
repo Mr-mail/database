@@ -2980,6 +2980,11 @@
         "banned": false,
         "nama": "alex",
         "saldo": 0
+      },
+      "7732167209": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4778,6 +4783,9 @@
         "liststore": {}
       },
       "5766719458": {
+        "liststore": {}
+      },
+      "7732167209": {
         "liststore": {}
       }
     }
