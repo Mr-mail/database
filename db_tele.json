@@ -204,7 +204,7 @@
       "1397236504": {
         "banned": false,
         "nama": "ca",
-        "saldo": 3995
+        "saldo": 1094
       },
       "1402074133": {
         "banned": false,
@@ -2975,6 +2975,11 @@
         "banned": false,
         "nama": "lepi",
         "saldo": 0
+      },
+      "5766719458": {
+        "banned": false,
+        "nama": "alex",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4770,6 +4775,9 @@
         "liststore": {}
       },
       "8020972760": {
+        "liststore": {}
+      },
+      "5766719458": {
         "liststore": {}
       }
     }
