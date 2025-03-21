@@ -254,7 +254,7 @@
       "1589136230": {
         "banned": false,
         "nama": "dikzyy",
-        "saldo": 0
+        "saldo": 817
       },
       "1598992742": {
         "banned": false,
@@ -444,7 +444,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 8212743
+        "saldo": 8200743
       },
       "7553188980": {
         "banned": true,
@@ -3000,6 +3000,11 @@
         "banned": false,
         "nama": "fajar",
         "saldo": 1796
+      },
+      "7390543295": {
+        "banned": false,
+        "nama": "gaby",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4810,6 +4815,9 @@
         "liststore": {}
       },
       "7318841239": {
+        "liststore": {}
+      },
+      "7390543295": {
         "liststore": {}
       }
     }
