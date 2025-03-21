@@ -3010,6 +3010,11 @@
         "banned": false,
         "nama": "zoyaaa",
         "saldo": 0
+      },
+      "7256658847": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4826,6 +4831,9 @@
         "liststore": {}
       },
       "6051341356": {
+        "liststore": {}
+      },
+      "7256658847": {
         "liststore": {}
       }
     }
