@@ -3020,6 +3020,11 @@
         "banned": false,
         "nama": "dermia",
         "saldo": 0
+      },
+      "7455380265": {
+        "banned": false,
+        "nama": "rzzz",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4842,6 +4847,9 @@
         "liststore": {}
       },
       "7224234941": {
+        "liststore": {}
+      },
+      "7455380265": {
         "liststore": {}
       }
     }
