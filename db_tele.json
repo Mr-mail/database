@@ -469,7 +469,7 @@
       "5815870799": {
         "banned": false,
         "nama": "kuroo",
-        "saldo": 1840
+        "saldo": 306
       },
       "7200213951": {
         "banned": false,
@@ -529,7 +529,7 @@
       "6428385735": {
         "banned": false,
         "nama": "cici",
-        "saldo": 3491
+        "saldo": 303
       },
       "7141421535": {
         "banned": false,
@@ -3015,6 +3015,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "7224234941": {
+        "banned": false,
+        "nama": "dermia",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4834,6 +4839,9 @@
         "liststore": {}
       },
       "7256658847": {
+        "liststore": {}
+      },
+      "7224234941": {
         "liststore": {}
       }
     }
