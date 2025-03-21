@@ -46,6 +46,11 @@
         "nama": "Rex",
         "saldo": 0
       },
+      "765906278": {
+        "banned": false,
+        "nama": "youdth",
+        "saldo": 0
+      },
       "772338474": {
         "banned": false,
         "nama": "mxn",
@@ -3073,6 +3078,9 @@
         "liststore": {}
       },
       "656810755": {
+        "liststore": {}
+      },
+      "765906278": {
         "liststore": {}
       },
       "772338474": {
