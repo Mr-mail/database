@@ -529,7 +529,7 @@
       "6428385735": {
         "banned": false,
         "nama": "cici",
-        "saldo": 491
+        "saldo": 3491
       },
       "7141421535": {
         "banned": false,
@@ -3005,6 +3005,11 @@
         "banned": false,
         "nama": "gaby",
         "saldo": 0
+      },
+      "6051341356": {
+        "banned": false,
+        "nama": "zoyaaa",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4818,6 +4823,9 @@
         "liststore": {}
       },
       "7390543295": {
+        "liststore": {}
+      },
+      "6051341356": {
         "liststore": {}
       }
     }
