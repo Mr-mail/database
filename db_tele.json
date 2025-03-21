@@ -3040,6 +3040,11 @@
         "banned": false,
         "nama": "jejen",
         "saldo": 3000
+      },
+      "6829226415": {
+        "banned": false,
+        "nama": "joyce",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4874,6 +4879,9 @@
         "liststore": {}
       },
       "7010818542": {
+        "liststore": {}
+      },
+      "6829226415": {
         "liststore": {}
       }
     }
