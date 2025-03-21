@@ -3050,6 +3050,11 @@
         "banned": false,
         "nama": "joyce",
         "saldo": 0
+      },
+      "6950067494": {
+        "banned": false,
+        "nama": "corry",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4890,6 +4895,9 @@
         "liststore": {}
       },
       "6829226415": {
+        "liststore": {}
+      },
+      "6950067494": {
         "liststore": {}
       }
     }
