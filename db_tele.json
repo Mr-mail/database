@@ -3055,6 +3055,11 @@
         "banned": false,
         "nama": "corry",
         "saldo": 0
+      },
+      "7889217910": {
+        "banned": false,
+        "nama": "doni",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4898,6 +4903,9 @@
         "liststore": {}
       },
       "6950067494": {
+        "liststore": {}
+      },
+      "7889217910": {
         "liststore": {}
       }
     }
