@@ -376,6 +376,11 @@
         "nama": "rachel",
         "saldo": 6137
       },
+      "1926610113": {
+        "banned": false,
+        "nama": "uda",
+        "saldo": 0
+      },
       "1927764453": {
         "banned": false,
         "nama": "izi",
@@ -449,7 +454,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 8148148
+        "saldo": 8143148
       },
       "7553188980": {
         "banned": true,
@@ -474,7 +479,7 @@
       "5815870799": {
         "banned": false,
         "nama": "kuroo",
-        "saldo": 978
+        "saldo": 670
       },
       "7200213951": {
         "banned": false,
@@ -3296,6 +3301,9 @@
         "liststore": {}
       },
       "1915189098": {
+        "liststore": {}
+      },
+      "1926610113": {
         "liststore": {}
       },
       "1927764453": {
