@@ -2993,8 +2993,8 @@
       },
       "6898950005": {
         "banned": false,
-        "nama": "tirzz",
-        "saldo": 5001
+        "nama": "tirzxsuppi",
+        "saldo": 668
       },
       "5994412252": {
         "banned": false,
@@ -3059,6 +3059,11 @@
       "7889217910": {
         "banned": false,
         "nama": "doni",
+        "saldo": 0
+      },
+      "6271521796": {
+        "banned": false,
+        "nama": "eva",
         "saldo": 0
       }
     },
@@ -4906,6 +4911,9 @@
         "liststore": {}
       },
       "7889217910": {
+        "liststore": {}
+      },
+      "6271521796": {
         "liststore": {}
       }
     }
