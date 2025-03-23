@@ -634,7 +634,7 @@
       "7018654538": {
         "banned": false,
         "nama": "ganc",
-        "saldo": 6855
+        "saldo": 608
       },
       "7399109911": {
         "banned": false,
@@ -3080,6 +3080,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "7941613159": {
+        "banned": false,
+        "nama": "yanzz",
+        "saldo": 45
       }
     },
     "chats": {
@@ -4938,6 +4943,9 @@
         "liststore": {}
       },
       "6280177524": {
+        "liststore": {}
+      },
+      "7941613159": {
         "liststore": {}
       }
     }
