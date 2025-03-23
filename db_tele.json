@@ -3085,6 +3085,11 @@
         "banned": false,
         "nama": "yanzz",
         "saldo": 45
+      },
+      "7927910366": {
+        "banned": false,
+        "nama": "goes",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4946,6 +4951,9 @@
         "liststore": {}
       },
       "7941613159": {
+        "liststore": {}
+      },
+      "7927910366": {
         "liststore": {}
       }
     }
