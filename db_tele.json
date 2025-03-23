@@ -351,6 +351,11 @@
         "nama": "Guest",
         "saldo": 0
       },
+      "1867746867": {
+        "banned": false,
+        "nama": "nolancrot",
+        "saldo": 0
+      },
       "1872712293": {
         "banned": false,
         "nama": "xipulsa",
@@ -459,7 +464,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 8143148
+        "saldo": 8116625
       },
       "7553188980": {
         "banned": true,
@@ -3301,6 +3306,9 @@
         "liststore": {}
       },
       "1863833934": {
+        "liststore": {}
+      },
+      "1867746867": {
         "liststore": {}
       },
       "1872712293": {
