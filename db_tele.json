@@ -3095,6 +3095,11 @@
         "banned": false,
         "nama": "goes",
         "saldo": 0
+      },
+      "6745437570": {
+        "banned": false,
+        "nama": "vuki",
+        "saldo": 0
       }
     },
     "chats": {
@@ -4962,6 +4967,9 @@
         "liststore": {}
       },
       "7927910366": {
+        "liststore": {}
+      },
+      "6745437570": {
         "liststore": {}
       }
     }
