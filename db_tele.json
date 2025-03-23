@@ -111,6 +111,11 @@
         "nama": "rere",
         "saldo": 0
       },
+      "1136208278": {
+        "banned": false,
+        "nama": "Farid",
+        "saldo": 0
+      },
       "1142664138": {
         "banned": false,
         "nama": "sipeen",
@@ -3142,6 +3147,9 @@
         "liststore": {}
       },
       "1011972118": {
+        "liststore": {}
+      },
+      "1136208278": {
         "liststore": {}
       },
       "1142664138": {
