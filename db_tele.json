@@ -171,6 +171,11 @@
         "nama": "rama",
         "saldo": 0
       },
+      "1324982322": {
+        "banned": false,
+        "nama": "andra",
+        "saldo": 0
+      },
       "1330656103": {
         "banned": false,
         "nama": "bucho",
@@ -464,7 +469,7 @@
       "8012846823": {
         "banned": false,
         "nama": "Rixzyy Own",
-        "saldo": 8106297
+        "saldo": 7896107
       },
       "7553188980": {
         "banned": true,
@@ -3203,6 +3208,9 @@
         "liststore": {}
       },
       "1324205357": {
+        "liststore": {}
+      },
+      "1324982322": {
         "liststore": {}
       },
       "1330656103": {
