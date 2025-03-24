@@ -3120,6 +3120,16 @@
         "banned": false,
         "nama": "iqbal",
         "saldo": 92
+      },
+      "7905487623": {
+        "banned": false,
+        "nama": "dietzz",
+        "saldo": 0
+      },
+      "6976749991": {
+        "banned": false,
+        "nama": "zare",
+        "saldo": 0
       }
     },
     "chats": {
@@ -5002,6 +5012,12 @@
         "liststore": {}
       },
       "7125447440": {
+        "liststore": {}
+      },
+      "7905487623": {
+        "liststore": {}
+      },
+      "6976749991": {
         "liststore": {}
       }
     }
