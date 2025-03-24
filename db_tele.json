@@ -3115,6 +3115,11 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "7125447440": {
+        "banned": false,
+        "nama": "iqbal",
+        "saldo": 1546
       }
     },
     "chats": {
@@ -4994,6 +4999,9 @@
         "liststore": {}
       },
       "7818135375": {
+        "liststore": {}
+      },
+      "7125447440": {
         "liststore": {}
       }
     }
