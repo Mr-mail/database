@@ -3135,6 +3135,16 @@
         "banned": false,
         "nama": "Guest",
         "saldo": 0
+      },
+      "7986727460": {
+        "banned": false,
+        "nama": "kira",
+        "saldo": 0
+      },
+      "6484840652": {
+        "banned": false,
+        "nama": "ayra",
+        "saldo": 0
       }
     },
     "chats": {
@@ -5026,6 +5036,12 @@
         "liststore": {}
       },
       "7151976888": {
+        "liststore": {}
+      },
+      "7986727460": {
+        "liststore": {}
+      },
+      "6484840652": {
         "liststore": {}
       }
     }
