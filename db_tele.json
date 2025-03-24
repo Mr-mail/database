@@ -3160,6 +3160,11 @@
         "banned": false,
         "nama": "RifkyNokos",
         "saldo": 5000
+      },
+      "6750283954": {
+        "banned": false,
+        "nama": "reptzy",
+        "saldo": 0
       }
     },
     "chats": {
@@ -5066,6 +5071,9 @@
         "liststore": {}
       },
       "5511966980": {
+        "liststore": {}
+      },
+      "6750283954": {
         "liststore": {}
       }
     }
