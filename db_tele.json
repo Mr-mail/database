@@ -406,6 +406,11 @@
         "nama": "izi",
         "saldo": 0
       },
+      "1944622477": {
+        "banned": false,
+        "nama": "fall",
+        "saldo": 0
+      },
       "1950481383": {
         "banned": false,
         "nama": "nao nao",
@@ -1729,7 +1734,7 @@
       "5374260137": {
         "banned": false,
         "nama": "yes",
-        "saldo": 4517
+        "saldo": 8725
       },
       "7251003308": {
         "banned": false,
@@ -3394,6 +3399,9 @@
         "liststore": {}
       },
       "1927764453": {
+        "liststore": {}
+      },
+      "1944622477": {
         "liststore": {}
       },
       "1950481383": {
