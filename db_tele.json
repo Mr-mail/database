@@ -351,6 +351,11 @@
         "nama": "Wokid",
         "saldo": 0
       },
+      "1858386333": {
+        "banned": false,
+        "nama": "NZR",
+        "saldo": 0
+      },
       "1863833934": {
         "banned": false,
         "nama": "Guest",
@@ -3321,6 +3326,9 @@
         "liststore": {}
       },
       "1857633105": {
+        "liststore": {}
+      },
+      "1858386333": {
         "liststore": {}
       },
       "1863833934": {
