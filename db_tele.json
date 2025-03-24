@@ -3130,6 +3130,11 @@
         "banned": false,
         "nama": "zare",
         "saldo": 0
+      },
+      "7151976888": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -5018,6 +5023,9 @@
         "liststore": {}
       },
       "6976749991": {
+        "liststore": {}
+      },
+      "7151976888": {
         "liststore": {}
       }
     }
