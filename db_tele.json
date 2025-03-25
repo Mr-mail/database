@@ -1829,7 +1829,7 @@
       "7207590202": {
         "banned": false,
         "nama": "ziel",
-        "saldo": 10000
+        "saldo": 7652
       },
       "7012464663": {
         "banned": false,
@@ -2094,7 +2094,7 @@
       "6679404162": {
         "banned": false,
         "nama": "ucup",
-        "saldo": 3
+        "saldo": 3503
       },
       "6855526158": {
         "banned": false,
@@ -3029,7 +3029,7 @@
       "6898950005": {
         "banned": false,
         "nama": "tirzxsuppi",
-        "saldo": 672
+        "saldo": 6772
       },
       "5994412252": {
         "banned": false,
@@ -3169,6 +3169,11 @@
       "7532336482": {
         "banned": false,
         "nama": "Ipin",
+        "saldo": 0
+      },
+      "7072646410": {
+        "banned": false,
+        "nama": "Xezz",
         "saldo": 0
       }
     },
@@ -5082,6 +5087,9 @@
         "liststore": {}
       },
       "7532336482": {
+        "liststore": {}
+      },
+      "7072646410": {
         "liststore": {}
       }
     }
