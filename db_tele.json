@@ -3159,7 +3159,7 @@
       "5511966980": {
         "banned": false,
         "nama": "RifkyNokos",
-        "saldo": 1724
+        "saldo": 1419
       },
       "6750283954": {
         "banned": false,
@@ -3180,6 +3180,11 @@
         "banned": false,
         "nama": "Irfan",
         "saldo": 4887
+      },
+      "7794197856": {
+        "banned": false,
+        "nama": "risol",
+        "saldo": 0
       }
     },
     "chats": {
@@ -5098,6 +5103,9 @@
         "liststore": {}
       },
       "6591384233": {
+        "liststore": {}
+      },
+      "7794197856": {
         "liststore": {}
       }
     }
