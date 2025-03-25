@@ -1739,7 +1739,7 @@
       "5374260137": {
         "banned": false,
         "nama": "yes",
-        "saldo": 5146
+        "saldo": 8844
       },
       "7251003308": {
         "banned": false,
@@ -3175,6 +3175,11 @@
         "banned": false,
         "nama": "Xezz",
         "saldo": 0
+      },
+      "6591384233": {
+        "banned": false,
+        "nama": "Irfan",
+        "saldo": 4000
       }
     },
     "chats": {
@@ -5090,6 +5095,9 @@
         "liststore": {}
       },
       "7072646410": {
+        "liststore": {}
+      },
+      "6591384233": {
         "liststore": {}
       }
     }
