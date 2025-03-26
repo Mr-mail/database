@@ -3200,6 +3200,11 @@
         "banned": false,
         "nama": "mansss",
         "saldo": 0
+      },
+      "7422305394": {
+        "banned": false,
+        "nama": "suki",
+        "saldo": 0
       }
     },
     "chats": {
@@ -5130,6 +5135,9 @@
         "liststore": {}
       },
       "7432245437": {
+        "liststore": {}
+      },
+      "7422305394": {
         "liststore": {}
       }
     }
