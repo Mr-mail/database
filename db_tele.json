@@ -3185,6 +3185,11 @@
         "banned": false,
         "nama": "risol",
         "saldo": 0
+      },
+      "7461313873": {
+        "banned": false,
+        "nama": "maners",
+        "saldo": 889
       }
     },
     "chats": {
@@ -5106,6 +5111,9 @@
         "liststore": {}
       },
       "7794197856": {
+        "liststore": {}
+      },
+      "7461313873": {
         "liststore": {}
       }
     }
