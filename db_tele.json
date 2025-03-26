@@ -2109,7 +2109,7 @@
       "7063750602": {
         "banned": false,
         "nama": "kevin",
-        "saldo": 194
+        "saldo": 531
       },
       "7201248947": {
         "banned": false,
@@ -2749,7 +2749,7 @@
       "7307317005": {
         "banned": false,
         "nama": "tyo",
-        "saldo": 0
+        "saldo": 5500
       },
       "7179456791": {
         "banned": false,
@@ -3029,7 +3029,7 @@
       "6898950005": {
         "banned": false,
         "nama": "tirzxsuppi",
-        "saldo": 1260
+        "saldo": 3460
       },
       "5994412252": {
         "banned": false,
@@ -3194,6 +3194,11 @@
       "6980538977": {
         "banned": false,
         "nama": "reach",
+        "saldo": 0
+      },
+      "7432245437": {
+        "banned": false,
+        "nama": "mansss",
         "saldo": 0
       }
     },
@@ -5122,6 +5127,9 @@
         "liststore": {}
       },
       "6980538977": {
+        "liststore": {}
+      },
+      "7432245437": {
         "liststore": {}
       }
     }
