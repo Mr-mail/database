@@ -3190,6 +3190,11 @@
         "banned": false,
         "nama": "maners",
         "saldo": 889
+      },
+      "6980538977": {
+        "banned": false,
+        "nama": "reach",
+        "saldo": 0
       }
     },
     "chats": {
@@ -5114,6 +5119,9 @@
         "liststore": {}
       },
       "7461313873": {
+        "liststore": {}
+      },
+      "6980538977": {
         "liststore": {}
       }
     }
