@@ -221,6 +221,11 @@
         "nama": "Bagas",
         "saldo": 0
       },
+      "1387562413": {
+        "banned": false,
+        "nama": "jwkree",
+        "saldo": 812
+      },
       "1393286551": {
         "banned": false,
         "nama": "Guest",
@@ -3184,7 +3189,7 @@
       "6591384233": {
         "banned": false,
         "nama": "Irfan",
-        "saldo": 6682
+        "saldo": 2598
       },
       "7794197856": {
         "banned": false,
@@ -3239,6 +3244,11 @@
       "6033663499": {
         "banned": false,
         "nama": "shiddiq",
+        "saldo": 0
+      },
+      "6864797386": {
+        "banned": false,
+        "nama": "lutfi",
         "saldo": 0
       }
     },
@@ -3373,6 +3383,9 @@
         "liststore": {}
       },
       "1379993668": {
+        "liststore": {}
+      },
+      "1387562413": {
         "liststore": {}
       },
       "1393286551": {
@@ -5194,6 +5207,9 @@
         "liststore": {}
       },
       "6033663499": {
+        "liststore": {}
+      },
+      "6864797386": {
         "liststore": {}
       }
     }
