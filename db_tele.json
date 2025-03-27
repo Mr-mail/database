@@ -26,6 +26,11 @@
         "nama": "Guest",
         "saldo": 0
       },
+      "556592482": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
       "568685728": {
         "banned": false,
         "nama": "Naira",
@@ -3159,7 +3164,7 @@
       "5511966980": {
         "banned": false,
         "nama": "RifkyNokos",
-        "saldo": 2899
+        "saldo": 4171
       },
       "6750283954": {
         "banned": false,
@@ -3204,7 +3209,7 @@
       "7422305394": {
         "banned": false,
         "nama": "suki",
-        "saldo": 10361
+        "saldo": 4113
       },
       "7311349432": {
         "banned": false,
@@ -3219,6 +3224,16 @@
       "7382396124": {
         "banned": false,
         "nama": "aluna",
+        "saldo": 0
+      },
+      "6557418741": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
+      },
+      "7295181570": {
+        "banned": false,
+        "nama": "DosQ",
         "saldo": 0
       }
     },
@@ -3236,6 +3251,9 @@
         "liststore": {}
       },
       "460239101": {
+        "liststore": {}
+      },
+      "556592482": {
         "liststore": {}
       },
       "568685728": {
@@ -5162,6 +5180,12 @@
         "liststore": {}
       },
       "7382396124": {
+        "liststore": {}
+      },
+      "6557418741": {
+        "liststore": {}
+      },
+      "7295181570": {
         "liststore": {}
       }
     }
