@@ -3205,6 +3205,11 @@
         "banned": false,
         "nama": "suki",
         "saldo": 130
+      },
+      "7311349432": {
+        "banned": false,
+        "nama": "Guest",
+        "saldo": 0
       }
     },
     "chats": {
@@ -5138,6 +5143,9 @@
         "liststore": {}
       },
       "7422305394": {
+        "liststore": {}
+      },
+      "7311349432": {
         "liststore": {}
       }
     }
