@@ -3189,7 +3189,7 @@
       "7461313873": {
         "banned": false,
         "nama": "maners",
-        "saldo": 889
+        "saldo": 4889
       },
       "6980538977": {
         "banned": false,
@@ -3209,6 +3209,11 @@
       "7311349432": {
         "banned": false,
         "nama": "Guest",
+        "saldo": 0
+      },
+      "7896642151": {
+        "banned": false,
+        "nama": "Sambeket",
         "saldo": 0
       }
     },
@@ -5146,6 +5151,9 @@
         "liststore": {}
       },
       "7311349432": {
+        "liststore": {}
+      },
+      "7896642151": {
         "liststore": {}
       }
     }
