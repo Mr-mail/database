@@ -3215,6 +3215,11 @@
         "banned": false,
         "nama": "Sambeket",
         "saldo": 0
+      },
+      "7382396124": {
+        "banned": false,
+        "nama": "aluna",
+        "saldo": 0
       }
     },
     "chats": {
@@ -5154,6 +5159,9 @@
         "liststore": {}
       },
       "7896642151": {
+        "liststore": {}
+      },
+      "7382396124": {
         "liststore": {}
       }
     }
