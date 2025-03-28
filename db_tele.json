@@ -3275,6 +3275,11 @@
         "banned": false,
         "nama": "shisui",
         "saldo": 0
+      },
+      "7463097014": {
+        "banned": false,
+        "nama": "isalmod",
+        "saldo": 0
       }
     },
     "chats": {
@@ -5250,6 +5255,9 @@
         "liststore": {}
       },
       "8009174777": {
+        "liststore": {}
+      },
+      "7463097014": {
         "liststore": {}
       }
     }
