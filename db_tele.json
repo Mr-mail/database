@@ -2104,7 +2104,7 @@
       "6679404162": {
         "banned": false,
         "nama": "ucup",
-        "saldo": 251
+        "saldo": 3251
       },
       "6855526158": {
         "banned": false,
@@ -3249,6 +3249,11 @@
       "6864797386": {
         "banned": false,
         "nama": "lutfi",
+        "saldo": 0
+      },
+      "8196846239": {
+        "banned": false,
+        "nama": "dina",
         "saldo": 0
       }
     },
@@ -5210,6 +5215,9 @@
         "liststore": {}
       },
       "6864797386": {
+        "liststore": {}
+      },
+      "8196846239": {
         "liststore": {}
       }
     }
