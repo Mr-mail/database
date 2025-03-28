@@ -3270,6 +3270,11 @@
         "banned": false,
         "nama": "Adam",
         "saldo": 0
+      },
+      "8009174777": {
+        "banned": false,
+        "nama": "shisui",
+        "saldo": 0
       }
     },
     "chats": {
@@ -5242,6 +5247,9 @@
         "liststore": {}
       },
       "7682860741": {
+        "liststore": {}
+      },
+      "8009174777": {
         "liststore": {}
       }
     }
