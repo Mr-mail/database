@@ -3039,7 +3039,7 @@
       "6898950005": {
         "banned": false,
         "nama": "tirzxsuppi",
-        "saldo": 342
+        "saldo": 962
       },
       "5994412252": {
         "banned": false,
@@ -3264,6 +3264,11 @@
       "6025754013": {
         "banned": false,
         "nama": "Fariz",
+        "saldo": 0
+      },
+      "7682860741": {
+        "banned": false,
+        "nama": "Adam",
         "saldo": 0
       }
     },
@@ -5234,6 +5239,9 @@
         "liststore": {}
       },
       "6025754013": {
+        "liststore": {}
+      },
+      "7682860741": {
         "liststore": {}
       }
     }
