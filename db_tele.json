@@ -3280,6 +3280,11 @@
         "banned": false,
         "nama": "isalmod",
         "saldo": 0
+      },
+      "6971226401": {
+        "banned": false,
+        "nama": "Irsyad",
+        "saldo": 5000
       }
     },
     "chats": {
@@ -5258,6 +5263,9 @@
         "liststore": {}
       },
       "7463097014": {
+        "liststore": {}
+      },
+      "6971226401": {
         "liststore": {}
       }
     }
