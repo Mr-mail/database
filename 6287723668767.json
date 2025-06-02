@@ -2335,7 +2335,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "protectionUntil": 0
       },
       "6281235254047@s.whatsapp.net": {
         "banned": false,
@@ -2790,7 +2791,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "protectionUntil": 0
       },
       "6282178693183@s.whatsapp.net": {
         "banned": false,
@@ -3291,7 +3293,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "protectionUntil": 0
       },
       "60178462923@s.whatsapp.net": {
         "banned": false,
@@ -3516,7 +3519,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "protectionUntil": 0
       },
       "6289523747649@s.whatsapp.net": {
         "banned": false,
@@ -5021,7 +5025,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "protectionUntil": 0
       },
       "6281235789631@s.whatsapp.net": {
         "banned": false,
@@ -10602,7 +10607,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "protectionUntil": 0
       },
       "6285691483638@s.whatsapp.net": {
         "banned": false,
@@ -11774,10 +11780,10 @@
         "afkTime": -1,
         "umur": 0,
         "glimit": 50,
-        "limit": 35,
+        "limit": 34,
         "coins": 0,
         "saldo": 0,
-        "exp": 0,
+        "exp": 7,
         "nyawa": 100,
         "rank": 700,
         "antilinkcount": 0,
@@ -12364,7 +12370,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "protectionUntil": 0
       },
       "6282265427719@s.whatsapp.net": {
         "banned": false,
@@ -15242,10 +15249,10 @@
         "afkTime": -1,
         "umur": 0,
         "glimit": 50,
-        "limit": 34,
+        "limit": 33,
         "coins": 0,
         "saldo": 0,
-        "exp": 12,
+        "exp": 16,
         "nyawa": 100,
         "rank": 700,
         "antilinkcount": 0,
@@ -15543,10 +15550,10 @@
         "afkTime": -1,
         "umur": 0,
         "glimit": 50,
-        "limit": 30,
+        "limit": 26,
         "coins": 0,
         "saldo": 0,
-        "exp": 58,
+        "exp": 116,
         "nyawa": 100,
         "rank": 700,
         "antilinkcount": 0,
@@ -19745,7 +19752,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "protectionUntil": 0
       },
       "6282191193093@s.whatsapp.net": {
         "banned": false,
@@ -20565,10 +20573,10 @@
         "afkTime": -1,
         "umur": 0,
         "glimit": 50,
-        "limit": 29,
+        "limit": 27,
         "coins": 0,
         "saldo": 0,
-        "exp": 66,
+        "exp": 74,
         "nyawa": 100,
         "rank": 700,
         "antilinkcount": 0,
@@ -20625,7 +20633,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "protectionUntil": 0
       },
       "48883949611@s.whatsapp.net": {
         "banned": false,
@@ -22426,6 +22435,45 @@
         "game": false
       },
       "6287788353344@s.whatsapp.net": {
+        "goodbye": false,
+        "welcome": false,
+        "antilink": false,
+        "antibot": false,
+        "antibot2": false,
+        "antilinktt": false,
+        "antiSW": false,
+        "antiaudio": false,
+        "antisticker": false,
+        "antiimage": false,
+        "antivideo": false,
+        "antidocument": false,
+        "antitoxic": false,
+        "antivirtex": false,
+        "antipromosi": false,
+        "antiwame": false,
+        "antiwame2": false,
+        "antipolling": false,
+        "antilinkall": false,
+        "antilink2": false,
+        "antiforward": false,
+        "autodl": false,
+        "autoaigc": false,
+        "autoaipc": false,
+        "kickme": false,
+        "keamanan": false,
+        "mute": false,
+        "setproses": false,
+        "setdone": false,
+        "setclose": false,
+        "setopen": false,
+        "setleft": false,
+        "setwelcome": false,
+        "sewaExpiry": 0,
+        "liststore": {},
+        "nsfw": false,
+        "game": false
+      },
+      "6287728752606@s.whatsapp.net": {
         "goodbye": false,
         "welcome": false,
         "antilink": false,
