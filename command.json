@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 20572
+    "count": 20578
   },
   {
     "name": "ai",
@@ -9,15 +9,15 @@
   },
   {
     "name": "bratvid",
-    "count": 17873
+    "count": 17874
   },
   {
     "name": "play",
-    "count": 16999
+    "count": 17002
   },
   {
     "name": "bantuan",
-    "count": 15146
+    "count": 15150
   },
   {
     "name": "ytmp3",
@@ -25,15 +25,15 @@
   },
   {
     "name": "me",
-    "count": 12312
+    "count": 12317
   },
   {
     "name": "tt",
-    "count": 12032
+    "count": 12036
   },
   {
     "name": "afk",
-    "count": 11439
+    "count": 11443
   },
   {
     "name": "hd",
@@ -41,23 +41,23 @@
   },
   {
     "name": "susunkata",
-    "count": 10982
+    "count": 10991
   },
   {
     "name": "menu",
-    "count": 9628
+    "count": 9629
   },
   {
     "name": "slot",
-    "count": 2480
+    "count": 2492
   },
   {
     "name": "tebakkata",
-    "count": 1904
+    "count": 1906
   },
   {
     "name": "kuis",
-    "count": 1638
+    "count": 1645
   },
   {
     "name": "tebakhero",
@@ -77,7 +77,7 @@
   },
   {
     "name": "qc",
-    "count": 846
+    "count": 847
   },
   {
     "name": "kick",
@@ -89,15 +89,15 @@
   },
   {
     "name": "allmenu",
-    "count": 731
+    "count": 735
   },
   {
     "name": "ytmp4",
-    "count": 576
+    "count": 577
   },
   {
     "name": "tes",
-    "count": 554
+    "count": 559
   },
   {
     "name": "h",
@@ -105,7 +105,7 @@
   },
   {
     "name": "nyerah",
-    "count": 474
+    "count": 475
   },
   {
     "name": "tebakff",
@@ -133,7 +133,7 @@
   },
   {
     "name": "tiktok",
-    "count": 350
+    "count": 351
   },
   {
     "name": "jual",
@@ -145,7 +145,7 @@
   },
   {
     "name": "wink",
-    "count": 311
+    "count": 313
   },
   {
     "name": "tebakml",
@@ -169,7 +169,7 @@
   },
   {
     "name": "ytdoc",
-    "count": 269
+    "count": 271
   },
   {
     "name": "bulanan",
@@ -197,7 +197,7 @@
   },
   {
     "name": "ssweb",
-    "count": 223
+    "count": 227
   },
   {
     "name": "ping",
@@ -205,7 +205,7 @@
   },
   {
     "name": "wm",
-    "count": 224
+    "count": 225
   },
   {
     "name": "gpt",
@@ -277,7 +277,7 @@
   },
   {
     "name": "linkgc",
-    "count": 162
+    "count": 163
   },
   {
     "name": "suit",
@@ -289,7 +289,7 @@
   },
   {
     "name": "restart",
-    "count": 152
+    "count": 153
   },
   {
     "name": "audio",
@@ -325,7 +325,7 @@
   },
   {
     "name": "cn",
-    "count": 143
+    "count": 144
   },
   {
     "name": "produk",
@@ -437,7 +437,7 @@
   },
   {
     "name": "open",
-    "count": 86
+    "count": 87
   },
   {
     "name": "tutup",
@@ -489,7 +489,7 @@
   },
   {
     "name": "close",
-    "count": 76
+    "count": 77
   },
   {
     "name": "antilink2",
@@ -577,7 +577,7 @@
   },
   {
     "name": "meme",
-    "count": 61
+    "count": 63
   },
   {
     "name": "prabayar",
@@ -629,7 +629,7 @@
   },
   {
     "name": "acc",
-    "count": 54
+    "count": 55
   },
   {
     "name": "tebaklogo",
@@ -681,7 +681,7 @@
   },
   {
     "name": "fitnah",
-    "count": 48
+    "count": 50
   },
   {
     "name": "tflimit",
@@ -741,7 +741,7 @@
   },
   {
     "name": "antibot",
-    "count": 42
+    "count": 43
   },
   {
     "name": "grupmenu",
@@ -953,7 +953,7 @@
   },
   {
     "name": "cogan",
-    "count": 25
+    "count": 27
   },
   {
     "name": "ceksubdo",
@@ -1057,7 +1057,7 @@
   },
   {
     "name": "ttaudio",
-    "count": 21
+    "count": 23
   },
   {
     "name": "bank",
@@ -1085,7 +1085,7 @@
   },
   {
     "name": "igstory",
-    "count": 20
+    "count": 21
   },
   {
     "name": "terima",
@@ -1497,7 +1497,7 @@
   },
   {
     "name": "ban",
-    "count": 10
+    "count": 11
   },
   {
     "name": "addaudio",
@@ -1549,7 +1549,7 @@
   },
   {
     "name": "convertmenu",
-    "count": 10
+    "count": 11
   },
   {
     "name": "profil",
@@ -1785,7 +1785,7 @@
   },
   {
     "name": "darkjokes",
-    "count": 9
+    "count": 20
   },
   {
     "name": "test",
@@ -2029,7 +2029,7 @@
   },
   {
     "name": "fakehidetag",
-    "count": 5
+    "count": 6
   },
   {
     "name": "swm2",
@@ -2061,7 +2061,7 @@
   },
   {
     "name": "istirahat",
-    "count": 5
+    "count": 6
   },
   {
     "name": "cacat",
@@ -2309,7 +2309,7 @@
   },
   {
     "name": "done",
-    "count": 3
+    "count": 4
   },
   {
     "name": "shizuka",
@@ -2469,7 +2469,7 @@
   },
   {
     "name": "memeindo",
-    "count": 10
+    "count": 14
   },
   {
     "name": "horny",
@@ -2825,7 +2825,7 @@
   },
   {
     "name": "listvideo",
-    "count": 2
+    "count": 3
   },
   {
     "name": "domba",
@@ -2925,7 +2925,7 @@
   },
   {
     "name": "delcasino",
-    "count": 1
+    "count": 2
   },
   {
     "name": "banned",
@@ -3341,6 +3341,18 @@
   },
   {
     "name": "werewolf",
+    "count": 1
+  },
+  {
+    "name": "boboiboy",
+    "count": 1
+  },
+  {
+    "name": "cecan",
+    "count": 1
+  },
+  {
+    "name": "gempa",
     "count": 1
   }
 ]
