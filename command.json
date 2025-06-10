@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 20951
+    "count": 20983
   },
   {
     "name": "ai",
-    "count": 19816
+    "count": 19817
   },
   {
     "name": "bratvid",
@@ -13,11 +13,11 @@
   },
   {
     "name": "play",
-    "count": 17104
+    "count": 17109
   },
   {
     "name": "bantuan",
-    "count": 15487
+    "count": 15517
   },
   {
     "name": "ytmp3",
@@ -25,31 +25,31 @@
   },
   {
     "name": "me",
-    "count": 12606
+    "count": 12625
   },
   {
     "name": "tt",
-    "count": 12319
+    "count": 12350
   },
   {
     "name": "afk",
-    "count": 11516
+    "count": 11517
   },
   {
     "name": "susunkata",
-    "count": 11742
+    "count": 11793
   },
   {
     "name": "hd",
-    "count": 11405
+    "count": 11408
   },
   {
     "name": "menu",
-    "count": 9664
+    "count": 9665
   },
   {
     "name": "slot",
-    "count": 3433
+    "count": 3435
   },
   {
     "name": "tebakkata",
@@ -57,7 +57,7 @@
   },
   {
     "name": "tebakhero",
-    "count": 1667
+    "count": 1685
   },
   {
     "name": "kuis",
@@ -65,7 +65,7 @@
   },
   {
     "name": "s",
-    "count": 1163
+    "count": 1168
   },
   {
     "name": "mining",
@@ -77,23 +77,23 @@
   },
   {
     "name": "qc",
-    "count": 867
+    "count": 870
   },
   {
     "name": "kick",
-    "count": 832
+    "count": 833
   },
   {
     "name": "tebakgambar",
-    "count": 903
+    "count": 914
   },
   {
     "name": "allmenu",
-    "count": 764
+    "count": 766
   },
   {
     "name": "ytmp4",
-    "count": 603
+    "count": 604
   },
   {
     "name": "tes",
@@ -105,19 +105,19 @@
   },
   {
     "name": "nyerah",
-    "count": 497
+    "count": 498
   },
   {
     "name": "ig",
-    "count": 457
+    "count": 459
   },
   {
     "name": "tebakff",
-    "count": 439
+    "count": 440
   },
   {
     "name": "d",
-    "count": 439
+    "count": 440
   },
   {
     "name": "hidetag",
@@ -141,11 +141,11 @@
   },
   {
     "name": "mingguan",
-    "count": 327
+    "count": 332
   },
   {
     "name": "wink",
-    "count": 346
+    "count": 347
   },
   {
     "name": "tebakml",
@@ -173,11 +173,11 @@
   },
   {
     "name": "bulanan",
-    "count": 267
+    "count": 273
   },
   {
     "name": "getcase",
-    "count": 261
+    "count": 262
   },
   {
     "name": "get",
@@ -249,7 +249,7 @@
   },
   {
     "name": "audio",
-    "count": 203
+    "count": 207
   },
   {
     "name": "cekganteng",
@@ -277,7 +277,7 @@
   },
   {
     "name": "cn",
-    "count": 182
+    "count": 185
   },
   {
     "name": "adventure",
@@ -285,7 +285,7 @@
   },
   {
     "name": "linkgc",
-    "count": 169
+    "count": 170
   },
   {
     "name": "ulartangga",
@@ -305,7 +305,7 @@
   },
   {
     "name": "ttsearch",
-    "count": 157
+    "count": 160
   },
   {
     "name": "ai2",
@@ -365,7 +365,7 @@
   },
   {
     "name": "buyglimit",
-    "count": 143
+    "count": 146
   },
   {
     "name": "otp",
@@ -393,7 +393,7 @@
   },
   {
     "name": "emojimix",
-    "count": 105
+    "count": 114
   },
   {
     "name": "heal",
@@ -477,7 +477,7 @@
   },
   {
     "name": "meme",
-    "count": 91
+    "count": 92
   },
   {
     "name": "keamanan",
@@ -613,7 +613,7 @@
   },
   {
     "name": "ww",
-    "count": 56
+    "count": 57
   },
   {
     "name": "jarak",
@@ -709,7 +709,7 @@
   },
   {
     "name": "stiker",
-    "count": 50
+    "count": 51
   },
   {
     "name": "setwelcome",
@@ -885,7 +885,7 @@
   },
   {
     "name": "sewabot",
-    "count": 31
+    "count": 33
   },
   {
     "name": "terima",
@@ -973,7 +973,7 @@
   },
   {
     "name": "nailongc",
-    "count": 27
+    "count": 29
   },
   {
     "name": "hd2",
@@ -981,7 +981,7 @@
   },
   {
     "name": "jokowi",
-    "count": 26
+    "count": 27
   },
   {
     "name": "pluginmenu",
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "suitpvp",
-    "count": 15
+    "count": 16
   },
   {
     "name": "moonthly",
@@ -1345,7 +1345,7 @@
   },
   {
     "name": "tebakjkt48",
-    "count": 15
+    "count": 16
   },
   {
     "name": "npmjs",
@@ -1517,7 +1517,7 @@
   },
   {
     "name": "convertmenu",
-    "count": 11
+    "count": 12
   },
   {
     "name": "bodoh",
@@ -1757,7 +1757,7 @@
   },
   {
     "name": "cekasalmember",
-    "count": 8
+    "count": 9
   },
   {
     "name": "mulai",
@@ -2629,7 +2629,7 @@
   },
   {
     "name": "text2emoji",
-    "count": 2
+    "count": 5
   },
   {
     "name": "underwatertext",
@@ -2737,7 +2737,7 @@
   },
   {
     "name": "daftarprem",
-    "count": 2
+    "count": 3
   },
   {
     "name": "registeronly",
