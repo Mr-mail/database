@@ -198,7 +198,7 @@
         "whitelist": false,
         "rpg": false,
         "daftar": false,
-        "pctime": 1749527070714,
+        "pctime": 1749583835005,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -209,7 +209,7 @@
         "limit": 35,
         "coins": 0,
         "saldo": 0,
-        "exp": 958,
+        "exp": 1153,
         "nyawa": 100,
         "rank": 695,
         "antilinkcount": 0,
@@ -235,15 +235,15 @@
         "glimit": 150,
         "limit": 121,
         "coins": 0,
-        "saldo": 541674,
-        "exp": 2407,
+        "saldo": 694174,
+        "exp": 544,
         "nyawa": 100,
-        "rank": 9428,
+        "rank": 10389,
         "antilinkcount": 0,
         "toxiccount": 0,
         "antiSWcount": 1,
         "premiumExpiry": 1767797637365,
-        "level": 2,
+        "level": 3,
         "antiSWlast": 1749544701046
       },
       "6282225740209@s.whatsapp.net": {
@@ -263,7 +263,7 @@
         "limit": 34,
         "coins": 0,
         "saldo": 96127,
-        "exp": 423,
+        "exp": 432,
         "nyawa": 100,
         "rank": 1295,
         "antilinkcount": 0,
@@ -316,16 +316,19 @@
         "glimit": 115,
         "limit": 189,
         "coins": 0,
-        "saldo": 3049627,
-        "exp": 19,
+        "saldo": 3119127,
+        "exp": 926,
         "nyawa": 100,
-        "rank": 33010,
+        "rank": 34404,
         "antilinkcount": 0,
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 1759666356913,
         "level": 7,
-        "antiSWlast": 0
+        "antiSWlast": 0,
+        "slotLog": {
+          "10/6/2025": 30
+        }
       },
       "601168169863@s.whatsapp.net": {
         "banned": false,
@@ -430,7 +433,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "994401921326@s.whatsapp.net": {
         "banned": false,
@@ -719,7 +723,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282338244075@s.whatsapp.net": {
         "banned": false,
@@ -1377,7 +1382,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285142631318@s.whatsapp.net": {
         "banned": false,
@@ -1483,7 +1489,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6288211133256@s.whatsapp.net": {
         "banned": false,
@@ -2354,7 +2361,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283878972990@s.whatsapp.net": {
         "banned": false,
@@ -2979,17 +2987,18 @@
         "afkTime": -1,
         "umur": 0,
         "glimit": 50,
-        "limit": 29,
+        "limit": 28,
         "coins": 0,
         "saldo": 0,
-        "exp": 77,
+        "exp": 96,
         "nyawa": 100,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283143430294@s.whatsapp.net": {
         "banned": false,
@@ -3015,7 +3024,8 @@
         "toxiccount": 0,
         "antiSWcount": 1,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285756764153@s.whatsapp.net": {
         "banned": false,
@@ -3225,7 +3235,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283194862264@s.whatsapp.net": {
         "banned": false,
@@ -4391,7 +4402,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282320502412@s.whatsapp.net": {
         "banned": false,
@@ -4443,7 +4455,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "60174564237@s.whatsapp.net": {
         "banned": false,
@@ -4547,7 +4560,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282336888651@s.whatsapp.net": {
         "banned": false,
@@ -4625,7 +4639,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6288227586990@s.whatsapp.net": {
         "banned": false,
@@ -4833,7 +4848,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285298383286@s.whatsapp.net": {
         "banned": false,
@@ -4911,7 +4927,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282173848917@s.whatsapp.net": {
         "banned": false,
@@ -5015,7 +5032,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282260543847@s.whatsapp.net": {
         "banned": false,
@@ -5172,7 +5190,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281235915585@s.whatsapp.net": {
         "banned": false,
@@ -5198,7 +5217,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282197054544@s.whatsapp.net": {
         "banned": false,
@@ -5276,7 +5296,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285974192952@s.whatsapp.net": {
         "banned": false,
@@ -5354,7 +5375,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285778471256@s.whatsapp.net": {
         "banned": false,
@@ -5406,7 +5428,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282313344961@s.whatsapp.net": {
         "banned": false,
@@ -5484,7 +5507,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281284721677@s.whatsapp.net": {
         "banned": false,
@@ -5536,7 +5560,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283181759728@s.whatsapp.net": {
         "banned": false,
@@ -5588,7 +5613,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285692918297@s.whatsapp.net": {
         "banned": false,
@@ -5614,7 +5640,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "628388496317@s.whatsapp.net": {
         "banned": false,
@@ -5640,7 +5667,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281327054114@s.whatsapp.net": {
         "banned": false,
@@ -5903,7 +5931,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6289504478747@s.whatsapp.net": {
         "banned": false,
@@ -6007,7 +6036,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285261620541@s.whatsapp.net": {
         "banned": false,
@@ -6033,7 +6063,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285381061256@s.whatsapp.net": {
         "banned": false,
@@ -6164,7 +6195,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285819580895@s.whatsapp.net": {
         "banned": false,
@@ -6190,7 +6222,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282197023778@s.whatsapp.net": {
         "banned": false,
@@ -6242,7 +6275,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283153583772@s.whatsapp.net": {
         "banned": false,
@@ -6268,7 +6302,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283135487542@s.whatsapp.net": {
         "banned": false,
@@ -6477,7 +6512,8 @@
         "toxiccount": 0,
         "antiSWcount": 1,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6289522987039@s.whatsapp.net": {
         "banned": false,
@@ -6529,7 +6565,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281214131540@s.whatsapp.net": {
         "banned": false,
@@ -6555,7 +6592,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281356239365@s.whatsapp.net": {
         "banned": false,
@@ -6686,7 +6724,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285814875364@s.whatsapp.net": {
         "banned": false,
@@ -6738,7 +6777,8 @@
         "toxiccount": 0,
         "antiSWcount": 1,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283137329003@s.whatsapp.net": {
         "banned": false,
@@ -7027,7 +7067,8 @@
         "toxiccount": 0,
         "antiSWcount": 1,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283175596867@s.whatsapp.net": {
         "banned": false,
@@ -7105,7 +7146,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282114153755@s.whatsapp.net": {
         "banned": false,
@@ -7209,7 +7251,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285739466041@s.whatsapp.net": {
         "banned": false,
@@ -7313,7 +7356,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6287814990087@s.whatsapp.net": {
         "banned": false,
@@ -7365,7 +7409,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285758263351@s.whatsapp.net": {
         "banned": false,
@@ -7471,7 +7516,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281399774632@s.whatsapp.net": {
         "banned": false,
@@ -7497,7 +7543,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6288286347012@s.whatsapp.net": {
         "banned": false,
@@ -7549,7 +7596,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285769501165@s.whatsapp.net": {
         "banned": false,
@@ -7575,7 +7623,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285692389482@s.whatsapp.net": {
         "banned": false,
@@ -7758,7 +7807,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285397361470@s.whatsapp.net": {
         "banned": false,
@@ -8176,7 +8226,8 @@
         "toxiccount": 0,
         "antiSWcount": 1,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282241893278@s.whatsapp.net": {
         "banned": false,
@@ -8202,7 +8253,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285749700090@s.whatsapp.net": {
         "banned": false,
@@ -8228,7 +8280,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283188215881@s.whatsapp.net": {
         "banned": false,
@@ -8254,7 +8307,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "62895321263928@s.whatsapp.net": {
         "banned": false,
@@ -8280,7 +8334,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285712515077@s.whatsapp.net": {
         "banned": false,
@@ -8359,7 +8414,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "62881027769926@s.whatsapp.net": {
         "banned": false,
@@ -8437,7 +8493,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6288985634784@s.whatsapp.net": {
         "banned": false,
@@ -8463,7 +8520,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6288980215323@s.whatsapp.net": {
         "banned": false,
@@ -8489,7 +8547,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283138941331@s.whatsapp.net": {
         "banned": false,
@@ -8594,7 +8653,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285961581069@s.whatsapp.net": {
         "banned": false,
@@ -8829,7 +8889,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281949941904@s.whatsapp.net": {
         "banned": false,
@@ -8855,7 +8916,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285815943638@s.whatsapp.net": {
         "banned": false,
@@ -8881,7 +8943,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6287832858591@s.whatsapp.net": {
         "banned": false,
@@ -8985,7 +9048,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283836725108@s.whatsapp.net": {
         "banned": false,
@@ -9194,7 +9258,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283153645711@s.whatsapp.net": {
         "banned": false,
@@ -9402,7 +9467,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "62881012877208@s.whatsapp.net": {
         "banned": false,
@@ -9611,7 +9677,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283894585073@s.whatsapp.net": {
         "banned": false,
@@ -9716,7 +9783,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285800501683@s.whatsapp.net": {
         "banned": false,
@@ -9742,7 +9810,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285783670818@s.whatsapp.net": {
         "banned": false,
@@ -9794,7 +9863,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285257062153@s.whatsapp.net": {
         "banned": false,
@@ -9820,7 +9890,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283823193537@s.whatsapp.net": {
         "banned": false,
@@ -9846,7 +9917,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "628563816133@s.whatsapp.net": {
         "banned": false,
@@ -10290,7 +10362,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283896450539@s.whatsapp.net": {
         "banned": false,
@@ -10316,7 +10389,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282136038698@s.whatsapp.net": {
         "banned": false,
@@ -10368,7 +10442,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281299488776@s.whatsapp.net": {
         "banned": false,
@@ -10499,7 +10574,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285382495830@s.whatsapp.net": {
         "banned": false,
@@ -10787,7 +10863,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285847715893@s.whatsapp.net": {
         "banned": false,
@@ -10893,7 +10970,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6289675946676@s.whatsapp.net": {
         "banned": false,
@@ -11103,7 +11181,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282354910128@s.whatsapp.net": {
         "banned": false,
@@ -11365,7 +11444,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "62895328938493@s.whatsapp.net": {
         "banned": false,
@@ -11444,7 +11524,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285182061823@s.whatsapp.net": {
         "banned": false,
@@ -11497,7 +11578,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282241247214@s.whatsapp.net": {
         "banned": false,
@@ -11627,7 +11709,8 @@
         "toxiccount": 0,
         "antiSWcount": 1,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "821027827896@s.whatsapp.net": {
         "banned": false,
@@ -11839,7 +11922,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "62882019356619@s.whatsapp.net": {
         "banned": false,
@@ -12286,7 +12370,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282197778740@s.whatsapp.net": {
         "banned": false,
@@ -13046,7 +13131,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "923198307149@s.whatsapp.net": {
         "banned": false,
@@ -13176,7 +13262,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "62882008245288@s.whatsapp.net": {
         "banned": false,
@@ -13202,7 +13289,8 @@
         "toxiccount": 0,
         "antiSWcount": 1,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6289510883594@s.whatsapp.net": {
         "banned": false,
@@ -13306,7 +13394,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285381056945@s.whatsapp.net": {
         "banned": false,
@@ -13436,7 +13525,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283152715300@s.whatsapp.net": {
         "banned": false,
@@ -13802,7 +13892,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285850753176@s.whatsapp.net": {
         "banned": false,
@@ -15404,7 +15495,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281329170080@s.whatsapp.net": {
         "banned": false,
@@ -16195,7 +16287,8 @@
         "toxiccount": 0,
         "antiSWcount": 1,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "77074484447@s.whatsapp.net": {
         "banned": false,
@@ -16826,7 +16919,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6287792410004@s.whatsapp.net": {
         "banned": false,
@@ -20394,7 +20488,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6287785338861@s.whatsapp.net": {
         "banned": false,
@@ -20420,7 +20515,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285815559868@s.whatsapp.net": {
         "banned": false,
@@ -20550,7 +20646,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281356048017@s.whatsapp.net": {
         "banned": false,
@@ -20576,7 +20673,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285117375113@s.whatsapp.net": {
         "banned": false,
@@ -20602,7 +20700,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "9647700943950@s.whatsapp.net": {
         "banned": false,
@@ -20680,7 +20779,8 @@
         "toxiccount": 0,
         "antiSWcount": 1,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285262130302@s.whatsapp.net": {
         "banned": false,
@@ -20732,7 +20832,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6289632310706@s.whatsapp.net": {
         "banned": false,
@@ -20810,7 +20911,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283854677794@s.whatsapp.net": {
         "banned": false,
@@ -20836,7 +20938,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6289528432199@s.whatsapp.net": {
         "banned": false,
@@ -20862,7 +20965,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285184313268@s.whatsapp.net": {
         "banned": false,
@@ -20888,7 +20992,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283852961583@s.whatsapp.net": {
         "banned": false,
@@ -20966,7 +21071,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285852886900@s.whatsapp.net": {
         "banned": false,
@@ -20992,7 +21098,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285157597262@s.whatsapp.net": {
         "banned": false,
@@ -21018,7 +21125,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285606691681@s.whatsapp.net": {
         "banned": false,
@@ -21123,7 +21231,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283187130635@s.whatsapp.net": {
         "banned": false,
@@ -21149,7 +21258,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283120854818@s.whatsapp.net": {
         "banned": false,
@@ -21175,7 +21285,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283830055036@s.whatsapp.net": {
         "banned": false,
@@ -21227,7 +21338,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283151092194@s.whatsapp.net": {
         "banned": false,
@@ -21253,7 +21365,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "60187793571@s.whatsapp.net": {
         "banned": false,
@@ -21331,7 +21444,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285946832208@s.whatsapp.net": {
         "banned": false,
@@ -21357,7 +21471,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281224487614@s.whatsapp.net": {
         "banned": false,
@@ -21383,7 +21498,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282154158861@s.whatsapp.net": {
         "banned": false,
@@ -21409,7 +21525,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281265799179@s.whatsapp.net": {
         "banned": false,
@@ -21487,7 +21604,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6288233965929@s.whatsapp.net": {
         "banned": false,
@@ -21565,7 +21683,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283830506535@s.whatsapp.net": {
         "banned": false,
@@ -21591,7 +21710,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283840626621@s.whatsapp.net": {
         "banned": false,
@@ -21722,7 +21842,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "628156928255@s.whatsapp.net": {
         "banned": false,
@@ -21800,7 +21921,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "818085855696@s.whatsapp.net": {
         "banned": false,
@@ -22139,7 +22261,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282276317097@s.whatsapp.net": {
         "banned": false,
@@ -22165,7 +22288,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285664638392@s.whatsapp.net": {
         "banned": false,
@@ -22558,7 +22682,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285750763578@s.whatsapp.net": {
         "banned": false,
@@ -23941,10 +24066,10 @@
         "afkTime": -1,
         "umur": 0,
         "glimit": 50,
-        "limit": 31,
+        "limit": 30,
         "coins": 0,
         "saldo": 0,
-        "exp": 36,
+        "exp": 52,
         "nyawa": 100,
         "rank": 700,
         "antilinkcount": 0,
@@ -24870,7 +24995,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285709401728@s.whatsapp.net": {
         "banned": false,
@@ -25053,7 +25179,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282194448046@s.whatsapp.net": {
         "banned": false,
@@ -25392,7 +25519,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282352326399@s.whatsapp.net": {
         "banned": false,
@@ -25513,17 +25641,18 @@
         "afkTime": -1,
         "umur": 0,
         "glimit": 50,
-        "limit": 34,
+        "limit": 33,
         "coins": 0,
         "saldo": 0,
-        "exp": 14,
+        "exp": 15,
         "nyawa": 100,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285817369026@s.whatsapp.net": {
         "banned": false,
@@ -25628,7 +25757,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6289529344271@s.whatsapp.net": {
         "banned": false,
@@ -26387,7 +26517,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281564643572@s.whatsapp.net": {
         "banned": false,
@@ -27176,7 +27307,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6288980832108@s.whatsapp.net": {
         "banned": false,
@@ -27202,7 +27334,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281939133176@s.whatsapp.net": {
         "banned": false,
@@ -27801,7 +27934,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "628884973231@s.whatsapp.net": {
         "banned": false,
@@ -28010,7 +28144,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282276804242@s.whatsapp.net": {
         "banned": false,
@@ -28689,7 +28824,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282218605525@s.whatsapp.net": {
         "banned": false,
@@ -28819,7 +28955,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282240283709@s.whatsapp.net": {
         "banned": false,
@@ -30067,7 +30204,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282117020457@s.whatsapp.net": {
         "banned": false,
@@ -34913,7 +35051,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6288212359304@s.whatsapp.net": {
         "banned": false,
@@ -34939,7 +35078,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6288228670423@s.whatsapp.net": {
         "banned": false,
@@ -35122,7 +35262,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281917185013@s.whatsapp.net": {
         "banned": false,
@@ -35148,7 +35289,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281260648839@s.whatsapp.net": {
         "banned": false,
@@ -35304,7 +35446,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285921054796@s.whatsapp.net": {
         "banned": false,
@@ -35356,7 +35499,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281241161801@s.whatsapp.net": {
         "banned": false,
@@ -35408,7 +35552,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282165558555@s.whatsapp.net": {
         "banned": false,
@@ -35434,7 +35579,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281228971013@s.whatsapp.net": {
         "banned": false,
@@ -35486,7 +35632,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285257061460@s.whatsapp.net": {
         "banned": false,
@@ -35512,7 +35659,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285656809642@s.whatsapp.net": {
         "banned": false,
@@ -35564,7 +35712,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6283848537052@s.whatsapp.net": {
         "banned": false,
@@ -35643,7 +35792,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285608592300@s.whatsapp.net": {
         "banned": false,
@@ -36060,7 +36210,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6289669683170@s.whatsapp.net": {
         "banned": false,
@@ -36112,7 +36263,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281371737295@s.whatsapp.net": {
         "banned": false,
@@ -36216,7 +36368,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285751238394@s.whatsapp.net": {
         "banned": false,
@@ -36242,7 +36395,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "93720011786@s.whatsapp.net": {
         "banned": false,
@@ -38818,6 +38972,357 @@
         "antiSWcount": 0,
         "premiumExpiry": 0,
         "level": 0
+      },
+      "6282350183843@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 33,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 12,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "6289653899476@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "6283131942526@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "62895403366316@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "6285697191707@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "6281226565819@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "6287853240887@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "6282135775351@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "62895401851285@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "6283876627123@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "6283117690506@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "6283837592407@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
+      },
+      "6285739142889@s.whatsapp.net": {
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "rpg": false,
+        "daftar": false,
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "afkReason": "",
+        "afkTime": -1,
+        "umur": 0,
+        "glimit": 50,
+        "limit": 35,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "antiSWlast": 0,
+        "nyawa": 100,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "antiSWcount": 0,
+        "premiumExpiry": 0,
+        "level": 0
       }
     },
     "chats": {
@@ -39169,7 +39674,7 @@
         "autoaipc": false,
         "kickme": false,
         "keamanan": false,
-        "mute": false,
+        "mute": true,
         "setproses": false,
         "setdone": false,
         "setclose": false,
@@ -96307,6 +96812,487 @@
         "lastrampok": 0
       },
       "496444444@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "6282350183843@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "6289653899476@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "6283131942526@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "62895403366316@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "6285697191707@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "6281226565819@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "6287853240887@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "6282135775351@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "62895401851285@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "6283876627123@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "6283117690506@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "6283837592407@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0,
+        "lastrampok": 0
+      },
+      "6285739142889@s.whatsapp.net": {
         "kapal": false,
         "darahkapal": 100,
         "pickaxe": false,
