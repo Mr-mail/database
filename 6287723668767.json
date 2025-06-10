@@ -19090,17 +19090,18 @@
         "afkTime": -1,
         "umur": 0,
         "glimit": 50,
-        "limit": 33,
+        "limit": 31,
         "coins": 0,
         "saldo": 0,
-        "exp": 19,
+        "exp": 45,
         "nyawa": 100,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282178864309@s.whatsapp.net": {
         "banned": false,
@@ -23509,7 +23510,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6282348909809@s.whatsapp.net": {
         "banned": false,
@@ -35040,7 +35042,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281396871908@s.whatsapp.net": {
         "banned": false,
