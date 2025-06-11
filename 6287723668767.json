@@ -6549,7 +6549,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6281936524384@s.whatsapp.net": {
         "banned": false,
@@ -28810,10 +28811,10 @@
         "afkTime": -1,
         "umur": 0,
         "glimit": 50,
-        "limit": 9,
+        "limit": 3,
         "coins": 0,
         "saldo": 0,
-        "exp": 306,
+        "exp": 379,
         "nyawa": 100,
         "rank": 700,
         "antilinkcount": 0,
