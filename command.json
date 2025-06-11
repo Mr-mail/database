@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 21206
+    "count": 21214
   },
   {
     "name": "ai",
-    "count": 19949
+    "count": 19954
   },
   {
     "name": "bratvid",
@@ -21,15 +21,15 @@
   },
   {
     "name": "ytmp3",
-    "count": 14288
+    "count": 14289
   },
   {
     "name": "me",
-    "count": 12838
+    "count": 12839
   },
   {
     "name": "tt",
-    "count": 12619
+    "count": 12628
   },
   {
     "name": "afk",
@@ -45,7 +45,7 @@
   },
   {
     "name": "menu",
-    "count": 9693
+    "count": 9694
   },
   {
     "name": "slot",
@@ -65,7 +65,7 @@
   },
   {
     "name": "s",
-    "count": 1240
+    "count": 1241
   },
   {
     "name": "mining",
@@ -77,11 +77,11 @@
   },
   {
     "name": "qc",
-    "count": 909
+    "count": 910
   },
   {
     "name": "kick",
-    "count": 851
+    "count": 853
   },
   {
     "name": "tebakgambar",
@@ -89,11 +89,11 @@
   },
   {
     "name": "allmenu",
-    "count": 795
+    "count": 796
   },
   {
     "name": "ytmp4",
-    "count": 605
+    "count": 606
   },
   {
     "name": "tes",
@@ -109,7 +109,7 @@
   },
   {
     "name": "ig",
-    "count": 493
+    "count": 494
   },
   {
     "name": "tebakff",
@@ -117,7 +117,7 @@
   },
   {
     "name": "d",
-    "count": 495
+    "count": 496
   },
   {
     "name": "hidetag",
@@ -261,7 +261,7 @@
   },
   {
     "name": "mute",
-    "count": 183
+    "count": 184
   },
   {
     "name": "yts",
@@ -305,7 +305,7 @@
   },
   {
     "name": "ttsearch",
-    "count": 161
+    "count": 166
   },
   {
     "name": "ai2",
@@ -521,7 +521,7 @@
   },
   {
     "name": "ytsearch",
-    "count": 75
+    "count": 77
   },
   {
     "name": "ttp",
@@ -645,11 +645,11 @@
   },
   {
     "name": "bot",
-    "count": 55
+    "count": 56
   },
   {
     "name": "fitnah",
-    "count": 53
+    "count": 55
   },
   {
     "name": "tebaklogo",
@@ -821,7 +821,7 @@
   },
   {
     "name": "tictactoe",
-    "count": 49
+    "count": 50
   },
   {
     "name": "rpgmenu",
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "weekly",
-    "count": 26
+    "count": 27
   },
   {
     "name": "oi",
@@ -1073,7 +1073,7 @@
   },
   {
     "name": "babi",
-    "count": 22
+    "count": 28
   },
   {
     "name": "bank",
@@ -3309,7 +3309,7 @@
   },
   {
     "name": "deltebakbom",
-    "count": 1
+    "count": 2
   },
   {
     "name": "listaudio",
@@ -3405,11 +3405,11 @@
   },
   {
     "name": "mangastyle",
-    "count": 18
+    "count": 22
   },
   {
     "name": "animestyle",
-    "count": 19
+    "count": 21
   },
   {
     "name": "hd3",
@@ -3434,5 +3434,9 @@
   {
     "name": "addfile",
     "count": 2
+  },
+  {
+    "name": "petakbom",
+    "count": 1
   }
 ]
