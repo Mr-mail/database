@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 21071
+    "count": 21073
   },
   {
     "name": "ai",
@@ -13,7 +13,7 @@
   },
   {
     "name": "play",
-    "count": 17135
+    "count": 17141
   },
   {
     "name": "bantuan",
@@ -29,7 +29,7 @@
   },
   {
     "name": "tt",
-    "count": 12471
+    "count": 12472
   },
   {
     "name": "afk",
@@ -273,7 +273,7 @@
   },
   {
     "name": "del",
-    "count": 171
+    "count": 172
   },
   {
     "name": "cn",
@@ -3386,5 +3386,9 @@
   {
     "name": "jadwalsholat",
     "count": 4
+  },
+  {
+    "name": "igreels",
+    "count": 1
   }
 ]
