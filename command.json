@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 21654
+    "count": 21657
   },
   {
     "name": "ai",
-    "count": 20164
+    "count": 20169
   },
   {
     "name": "bratvid",
@@ -17,7 +17,7 @@
   },
   {
     "name": "bantuan",
-    "count": 16306
+    "count": 16346
   },
   {
     "name": "ytmp3",
@@ -25,11 +25,11 @@
   },
   {
     "name": "me",
-    "count": 13532
+    "count": 13550
   },
   {
     "name": "tt",
-    "count": 13149
+    "count": 13154
   },
   {
     "name": "susunkata",
@@ -37,7 +37,7 @@
   },
   {
     "name": "afk",
-    "count": 11616
+    "count": 11617
   },
   {
     "name": "hd",
@@ -49,7 +49,7 @@
   },
   {
     "name": "slot",
-    "count": 4151
+    "count": 4182
   },
   {
     "name": "tebakkata",
@@ -57,7 +57,7 @@
   },
   {
     "name": "kuis",
-    "count": 5283
+    "count": 5306
   },
   {
     "name": "tebakhero",
@@ -65,11 +65,11 @@
   },
   {
     "name": "tebakgambar",
-    "count": 1466
+    "count": 1491
   },
   {
     "name": "s",
-    "count": 1383
+    "count": 1384
   },
   {
     "name": "pin",
@@ -85,7 +85,7 @@
   },
   {
     "name": "kick",
-    "count": 862
+    "count": 863
   },
   {
     "name": "allmenu",
@@ -105,7 +105,7 @@
   },
   {
     "name": "d",
-    "count": 578
+    "count": 580
   },
   {
     "name": "h",
@@ -121,11 +121,11 @@
   },
   {
     "name": "wink",
-    "count": 469
+    "count": 472
   },
   {
     "name": "hidetag",
-    "count": 426
+    "count": 428
   },
   {
     "name": "tiktok",
@@ -229,7 +229,7 @@
   },
   {
     "name": "delete",
-    "count": 215
+    "count": 218
   },
   {
     "name": "gpt",
@@ -385,7 +385,7 @@
   },
   {
     "name": "collect",
-    "count": 129
+    "count": 130
   },
   {
     "name": "q",
@@ -393,7 +393,7 @@
   },
   {
     "name": "meme",
-    "count": 121
+    "count": 124
   },
   {
     "name": "say",
@@ -457,7 +457,7 @@
   },
   {
     "name": "open",
-    "count": 92
+    "count": 93
   },
   {
     "name": "war",
@@ -501,7 +501,7 @@
   },
   {
     "name": "close",
-    "count": 82
+    "count": 83
   },
   {
     "name": "ytsearch",
@@ -857,7 +857,7 @@
   },
   {
     "name": "pm",
-    "count": 36
+    "count": 39
   },
   {
     "name": "antipromosi",
@@ -1313,7 +1313,7 @@
   },
   {
     "name": "dm",
-    "count": 16
+    "count": 18
   },
   {
     "name": "savefile",
@@ -3465,10 +3465,14 @@
   },
   {
     "name": "tebakjenaka",
-    "count": 302
+    "count": 510
   },
   {
     "name": "flagtext",
     "count": 2
+  },
+  {
+    "name": "removebg2",
+    "count": 1
   }
 ]
