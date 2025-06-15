@@ -217,7 +217,7 @@
         "limit": 35,
         "coins": 0,
         "saldo": 44000,
-        "exp": 1018,
+        "exp": 1034,
         "nyawa": 100,
         "rank": 873,
         "antilinkcount": 0,
@@ -246,10 +246,10 @@
         "glimit": 110,
         "limit": 132,
         "coins": 0,
-        "saldo": 4475078,
-        "exp": 402,
+        "saldo": 4888078,
+        "exp": 1416,
         "nyawa": 100,
-        "rank": 31253,
+        "rank": 32797,
         "antilinkcount": 0,
         "toxiccount": 0,
         "antiSWcount": 2,
@@ -257,7 +257,7 @@
         "level": 9,
         "antiSWlast": 1749597166696,
         "slotLog": {
-          "14/6/2025": 30
+          "15/6/2025": 30
         }
       },
       "6282225740209@s.whatsapp.net": {
@@ -6942,10 +6942,10 @@
         "afkTime": -1,
         "umur": 0,
         "glimit": 49,
-        "limit": 5,
+        "limit": 3,
         "coins": 0,
         "saldo": 4000,
-        "exp": 453,
+        "exp": 474,
         "nyawa": 100,
         "rank": 752,
         "antilinkcount": 0,
@@ -8813,10 +8813,10 @@
         "glimit": 0,
         "limit": 5,
         "coins": 0,
-        "saldo": 1183837,
-        "exp": 637,
+        "saldo": 1295837,
+        "exp": 1179,
         "nyawa": 100,
-        "rank": 20402,
+        "rank": 21041,
         "antilinkcount": 0,
         "toxiccount": 0,
         "antiSWcount": 0,
@@ -8824,7 +8824,7 @@
         "level": 7,
         "antiSWlast": 0,
         "slotLog": {
-          "13/6/2025": 7
+          "15/6/2025": 7
         }
       },
       "6283850327532@s.whatsapp.net": {
@@ -14376,7 +14376,7 @@
         "whitelist": false,
         "rpg": false,
         "daftar": false,
-        "pctime": "",
+        "pctime": 1750010126998,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -28647,7 +28647,8 @@
         "toxiccount": 0,
         "antiSWcount": 0,
         "premiumExpiry": 0,
-        "level": 0
+        "level": 0,
+        "antiSWlast": 0
       },
       "6285718474087@s.whatsapp.net": {
         "banned": false,
@@ -54197,10 +54198,10 @@
         "afkTime": -1,
         "umur": 0,
         "glimit": 50,
-        "limit": 25,
+        "limit": 23,
         "coins": 0,
         "saldo": 0,
-        "exp": 103,
+        "exp": 156,
         "antiSWlast": 0,
         "nyawa": 100,
         "rank": 700,
@@ -63218,7 +63219,7 @@
         "limit": 35,
         "coins": 0,
         "saldo": 0,
-        "exp": 10,
+        "exp": 30,
         "antiSWlast": 0,
         "nyawa": 100,
         "rank": 700,
