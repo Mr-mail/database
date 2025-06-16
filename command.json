@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 21996
+    "count": 21999
   },
   {
     "name": "ai",
-    "count": 20298
+    "count": 20303
   },
   {
     "name": "bratvid",
@@ -13,11 +13,11 @@
   },
   {
     "name": "play",
-    "count": 17541
+    "count": 17543
   },
   {
     "name": "bantuan",
-    "count": 16851
+    "count": 16876
   },
   {
     "name": "ytmp3",
@@ -25,19 +25,19 @@
   },
   {
     "name": "me",
-    "count": 13763
+    "count": 13786
   },
   {
     "name": "tt",
-    "count": 13456
+    "count": 13464
   },
   {
     "name": "susunkata",
-    "count": 12362
+    "count": 12366
   },
   {
     "name": "afk",
-    "count": 11654
+    "count": 11660
   },
   {
     "name": "hd",
@@ -45,11 +45,11 @@
   },
   {
     "name": "menu",
-    "count": 9748
+    "count": 9750
   },
   {
     "name": "slot",
-    "count": 4280
+    "count": 4321
   },
   {
     "name": "tebakkata",
@@ -65,11 +65,11 @@
   },
   {
     "name": "tebakgambar",
-    "count": 1501
+    "count": 1502
   },
   {
     "name": "s",
-    "count": 1465
+    "count": 1467
   },
   {
     "name": "pin",
@@ -89,11 +89,11 @@
   },
   {
     "name": "allmenu",
-    "count": 871
+    "count": 874
   },
   {
     "name": "tes",
-    "count": 687
+    "count": 693
   },
   {
     "name": "ytmp4",
@@ -129,7 +129,7 @@
   },
   {
     "name": "tiktok",
-    "count": 445
+    "count": 451
   },
   {
     "name": "math",
@@ -157,7 +157,7 @@
   },
   {
     "name": "buyglimit",
-    "count": 602
+    "count": 619
   },
   {
     "name": "bulanan",
@@ -169,7 +169,7 @@
   },
   {
     "name": "ytdoc",
-    "count": 298
+    "count": 299
   },
   {
     "name": "audio",
@@ -177,7 +177,7 @@
   },
   {
     "name": "wm",
-    "count": 314
+    "count": 316
   },
   {
     "name": "topglobal",
@@ -193,7 +193,7 @@
   },
   {
     "name": "get",
-    "count": 279
+    "count": 281
   },
   {
     "name": "asahotak",
@@ -229,7 +229,7 @@
   },
   {
     "name": "delete",
-    "count": 225
+    "count": 226
   },
   {
     "name": "gpt",
@@ -293,7 +293,7 @@
   },
   {
     "name": "gfl",
-    "count": 197
+    "count": 198
   },
   {
     "name": "adventure",
@@ -325,7 +325,7 @@
   },
   {
     "name": "tourl",
-    "count": 155
+    "count": 160
   },
   {
     "name": "berburu",
@@ -509,7 +509,7 @@
   },
   {
     "name": "rampok",
-    "count": 108
+    "count": 109
   },
   {
     "name": "keamanan",
@@ -585,7 +585,7 @@
   },
   {
     "name": "script",
-    "count": 67
+    "count": 68
   },
   {
     "name": "antivirtex",
@@ -773,7 +773,7 @@
   },
   {
     "name": "addcase",
-    "count": 45
+    "count": 46
   },
   {
     "name": "asu",
@@ -909,7 +909,7 @@
   },
   {
     "name": "weekly",
-    "count": 38
+    "count": 39
   },
   {
     "name": "wibu",
@@ -989,7 +989,7 @@
   },
   {
     "name": "bank",
-    "count": 29
+    "count": 30
   },
   {
     "name": "antidelete",
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "subdo",
-    "count": 26
+    "count": 27
   },
   {
     "name": "funmenu",
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "moonthly",
-    "count": 27
+    "count": 28
   },
   {
     "name": "ttnowm",
@@ -1409,7 +1409,7 @@
   },
   {
     "name": "megawati",
-    "count": 45
+    "count": 46
   },
   {
     "name": "delchat",
@@ -1529,7 +1529,7 @@
   },
   {
     "name": "report",
-    "count": 12
+    "count": 14
   },
   {
     "name": "chatgpt2",
@@ -2217,7 +2217,7 @@
   },
   {
     "name": "hd3",
-    "count": 7
+    "count": 9
   },
   {
     "name": "sangean",
@@ -3465,7 +3465,7 @@
   },
   {
     "name": "tebakjenaka",
-    "count": 2129
+    "count": 2307
   },
   {
     "name": "flagtext",
@@ -3489,6 +3489,14 @@
   },
   {
     "name": "delvn",
+    "count": 1
+  },
+  {
+    "name": "balasreport",
+    "count": 1
+  },
+  {
+    "name": "stopreport",
     "count": 1
   }
 ]
