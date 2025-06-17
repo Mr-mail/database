@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 22017
+    "count": 22023
   },
   {
     "name": "ai",
@@ -13,11 +13,11 @@
   },
   {
     "name": "play",
-    "count": 17548
+    "count": 17549
   },
   {
     "name": "bantuan",
-    "count": 16957
+    "count": 16975
   },
   {
     "name": "ytmp3",
@@ -25,11 +25,11 @@
   },
   {
     "name": "me",
-    "count": 13816
+    "count": 13819
   },
   {
     "name": "tt",
-    "count": 13502
+    "count": 13509
   },
   {
     "name": "susunkata",
@@ -37,11 +37,11 @@
   },
   {
     "name": "afk",
-    "count": 11662
+    "count": 11663
   },
   {
     "name": "hd",
-    "count": 11773
+    "count": 11774
   },
   {
     "name": "menu",
@@ -53,15 +53,15 @@
   },
   {
     "name": "tebakkata",
-    "count": 3477
+    "count": 3504
   },
   {
     "name": "kuis",
-    "count": 5761
+    "count": 5781
   },
   {
     "name": "tebakhero",
-    "count": 1912
+    "count": 1930
   },
   {
     "name": "tebakgambar",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 875
+    "count": 876
   },
   {
     "name": "tes",
@@ -117,11 +117,11 @@
   },
   {
     "name": "tebakff",
-    "count": 494
+    "count": 496
   },
   {
     "name": "wink",
-    "count": 543
+    "count": 544
   },
   {
     "name": "hidetag",
@@ -149,11 +149,11 @@
   },
   {
     "name": "tebakml",
-    "count": 340
+    "count": 344
   },
   {
     "name": "tebakbendera",
-    "count": 328
+    "count": 330
   },
   {
     "name": "buyglimit",
@@ -321,7 +321,7 @@
   },
   {
     "name": "ai2",
-    "count": 157
+    "count": 158
   },
   {
     "name": "tourl",
@@ -357,7 +357,7 @@
   },
   {
     "name": "toimg",
-    "count": 140
+    "count": 145
   },
   {
     "name": "nebang",
@@ -1225,11 +1225,11 @@
   },
   {
     "name": "tebakhero2",
-    "count": 18
+    "count": 19
   },
   {
     "name": "tester",
-    "count": 19
+    "count": 20
   },
   {
     "name": "register",
@@ -1493,7 +1493,7 @@
   },
   {
     "name": "gconly",
-    "count": 12
+    "count": 13
   },
   {
     "name": "image",
@@ -1525,7 +1525,7 @@
   },
   {
     "name": "getch",
-    "count": 12
+    "count": 15
   },
   {
     "name": "report",
