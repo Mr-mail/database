@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 22738
+    "count": 22748
   },
   {
     "name": "ai",
-    "count": 20511
+    "count": 20533
   },
   {
     "name": "bratvid",
@@ -13,11 +13,11 @@
   },
   {
     "name": "play",
-    "count": 17657
+    "count": 17669
   },
   {
     "name": "bantuan",
-    "count": 17179
+    "count": 17180
   },
   {
     "name": "ytmp3",
@@ -25,11 +25,11 @@
   },
   {
     "name": "tt",
-    "count": 14006
+    "count": 14018
   },
   {
     "name": "me",
-    "count": 13957
+    "count": 13962
   },
   {
     "name": "susunkata",
@@ -37,11 +37,11 @@
   },
   {
     "name": "hd",
-    "count": 11934
+    "count": 11938
   },
   {
     "name": "afk",
-    "count": 11696
+    "count": 11698
   },
   {
     "name": "menu",
@@ -53,7 +53,7 @@
   },
   {
     "name": "slot",
-    "count": 4330
+    "count": 4331
   },
   {
     "name": "tebakkata",
@@ -69,7 +69,7 @@
   },
   {
     "name": "s",
-    "count": 1599
+    "count": 1607
   },
   {
     "name": "tebakgambar",
@@ -77,7 +77,7 @@
   },
   {
     "name": "pin",
-    "count": 1044
+    "count": 1048
   },
   {
     "name": "qc",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 913
+    "count": 915
   },
   {
     "name": "kick",
@@ -101,7 +101,7 @@
   },
   {
     "name": "tes",
-    "count": 772
+    "count": 774
   },
   {
     "name": "ytmp4",
@@ -117,7 +117,7 @@
   },
   {
     "name": "wink",
-    "count": 613
+    "count": 615
   },
   {
     "name": "ig",
@@ -129,11 +129,11 @@
   },
   {
     "name": "tebakff",
-    "count": 498
+    "count": 499
   },
   {
     "name": "tiktok",
-    "count": 467
+    "count": 470
   },
   {
     "name": "hidetag",
@@ -141,7 +141,7 @@
   },
   {
     "name": "mingguan",
-    "count": 423
+    "count": 425
   },
   {
     "name": "math",
@@ -205,7 +205,7 @@
   },
   {
     "name": "cn",
-    "count": 263
+    "count": 265
   },
   {
     "name": "asahotak",
@@ -229,7 +229,7 @@
   },
   {
     "name": "delete",
-    "count": 241
+    "count": 244
   },
   {
     "name": "gpt",
@@ -281,7 +281,7 @@
   },
   {
     "name": "linkgc",
-    "count": 198
+    "count": 199
   },
   {
     "name": "casino",
@@ -301,7 +301,7 @@
   },
   {
     "name": "jokowi",
-    "count": 189
+    "count": 190
   },
   {
     "name": "yts",
@@ -341,7 +341,7 @@
   },
   {
     "name": "collect",
-    "count": 158
+    "count": 159
   },
   {
     "name": "tf",
@@ -353,7 +353,7 @@
   },
   {
     "name": "buylimit",
-    "count": 153
+    "count": 154
   },
   {
     "name": "toimg",
@@ -669,7 +669,7 @@
   },
   {
     "name": "berdagang",
-    "count": 61
+    "count": 62
   },
   {
     "name": "sc",
@@ -677,7 +677,7 @@
   },
   {
     "name": "stiker",
-    "count": 60
+    "count": 63
   },
   {
     "name": "join",
@@ -813,7 +813,7 @@
   },
   {
     "name": "asu",
-    "count": 44
+    "count": 45
   },
   {
     "name": "ai3",
@@ -1097,7 +1097,7 @@
   },
   {
     "name": "oi",
-    "count": 25
+    "count": 29
   },
   {
     "name": "waktu",
@@ -1253,7 +1253,7 @@
   },
   {
     "name": "tebakjkt48",
-    "count": 19
+    "count": 20
   },
   {
     "name": "delchat",
@@ -1677,7 +1677,7 @@
   },
   {
     "name": "waifu",
-    "count": 10
+    "count": 11
   },
   {
     "name": "getppgc",
@@ -2137,7 +2137,7 @@
   },
   {
     "name": "naruto",
-    "count": 5
+    "count": 7
   },
   {
     "name": "twitter",
@@ -2305,7 +2305,7 @@
   },
   {
     "name": "addb",
-    "count": 4
+    "count": 6
   },
   {
     "name": "storagemenu",
@@ -3273,7 +3273,7 @@
   },
   {
     "name": "kaga",
-    "count": 1
+    "count": 2
   },
   {
     "name": "gcsider",
@@ -3393,7 +3393,7 @@
   },
   {
     "name": "minato",
-    "count": 1
+    "count": 2
   },
   {
     "name": "addvideo",
@@ -3558,5 +3558,13 @@
   {
     "name": "cekbio",
     "count": 16
+  },
+  {
+    "name": "asuna",
+    "count": 1
+  },
+  {
+    "name": "kakasih",
+    "count": 1
   }
 ]
