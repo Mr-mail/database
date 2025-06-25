@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 23308
+    "count": 23310
   },
   {
     "name": "ai",
-    "count": 20684
+    "count": 20685
   },
   {
     "name": "bratvid",
@@ -25,7 +25,7 @@
   },
   {
     "name": "tt",
-    "count": 14442
+    "count": 14443
   },
   {
     "name": "me",
@@ -45,7 +45,7 @@
   },
   {
     "name": "menu",
-    "count": 9838
+    "count": 9839
   },
   {
     "name": "kuis",
@@ -69,7 +69,7 @@
   },
   {
     "name": "s",
-    "count": 1747
+    "count": 1749
   },
   {
     "name": "tebakgambar",
@@ -81,7 +81,7 @@
   },
   {
     "name": "qc",
-    "count": 1060
+    "count": 1061
   },
   {
     "name": "mining",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 944
+    "count": 945
   },
   {
     "name": "kick",
@@ -97,11 +97,11 @@
   },
   {
     "name": "d",
-    "count": 1061
+    "count": 1062
   },
   {
     "name": "tes",
-    "count": 865
+    "count": 873
   },
   {
     "name": "ytmp4",
@@ -201,7 +201,7 @@
   },
   {
     "name": "ping",
-    "count": 273
+    "count": 275
   },
   {
     "name": "cn",
@@ -225,7 +225,7 @@
   },
   {
     "name": "gfl",
-    "count": 268
+    "count": 275
   },
   {
     "name": "delete",
@@ -273,11 +273,11 @@
   },
   {
     "name": "del",
-    "count": 208
+    "count": 210
   },
   {
     "name": "getpp",
-    "count": 204
+    "count": 205
   },
   {
     "name": "linkgc",
@@ -321,7 +321,7 @@
   },
   {
     "name": "tourl",
-    "count": 167
+    "count": 169
   },
   {
     "name": "ulartangga",
@@ -405,7 +405,7 @@
   },
   {
     "name": "simi",
-    "count": 125
+    "count": 126
   },
   {
     "name": "tebakgame",
@@ -553,7 +553,7 @@
   },
   {
     "name": "welcome",
-    "count": 85
+    "count": 89
   },
   {
     "name": "tfglimit",
@@ -629,7 +629,7 @@
   },
   {
     "name": "bot",
-    "count": 67
+    "count": 68
   },
   {
     "name": "delcase",
@@ -645,7 +645,7 @@
   },
   {
     "name": "sewabot",
-    "count": 68
+    "count": 73
   },
   {
     "name": "anjing",
@@ -793,7 +793,7 @@
   },
   {
     "name": "grupmenu",
-    "count": 46
+    "count": 48
   },
   {
     "name": "yatim",
@@ -1029,7 +1029,7 @@
   },
   {
     "name": "aimenu",
-    "count": 28
+    "count": 29
   },
   {
     "name": "mfdl",
@@ -1609,7 +1609,7 @@
   },
   {
     "name": "simplemenu",
-    "count": 11
+    "count": 12
   },
   {
     "name": "bansos",
@@ -1625,7 +1625,7 @@
   },
   {
     "name": "cekasalmember",
-    "count": 12
+    "count": 13
   },
   {
     "name": "bioall",
@@ -1929,7 +1929,7 @@
   },
   {
     "name": "searchmenu",
-    "count": 7
+    "count": 8
   },
   {
     "name": "ahegao",
@@ -2085,7 +2085,7 @@
   },
   {
     "name": "aidrawing",
-    "count": 6
+    "count": 8
   },
   {
     "name": "notnot",
@@ -2293,7 +2293,7 @@
   },
   {
     "name": "img2img",
-    "count": 4
+    "count": 9
   },
   {
     "name": "5gb",
@@ -2321,7 +2321,7 @@
   },
   {
     "name": "text2anime",
-    "count": 4
+    "count": 6
   },
   {
     "name": "katasenja",
@@ -2393,7 +2393,7 @@
   },
   {
     "name": "pastegg",
-    "count": 5
+    "count": 6
   },
   {
     "name": "done",
@@ -2993,7 +2993,7 @@
   },
   {
     "name": "animediffusion",
-    "count": 2
+    "count": 4
   },
   {
     "name": "tomp4",
@@ -3117,7 +3117,7 @@
   },
   {
     "name": "cococlip",
-    "count": 1
+    "count": 3
   },
   {
     "name": "ssweb2",
@@ -3261,7 +3261,7 @@
   },
   {
     "name": "infogempa",
-    "count": 1
+    "count": 2
   },
   {
     "name": "randomquran",
@@ -3589,7 +3589,7 @@
   },
   {
     "name": "diff",
-    "count": 2
+    "count": 3
   },
   {
     "name": "pedagang",
@@ -3598,5 +3598,9 @@
   {
     "name": "ppcp",
     "count": 2
+  },
+  {
+    "name": "dehaze",
+    "count": 1
   }
 ]
