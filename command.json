@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 25128
+    "count": 25155
   },
   {
     "name": "ai",
@@ -9,11 +9,11 @@
   },
   {
     "name": "bratvid",
-    "count": 18223
+    "count": 18228
   },
   {
     "name": "play",
-    "count": 18255
+    "count": 18258
   },
   {
     "name": "bantuan",
@@ -21,11 +21,11 @@
   },
   {
     "name": "ytmp3",
-    "count": 14429
+    "count": 14430
   },
   {
     "name": "tt",
-    "count": 16294
+    "count": 16319
   },
   {
     "name": "me",
@@ -37,7 +37,7 @@
   },
   {
     "name": "hd",
-    "count": 12761
+    "count": 12773
   },
   {
     "name": "afk",
@@ -45,7 +45,7 @@
   },
   {
     "name": "menu",
-    "count": 9926
+    "count": 9930
   },
   {
     "name": "kuis",
@@ -69,7 +69,7 @@
   },
   {
     "name": "s",
-    "count": 2101
+    "count": 2102
   },
   {
     "name": "tebakgambar",
@@ -81,7 +81,7 @@
   },
   {
     "name": "qc",
-    "count": 1253
+    "count": 1255
   },
   {
     "name": "mining",
@@ -89,19 +89,19 @@
   },
   {
     "name": "allmenu",
-    "count": 1054
+    "count": 1056
   },
   {
     "name": "kick",
-    "count": 906
+    "count": 907
   },
   {
     "name": "d",
-    "count": 1669
+    "count": 1676
   },
   {
     "name": "tes",
-    "count": 1012
+    "count": 1016
   },
   {
     "name": "ytmp4",
@@ -121,7 +121,7 @@
   },
   {
     "name": "ig",
-    "count": 868
+    "count": 874
   },
   {
     "name": "h",
@@ -173,7 +173,7 @@
   },
   {
     "name": "audio",
-    "count": 365
+    "count": 366
   },
   {
     "name": "ytdoc",
@@ -189,7 +189,7 @@
   },
   {
     "name": "get",
-    "count": 347
+    "count": 349
   },
   {
     "name": "topglobal",
@@ -221,7 +221,7 @@
   },
   {
     "name": "ssweb",
-    "count": 241
+    "count": 243
   },
   {
     "name": "gfl",
@@ -229,7 +229,7 @@
   },
   {
     "name": "delete",
-    "count": 360
+    "count": 363
   },
   {
     "name": "gpt",
@@ -473,7 +473,7 @@
   },
   {
     "name": "ttstalk",
-    "count": 112
+    "count": 116
   },
   {
     "name": "tiktoks",
@@ -613,7 +613,7 @@
   },
   {
     "name": "script",
-    "count": 73
+    "count": 74
   },
   {
     "name": "tebaklirik",
@@ -677,11 +677,11 @@
   },
   {
     "name": "stiker",
-    "count": 72
+    "count": 74
   },
   {
     "name": "join",
-    "count": 68
+    "count": 71
   },
   {
     "name": "prabayar",
@@ -781,7 +781,7 @@
   },
   {
     "name": "bokep",
-    "count": 51
+    "count": 52
   },
   {
     "name": "setwelcome",
@@ -961,7 +961,7 @@
   },
   {
     "name": "addowner",
-    "count": 32
+    "count": 33
   },
   {
     "name": "bank",
@@ -1065,7 +1065,7 @@
   },
   {
     "name": "getgc",
-    "count": 37
+    "count": 47
   },
   {
     "name": "rate",
@@ -1409,7 +1409,7 @@
   },
   {
     "name": "listsewa",
-    "count": 19
+    "count": 20
   },
   {
     "name": "faktaunik",
@@ -1997,7 +1997,7 @@
   },
   {
     "name": "aturan",
-    "count": 7
+    "count": 8
   },
   {
     "name": "kayu",
@@ -2233,7 +2233,7 @@
   },
   {
     "name": "addsewa",
-    "count": 5
+    "count": 7
   },
   {
     "name": "qccode",
@@ -3698,5 +3698,13 @@
   {
     "name": "photoshop",
     "count": 8
+  },
+  {
+    "name": "pornbox",
+    "count": 1
+  },
+  {
+    "name": "sakura",
+    "count": 1
   }
 ]
