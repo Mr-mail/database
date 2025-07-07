@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 25680
+    "count": 25710
   },
   {
     "name": "ai",
-    "count": 21621
+    "count": 21638
   },
   {
     "name": "bratvid",
@@ -13,11 +13,11 @@
   },
   {
     "name": "play",
-    "count": 18372
+    "count": 18375
   },
   {
     "name": "bantuan",
-    "count": 17878
+    "count": 17881
   },
   {
     "name": "ytmp3",
@@ -25,11 +25,11 @@
   },
   {
     "name": "tt",
-    "count": 16834
+    "count": 16855
   },
   {
     "name": "me",
-    "count": 14466
+    "count": 14471
   },
   {
     "name": "susunkata",
@@ -37,7 +37,7 @@
   },
   {
     "name": "hd",
-    "count": 13009
+    "count": 13020
   },
   {
     "name": "afk",
@@ -45,7 +45,7 @@
   },
   {
     "name": "menu",
-    "count": 9955
+    "count": 9960
   },
   {
     "name": "kuis",
@@ -53,11 +53,11 @@
   },
   {
     "name": "slot",
-    "count": 4379
+    "count": 4383
   },
   {
     "name": "tebakkata",
-    "count": 4774
+    "count": 4777
   },
   {
     "name": "tebakjenaka",
@@ -65,11 +65,11 @@
   },
   {
     "name": "tebakhero",
-    "count": 1991
+    "count": 1992
   },
   {
     "name": "s",
-    "count": 2182
+    "count": 2187
   },
   {
     "name": "tebakgambar",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1088
+    "count": 1090
   },
   {
     "name": "kick",
@@ -101,7 +101,7 @@
   },
   {
     "name": "tes",
-    "count": 1073
+    "count": 1074
   },
   {
     "name": "ytmp4",
@@ -113,15 +113,15 @@
   },
   {
     "name": "nyerah",
-    "count": 810
+    "count": 811
   },
   {
     "name": "wink",
-    "count": 836
+    "count": 837
   },
   {
     "name": "ig",
-    "count": 957
+    "count": 966
   },
   {
     "name": "h",
@@ -149,7 +149,7 @@
   },
   {
     "name": "tebakbendera",
-    "count": 490
+    "count": 492
   },
   {
     "name": "kuisioner",
@@ -173,11 +173,11 @@
   },
   {
     "name": "audio",
-    "count": 389
+    "count": 391
   },
   {
     "name": "ytdoc",
-    "count": 380
+    "count": 381
   },
   {
     "name": "tebakhewan",
@@ -185,11 +185,11 @@
   },
   {
     "name": "getcase",
-    "count": 352
+    "count": 353
   },
   {
     "name": "get",
-    "count": 354
+    "count": 363
   },
   {
     "name": "topglobal",
@@ -221,7 +221,7 @@
   },
   {
     "name": "ssweb",
-    "count": 244
+    "count": 246
   },
   {
     "name": "gfl",
@@ -241,7 +241,7 @@
   },
   {
     "name": "family100",
-    "count": 2585
+    "count": 2590
   },
   {
     "name": "ttsearch",
@@ -253,7 +253,7 @@
   },
   {
     "name": "tr",
-    "count": 245
+    "count": 246
   },
   {
     "name": "tagall",
@@ -301,7 +301,7 @@
   },
   {
     "name": "jokowi",
-    "count": 341
+    "count": 344
   },
   {
     "name": "yts",
@@ -321,7 +321,7 @@
   },
   {
     "name": "tourl",
-    "count": 190
+    "count": 193
   },
   {
     "name": "ulartangga",
@@ -393,7 +393,7 @@
   },
   {
     "name": "set",
-    "count": 145
+    "count": 147
   },
   {
     "name": "tebaksiapa",
@@ -437,7 +437,7 @@
   },
   {
     "name": "prabowo",
-    "count": 149
+    "count": 152
   },
   {
     "name": "nokos",
@@ -645,7 +645,7 @@
   },
   {
     "name": "sewabot",
-    "count": 111
+    "count": 112
   },
   {
     "name": "anjing",
@@ -693,7 +693,7 @@
   },
   {
     "name": "ri",
-    "count": 74
+    "count": 75
   },
   {
     "name": "kali",
@@ -869,7 +869,7 @@
   },
   {
     "name": "spotify",
-    "count": 59
+    "count": 62
   },
   {
     "name": "tebakanime",
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "mfdl",
-    "count": 29
+    "count": 30
   },
   {
     "name": "antidelete",
@@ -2217,7 +2217,7 @@
   },
   {
     "name": "10gb",
-    "count": 6
+    "count": 7
   },
   {
     "name": "autosholat",
@@ -3730,5 +3730,9 @@
   {
     "name": "kaneki",
     "count": 1
+  },
+  {
+    "name": "minecraft-stalk",
+    "count": 3
   }
 ]
