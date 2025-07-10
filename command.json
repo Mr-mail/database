@@ -1,31 +1,31 @@
 [
   {
     "name": "brat",
-    "count": 26241
+    "count": 26275
   },
   {
     "name": "ai",
-    "count": 21812
+    "count": 21819
   },
   {
     "name": "play",
-    "count": 18570
+    "count": 18573
   },
   {
     "name": "bratvid",
-    "count": 18291
+    "count": 18303
   },
   {
     "name": "bantuan",
-    "count": 18302
+    "count": 18336
   },
   {
     "name": "tt",
-    "count": 17320
+    "count": 17330
   },
   {
     "name": "me",
-    "count": 14695
+    "count": 14709
   },
   {
     "name": "ytmp3",
@@ -33,7 +33,7 @@
   },
   {
     "name": "hd",
-    "count": 13274
+    "count": 13275
   },
   {
     "name": "susunkata",
@@ -45,7 +45,7 @@
   },
   {
     "name": "menu",
-    "count": 9998
+    "count": 10000
   },
   {
     "name": "kuis",
@@ -53,7 +53,7 @@
   },
   {
     "name": "tebakkata",
-    "count": 4963
+    "count": 5000
   },
   {
     "name": "slot",
@@ -61,11 +61,11 @@
   },
   {
     "name": "tebakjenaka",
-    "count": 3100
+    "count": 3104
   },
   {
     "name": "family100",
-    "count": 2803
+    "count": 2811
   },
   {
     "name": "s",
@@ -77,15 +77,15 @@
   },
   {
     "name": "d",
-    "count": 2045
+    "count": 2055
   },
   {
     "name": "tebakgambar",
-    "count": 1581
+    "count": 1584
   },
   {
     "name": "qc",
-    "count": 1358
+    "count": 1360
   },
   {
     "name": "pin",
@@ -93,7 +93,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1169
+    "count": 1174
   },
   {
     "name": "tes",
@@ -117,7 +117,7 @@
   },
   {
     "name": "nyerah",
-    "count": 967
+    "count": 973
   },
   {
     "name": "ytmp4",
@@ -129,7 +129,7 @@
   },
   {
     "name": "tiktok",
-    "count": 664
+    "count": 666
   },
   {
     "name": "tebakbendera",
@@ -141,7 +141,7 @@
   },
   {
     "name": "wm",
-    "count": 539
+    "count": 540
   },
   {
     "name": "tebakff",
@@ -161,7 +161,7 @@
   },
   {
     "name": "bulanan",
-    "count": 420
+    "count": 421
   },
   {
     "name": "math",
@@ -177,7 +177,7 @@
   },
   {
     "name": "delete",
-    "count": 415
+    "count": 430
   },
   {
     "name": "tebakml",
@@ -217,7 +217,7 @@
   },
   {
     "name": "cn",
-    "count": 322
+    "count": 325
   },
   {
     "name": "ping",
@@ -225,7 +225,7 @@
   },
   {
     "name": "asahotak",
-    "count": 296
+    "count": 319
   },
   {
     "name": "getpp",
@@ -273,7 +273,7 @@
   },
   {
     "name": "collect",
-    "count": 257
+    "count": 259
   },
   {
     "name": "metaai",
@@ -337,7 +337,7 @@
   },
   {
     "name": "tebakgame",
-    "count": 193
+    "count": 194
   },
   {
     "name": "tebakkimia",
@@ -345,7 +345,7 @@
   },
   {
     "name": "tebakaplikasi",
-    "count": 205
+    "count": 232
   },
   {
     "name": "ulartangga",
@@ -389,7 +389,7 @@
   },
   {
     "name": "tiktoksearch",
-    "count": 168
+    "count": 169
   },
   {
     "name": "set",
@@ -441,7 +441,7 @@
   },
   {
     "name": "rampok",
-    "count": 126
+    "count": 139
   },
   {
     "name": "ttstalk",
@@ -529,7 +529,7 @@
   },
   {
     "name": "mediafire",
-    "count": 98
+    "count": 100
   },
   {
     "name": "limit",
@@ -649,7 +649,7 @@
   },
   {
     "name": "ri",
-    "count": 78
+    "count": 79
   },
   {
     "name": "caklontong",
@@ -773,7 +773,7 @@
   },
   {
     "name": "downloadmenu",
-    "count": 60
+    "count": 61
   },
   {
     "name": "pralayanan",
@@ -905,7 +905,7 @@
   },
   {
     "name": "tebakchara",
-    "count": 48
+    "count": 50
   },
   {
     "name": "sendngl",
@@ -981,7 +981,7 @@
   },
   {
     "name": "animestyle",
-    "count": 37
+    "count": 38
   },
   {
     "name": "ocr",
@@ -1069,7 +1069,7 @@
   },
   {
     "name": "bukajam",
-    "count": 29
+    "count": 30
   },
   {
     "name": "attack",
@@ -1389,7 +1389,7 @@
   },
   {
     "name": "profile",
-    "count": 18
+    "count": 19
   },
   {
     "name": "textmenu",
@@ -1653,7 +1653,7 @@
   },
   {
     "name": "premium",
-    "count": 18
+    "count": 19
   },
   {
     "name": "bstationdl",
@@ -2049,7 +2049,7 @@
   },
   {
     "name": "upscale",
-    "count": 10
+    "count": 11
   },
   {
     "name": "order",
