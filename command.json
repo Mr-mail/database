@@ -1,19 +1,19 @@
 [
   {
     "name": "brat",
-    "count": 27349
+    "count": 27351
   },
   {
     "name": "ai",
-    "count": 22026
+    "count": 22028
   },
   {
     "name": "bantuan",
-    "count": 19162
+    "count": 19165
   },
   {
     "name": "play",
-    "count": 18887
+    "count": 18897
   },
   {
     "name": "bratvid",
@@ -25,7 +25,7 @@
   },
   {
     "name": "me",
-    "count": 15182
+    "count": 15183
   },
   {
     "name": "ytmp3",
@@ -37,11 +37,11 @@
   },
   {
     "name": "susunkata",
-    "count": 13801
+    "count": 13803
   },
   {
     "name": "afk",
-    "count": 11931
+    "count": 11932
   },
   {
     "name": "menu",
@@ -53,7 +53,7 @@
   },
   {
     "name": "tebakkata",
-    "count": 5999
+    "count": 6002
   },
   {
     "name": "slot",
@@ -97,7 +97,7 @@
   },
   {
     "name": "tes",
-    "count": 1165
+    "count": 1168
   },
   {
     "name": "nyerah",
@@ -157,7 +157,7 @@
   },
   {
     "name": "delete",
-    "count": 553
+    "count": 555
   },
   {
     "name": "hidetag",
@@ -205,7 +205,7 @@
   },
   {
     "name": "cn",
-    "count": 377
+    "count": 378
   },
   {
     "name": "jual",
@@ -241,7 +241,7 @@
   },
   {
     "name": "tebakbom",
-    "count": 357
+    "count": 366
   },
   {
     "name": "topglobal",
@@ -797,7 +797,7 @@
   },
   {
     "name": "listprem",
-    "count": 57
+    "count": 58
   },
   {
     "name": "galau",
@@ -869,7 +869,7 @@
   },
   {
     "name": "weekly",
-    "count": 50
+    "count": 53
   },
   {
     "name": "setwelcome",
@@ -1009,7 +1009,7 @@
   },
   {
     "name": "moonthly",
-    "count": 39
+    "count": 40
   },
   {
     "name": "jpm",
@@ -1257,7 +1257,7 @@
   },
   {
     "name": "listsewa",
-    "count": 24
+    "count": 25
   },
   {
     "name": "topsaldo",
@@ -3841,6 +3841,10 @@
   },
   {
     "name": "getbio",
+    "count": 1
+  },
+  {
+    "name": "aplod",
     "count": 1
   }
 ]
