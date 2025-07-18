@@ -1,247 +1,195 @@
 [
   {
     "name": "brat",
-    "count": 27527
+    "count": 24114
   },
   {
     "name": "ai",
-    "count": 22057
-  },
-  {
-    "name": "bantuan",
-    "count": 19181
-  },
-  {
-    "name": "play",
-    "count": 18931
+    "count": 21079
   },
   {
     "name": "bratvid",
-    "count": 18356
+    "count": 18191
   },
   {
-    "name": "tt",
-    "count": 18682
+    "name": "play",
+    "count": 18024
   },
   {
-    "name": "me",
-    "count": 15211
+    "name": "bantuan",
+    "count": 17317
   },
   {
     "name": "ytmp3",
-    "count": 14535
+    "count": 14391
   },
   {
-    "name": "hd",
-    "count": 13766
+    "name": "tt",
+    "count": 15093
+  },
+  {
+    "name": "me",
+    "count": 14151
   },
   {
     "name": "susunkata",
-    "count": 13808
+    "count": 12544
+  },
+  {
+    "name": "hd",
+    "count": 12363
   },
   {
     "name": "afk",
-    "count": 11941
+    "count": 11766
   },
   {
     "name": "menu",
-    "count": 10069
+    "count": 9870
   },
   {
     "name": "kuis",
-    "count": 6586
-  },
-  {
-    "name": "tebakkata",
-    "count": 6013
+    "count": 5917
   },
   {
     "name": "slot",
-    "count": 4702
+    "count": 4341
   },
   {
-    "name": "family100",
-    "count": 3395
+    "name": "tebakkata",
+    "count": 3970
   },
   {
     "name": "tebakjenaka",
-    "count": 3647
-  },
-  {
-    "name": "s",
-    "count": 2553
-  },
-  {
-    "name": "d",
-    "count": 2477
+    "count": 2600
   },
   {
     "name": "tebakhero",
-    "count": 2311
+    "count": 1982
+  },
+  {
+    "name": "s",
+    "count": 1881
   },
   {
     "name": "tebakgambar",
-    "count": 1732
-  },
-  {
-    "name": "qc",
-    "count": 1424
+    "count": 1516
   },
   {
     "name": "pin",
-    "count": 1264
+    "count": 1130
   },
   {
-    "name": "allmenu",
-    "count": 1285
-  },
-  {
-    "name": "tes",
+    "name": "qc",
     "count": 1177
-  },
-  {
-    "name": "nyerah",
-    "count": 1184
-  },
-  {
-    "name": "ig",
-    "count": 1230
   },
   {
     "name": "mining",
     "count": 975
   },
   {
-    "name": "wink",
-    "count": 1058
+    "name": "allmenu",
+    "count": 985
   },
   {
     "name": "kick",
-    "count": 967
+    "count": 887
   },
   {
-    "name": "tebakbendera",
-    "count": 818
+    "name": "d",
+    "count": 1271
+  },
+  {
+    "name": "tes",
+    "count": 934
   },
   {
     "name": "ytmp4",
-    "count": 751
-  },
-  {
-    "name": "tiktok",
-    "count": 795
-  },
-  {
-    "name": "h",
-    "count": 832
+    "count": 684
   },
   {
     "name": "buyglimit",
-    "count": 646
+    "count": 641
+  },
+  {
+    "name": "nyerah",
+    "count": 683
+  },
+  {
+    "name": "wink",
+    "count": 706
+  },
+  {
+    "name": "ig",
+    "count": 702
+  },
+  {
+    "name": "h",
+    "count": 530
   },
   {
     "name": "tebakff",
-    "count": 681
+    "count": 504
   },
   {
-    "name": "wm",
-    "count": 577
-  },
-  {
-    "name": "mingguan",
-    "count": 590
-  },
-  {
-    "name": "ttsearch",
-    "count": 828
-  },
-  {
-    "name": "delete",
-    "count": 573
+    "name": "tiktok",
+    "count": 510
   },
   {
     "name": "hidetag",
-    "count": 459
+    "count": 442
   },
   {
-    "name": "bulanan",
-    "count": 474
-  },
-  {
-    "name": "audio",
-    "count": 435
-  },
-  {
-    "name": "ytdoc",
-    "count": 444
+    "name": "mingguan",
+    "count": 447
   },
   {
     "name": "math",
     "count": 403
   },
   {
-    "name": "tebakml",
-    "count": 406
-  },
-  {
-    "name": "get",
-    "count": 392
-  },
-  {
-    "name": "getcase",
-    "count": 378
+    "name": "tebakbendera",
+    "count": 436
   },
   {
     "name": "kuisioner",
     "count": 366
   },
   {
-    "name": "gfl",
-    "count": 361
+    "name": "tebakml",
+    "count": 356
   },
   {
-    "name": "jokowi",
-    "count": 353
-  },
-  {
-    "name": "cn",
-    "count": 381
+    "name": "bulanan",
+    "count": 360
   },
   {
     "name": "jual",
     "count": 339
   },
   {
-    "name": "meme",
-    "count": 328
+    "name": "wm",
+    "count": 471
   },
   {
-    "name": "asahotak",
-    "count": 325
+    "name": "audio",
+    "count": 360
+  },
+  {
+    "name": "ytdoc",
+    "count": 351
   },
   {
     "name": "tebakhewan",
-    "count": 323
+    "count": 302
   },
   {
-    "name": "ping",
-    "count": 304
+    "name": "getcase",
+    "count": 340
   },
   {
-    "name": "getpp",
-    "count": 303
-  },
-  {
-    "name": "tebakaplikasi",
+    "name": "get",
     "count": 325
-  },
-  {
-    "name": "casino",
-    "count": 286
-  },
-  {
-    "name": "tebakbom",
-    "count": 378
   },
   {
     "name": "topglobal",
@@ -249,483 +197,475 @@
   },
   {
     "name": "inv",
+    "count": 274
+  },
+  {
+    "name": "ping",
+    "count": 282
+  },
+  {
+    "name": "cn",
     "count": 275
   },
   {
-    "name": "linkgc",
-    "count": 285
-  },
-  {
-    "name": "collect",
-    "count": 266
-  },
-  {
-    "name": "tr",
-    "count": 273
+    "name": "asahotak",
+    "count": 280
   },
   {
     "name": "ttt",
-    "count": 259
+    "count": 258
   },
   {
     "name": "chatgpt",
-    "count": 248
+    "count": 247
   },
   {
     "name": "ssweb",
-    "count": 250
+    "count": 239
   },
   {
-    "name": "emojimix",
-    "count": 246
+    "name": "gfl",
+    "count": 316
+  },
+  {
+    "name": "delete",
+    "count": 285
   },
   {
     "name": "gpt",
-    "count": 245
-  },
-  {
-    "name": "del",
-    "count": 259
-  },
-  {
-    "name": "metaai",
-    "count": 244
-  },
-  {
-    "name": "tagall",
-    "count": 233
+    "count": 242
   },
   {
     "name": ">",
     "count": 224
   },
   {
-    "name": "tekateki",
-    "count": 244
+    "name": "family100",
+    "count": 781
   },
   {
-    "name": "mute",
-    "count": 213
+    "name": "ttsearch",
+    "count": 371
   },
   {
-    "name": "toimg",
-    "count": 222
+    "name": "metaai",
+    "count": 219
+  },
+  {
+    "name": "tr",
+    "count": 236
+  },
+  {
+    "name": "tagall",
+    "count": 207
+  },
+  {
+    "name": "emojimix",
+    "count": 242
   },
   {
     "name": "rawat",
     "count": 202
   },
   {
-    "name": "tebakgame",
+    "name": "tekateki",
     "count": 204
   },
   {
-    "name": "tourl",
-    "count": 201
+    "name": "del",
+    "count": 216
   },
   {
-    "name": "tiktoksearch",
-    "count": 224
+    "name": "getpp",
+    "count": 218
   },
   {
-    "name": "suit",
-    "count": 199
+    "name": "linkgc",
+    "count": 215
   },
   {
-    "name": "yts",
-    "count": 194
+    "name": "casino",
+    "count": 195
   },
   {
-    "name": "cekganteng",
-    "count": 197
+    "name": "meme",
+    "count": 226
   },
   {
     "name": "craft",
     "count": 192
   },
   {
-    "name": "ai2",
-    "count": 186
+    "name": "mute",
+    "count": 189
   },
   {
-    "name": "buylimit",
-    "count": 180
+    "name": "jokowi",
+    "count": 211
   },
   {
-    "name": "rvo",
-    "count": 177
+    "name": "yts",
+    "count": 187
+  },
+  {
+    "name": "cekganteng",
+    "count": 182
   },
   {
     "name": "restart",
     "count": 174
   },
   {
-    "name": "tebakkimia",
-    "count": 174
-  },
-  {
-    "name": "tf",
-    "count": 207
-  },
-  {
-    "name": "ulartangga",
-    "count": 179
-  },
-  {
-    "name": "fb",
-    "count": 179
-  },
-  {
     "name": "adventure",
     "count": 167
   },
   {
-    "name": "q",
-    "count": 168
+    "name": "tourl",
+    "count": 176
   },
   {
-    "name": "cekcantik",
-    "count": 164
+    "name": "ulartangga",
+    "count": 162
   },
   {
-    "name": "sticker",
-    "count": 170
+    "name": "rvo",
+    "count": 166
   },
   {
-    "name": "rampok",
-    "count": 262
+    "name": "suit",
+    "count": 160
   },
   {
-    "name": "war",
-    "count": 168
+    "name": "ai2",
+    "count": 162
   },
   {
-    "name": "hdr",
-    "count": 175
+    "name": "collect",
+    "count": 194
   },
   {
-    "name": "berburu",
-    "count": 152
-  },
-  {
-    "name": "prabowo",
-    "count": 153
-  },
-  {
-    "name": "set",
-    "count": 157
-  },
-  {
-    "name": "remini",
+    "name": "tf",
     "count": 156
   },
   {
-    "name": "tebaksiapa",
+    "name": "cekcantik",
     "count": 153
+  },
+  {
+    "name": "buylimit",
+    "count": 158
+  },
+  {
+    "name": "toimg",
+    "count": 179
+  },
+  {
+    "name": "berburu",
+    "count": 149
   },
   {
     "name": "memancing",
     "count": 144
   },
   {
-    "name": "tomp3",
-    "count": 157
-  },
-  {
-    "name": "limit",
-    "count": 169
-  },
-  {
-    "name": "ghiblistyle",
-    "count": 192
-  },
-  {
     "name": "buka",
-    "count": 141
+    "count": 140
   },
   {
     "name": "smeme",
     "count": 138
   },
   {
-    "name": "open",
-    "count": 164
-  },
-  {
     "name": "produk",
     "count": 137
   },
   {
-    "name": "sewabot",
-    "count": 145
+    "name": "hdr",
+    "count": 139
   },
   {
-    "name": "nebang",
-    "count": 137
-  },
-  {
-    "name": "ttp",
-    "count": 136
-  },
-  {
-    "name": "tebaktebakan",
+    "name": "q",
     "count": 152
   },
   {
-    "name": "close",
-    "count": 156
+    "name": "nebang",
+    "count": 131
+  },
+  {
+    "name": "set",
+    "count": 143
+  },
+  {
+    "name": "tebaksiapa",
+    "count": 137
+  },
+  {
+    "name": "sticker",
+    "count": 144
   },
   {
     "name": "simi",
-    "count": 129
+    "count": 126
   },
   {
-    "name": "cekkodam",
-    "count": 135
-  },
-  {
-    "name": "saldo",
-    "count": 127
-  },
-  {
-    "name": "ttstalk",
-    "count": 127
+    "name": "tebakgame",
+    "count": 121
   },
   {
     "name": "otp",
-    "count": 120
+    "count": 119
   },
   {
     "name": "mancing",
-    "count": 120
-  },
-  {
-    "name": "ww",
-    "count": 120
+    "count": 119
   },
   {
     "name": "say",
     "count": 115
   },
   {
+    "name": "tebakkimia",
+    "count": 120
+  },
+  {
     "name": "bekerja",
     "count": 113
   },
   {
+    "name": "rampok",
+    "count": 113
+  },
+  {
+    "name": "prabowo",
+    "count": 110
+  },
+  {
     "name": "nokos",
-    "count": 112
+    "count": 110
+  },
+  {
+    "name": "remini",
+    "count": 119
   },
   {
     "name": "ceksifat",
-    "count": 111
-  },
-  {
-    "name": "ytsearch",
-    "count": 144
-  },
-  {
-    "name": "tiktoks",
-    "count": 109
+    "count": 106
   },
   {
     "name": "heal",
     "count": 104
   },
   {
-    "name": "nailongc",
-    "count": 112
+    "name": "cekkodam",
+    "count": 106
   },
   {
-    "name": "mediafire",
-    "count": 118
+    "name": "fb",
+    "count": 126
+  },
+  {
+    "name": "saldo",
+    "count": 107
+  },
+  {
+    "name": "tebakbom",
+    "count": 103
+  },
+  {
+    "name": "ttstalk",
+    "count": 108
+  },
+  {
+    "name": "tiktoks",
+    "count": 99
   },
   {
     "name": "jadian",
-    "count": 99
-  },
-  {
-    "name": "sponsbob",
-    "count": 99
-  },
-  {
-    "name": "acc",
-    "count": 102
-  },
-  {
-    "name": "welcome",
     "count": 98
   },
   {
-    "name": "daftar",
-    "count": 94
+    "name": "sponsbob",
+    "count": 97
   },
   {
-    "name": "tictactoe",
+    "name": "tomp3",
+    "count": 107
+  },
+  {
+    "name": "open",
     "count": 95
   },
   {
-    "name": "keamanan",
-    "count": 93
+    "name": "mediafire",
+    "count": 95
+  },
+  {
+    "name": "war",
+    "count": 91
+  },
+  {
+    "name": "ttp",
+    "count": 116
   },
   {
     "name": "cekpacar",
-    "count": 93
-  },
-  {
-    "name": "gamemenu",
-    "count": 92
-  },
-  {
-    "name": "antilink2",
     "count": 89
   },
   {
-    "name": "dino-kuning",
+    "name": "tebaktebakan",
     "count": 93
   },
   {
     "name": "tutup",
-    "count": 88
-  },
-  {
-    "name": "nsfwmenu",
-    "count": 89
-  },
-  {
-    "name": "owner",
-    "count": 88
-  },
-  {
-    "name": "infogc",
-    "count": 86
-  },
-  {
-    "name": "join",
-    "count": 86
-  },
-  {
-    "name": "antilink",
-    "count": 85
-  },
-  {
-    "name": "tebaklirik",
-    "count": 98
-  },
-  {
-    "name": "masadepan",
-    "count": 92
-  },
-  {
-    "name": "pinterest",
-    "count": 88
-  },
-  {
-    "name": "ri",
     "count": 87
   },
   {
-    "name": "intro",
-    "count": 91
+    "name": "keamanan",
+    "count": 84
+  },
+  {
+    "name": "daftar",
+    "count": 85
+  },
+  {
+    "name": "antilink2",
+    "count": 86
+  },
+  {
+    "name": "close",
+    "count": 83
+  },
+  {
+    "name": "ytsearch",
+    "count": 85
+  },
+  {
+    "name": "nsfwmenu",
+    "count": 85
+  },
+  {
+    "name": "owner",
+    "count": 84
+  },
+  {
+    "name": "masadepan",
+    "count": 83
+  },
+  {
+    "name": "welcome",
+    "count": 90
   },
   {
     "name": "tfglimit",
     "count": 81
   },
   {
-    "name": "gameplay",
-    "count": 81
-  },
-  {
-    "name": "script",
-    "count": 81
-  },
-  {
-    "name": "nowa",
-    "count": 85
-  },
-  {
-    "name": "fight",
+    "name": "dino-kuning",
     "count": 79
   },
   {
-    "name": "stiker",
-    "count": 90
+    "name": "tebakaplikasi",
+    "count": 112
   },
   {
-    "name": "apakah",
-    "count": 77
+    "name": "antilink",
+    "count": 85
+  },
+  {
+    "name": "infogc",
+    "count": 80
+  },
+  {
+    "name": "gamemenu",
+    "count": 83
+  },
+  {
+    "name": "caklontong",
+    "count": 75
+  },
+  {
+    "name": "pinterest",
+    "count": 74
   },
   {
     "name": "antilinkall",
     "count": 76
   },
   {
-    "name": "caklontong",
-    "count": 77
+    "name": "apakah",
+    "count": 73
   },
   {
-    "name": "cuaca",
-    "count": 78
-  },
-  {
-    "name": "tebakjkt48",
-    "count": 80
-  },
-  {
-    "name": "bot",
-    "count": 76
-  },
-  {
-    "name": "instagram",
-    "count": 79
-  },
-  {
-    "name": "ttaudio",
-    "count": 85
-  },
-  {
-    "name": "delcase",
-    "count": 74
-  },
-  {
-    "name": "removebg",
-    "count": 75
+    "name": "limit",
+    "count": 89
   },
   {
     "name": "cekhost",
     "count": 71
   },
   {
+    "name": "acc",
+    "count": 89
+  },
+  {
     "name": "tebakkalimat",
-    "count": 72
-  },
-  {
-    "name": "antivirtex",
-    "count": 71
-  },
-  {
-    "name": "fitnah",
     "count": 70
   },
   {
-    "name": "sewa",
-    "count": 70
-  },
-  {
-    "name": "yt",
+    "name": "script",
     "count": 73
   },
   {
-    "name": "db",
+    "name": "tebaklirik",
+    "count": 71
+  },
+  {
+    "name": "fight",
+    "count": 69
+  },
+  {
+    "name": "antivirtex",
+    "count": 67
+  },
+  {
+    "name": "bot",
     "count": 68
   },
   {
-    "name": "anjing",
+    "name": "delcase",
     "count": 67
   },
   {
-    "name": "kali",
+    "name": "sewa",
+    "count": 65
+  },
+  {
+    "name": "tictactoe",
+    "count": 74
+  },
+  {
+    "name": "sewabot",
+    "count": 78
+  },
+  {
+    "name": "anjing",
+    "count": 64
+  },
+  {
+    "name": "fitnah",
     "count": 67
+  },
+  {
+    "name": "gameplay",
+    "count": 75
+  },
+  {
+    "name": "instagram",
+    "count": 61
+  },
+  {
+    "name": "self",
+    "count": 63
   },
   {
     "name": "berdagang",
@@ -733,86 +673,54 @@
   },
   {
     "name": "sc",
-    "count": 66
+    "count": 62
   },
   {
-    "name": "megawati",
-    "count": 65
-  },
-  {
-    "name": "self",
-    "count": 64
-  },
-  {
-    "name": "getgc",
-    "count": 65
-  },
-  {
-    "name": "igstalk",
-    "count": 64
-  },
-  {
-    "name": "hd2",
-    "count": 69
-  },
-  {
-    "name": "spotify",
+    "name": "stiker",
     "count": 68
   },
   {
-    "name": "downloadmenu",
-    "count": 66
-  },
-  {
-    "name": "tm",
-    "count": 61
-  },
-  {
-    "name": "mangastyle",
-    "count": 65
+    "name": "join",
+    "count": 67
   },
   {
     "name": "prabayar",
     "count": 59
   },
   {
+    "name": "ww",
+    "count": 76
+  },
+  {
+    "name": "ri",
+    "count": 67
+  },
+  {
+    "name": "kali",
+    "count": 65
+  },
+  {
     "name": "tflimit",
-    "count": 59
+    "count": 58
   },
   {
-    "name": "jarak",
-    "count": 61
+    "name": "nailongc",
+    "count": 68
   },
   {
-    "name": "tebakchara",
-    "count": 59
-  },
-  {
-    "name": "tebaklogo",
-    "count": 64
+    "name": "igstalk",
+    "count": 58
   },
   {
     "name": "pralayanan",
     "count": 56
   },
   {
-    "name": "listprem",
-    "count": 60
+    "name": "jarak",
+    "count": 58
   },
   {
     "name": "galau",
-    "count": 62
-  },
-  {
-    "name": "antibot",
-    "count": 55
-  },
-  {
-    "name": "ffstalk",
-    "count": 55
-  },
-  {
-    "name": "cekkhodam",
     "count": 55
   },
   {
@@ -820,76 +728,88 @@
     "count": 54
   },
   {
+    "name": "tebaklogo",
+    "count": 53
+  },
+  {
+    "name": "tm",
+    "count": 53
+  },
+  {
+    "name": "yt",
+    "count": 58
+  },
+  {
     "name": "joinrpg",
-    "count": 53
-  },
-  {
-    "name": "bokep",
-    "count": 53
-  },
-  {
-    "name": "setppbot",
-    "count": 53
-  },
-  {
-    "name": "addprem",
-    "count": 53
+    "count": 52
   },
   {
     "name": "autoai",
     "count": 51
   },
   {
+    "name": "addprem",
+    "count": 51
+  },
+  {
     "name": "merampok",
+    "count": 50
+  },
+  {
+    "name": "cekkhodam",
+    "count": 50
+  },
+  {
+    "name": "removebg",
+    "count": 51
+  },
+  {
+    "name": "downloadmenu",
+    "count": 51
+  },
+  {
+    "name": "antibot",
     "count": 51
   },
   {
     "name": "getname",
-    "count": 52
+    "count": 48
   },
   {
-    "name": "grupmenu",
-    "count": 50
+    "name": "megawati",
+    "count": 48
   },
   {
-    "name": "addcase",
-    "count": 53
-  },
-  {
-    "name": "spy",
-    "count": 59
-  },
-  {
-    "name": "pm",
-    "count": 49
-  },
-  {
-    "name": "lirik",
-    "count": 54
-  },
-  {
-    "name": "weekly",
-    "count": 53
+    "name": "bokep",
+    "count": 48
   },
   {
     "name": "setwelcome",
-    "count": 48
-  },
-  {
-    "name": "bioall",
-    "count": 48
-  },
-  {
-    "name": "tolol",
     "count": 46
+  },
+  {
+    "name": "addcase",
+    "count": 48
+  },
+  {
+    "name": "grupmenu",
+    "count": 49
   },
   {
     "name": "yatim",
     "count": 45
   },
   {
+    "name": "lirik",
+    "count": 46
+  },
+  {
     "name": "buygamelimit",
     "count": 45
+  },
+  {
+    "name": "intro",
+    "count": 55
   },
   {
     "name": "asu",
@@ -897,94 +817,74 @@
   },
   {
     "name": "ai3",
-    "count": 45
-  },
-  {
-    "name": "google",
-    "count": 48
-  },
-  {
-    "name": "rpgmenu",
-    "count": 45
-  },
-  {
-    "name": "stickermenu",
-    "count": 47
-  },
-  {
-    "name": "bingimg",
-    "count": 43
-  },
-  {
-    "name": "facebook",
-    "count": 47
-  },
-  {
-    "name": "attack",
     "count": 44
   },
   {
-    "name": "faktaunik",
-    "count": 45
+    "name": "listprem",
+    "count": 47
   },
   {
-    "name": "antisticker",
-    "count": 41
+    "name": "setppbot",
+    "count": 48
   },
   {
-    "name": "tebakanime",
+    "name": "pm",
+    "count": 47
+  },
+  {
+    "name": "tebakchara",
     "count": 42
   },
   {
-    "name": "tiktokaudio",
-    "count": 60
+    "name": "ffstalk",
+    "count": 53
+  },
+  {
+    "name": "weekly",
+    "count": 42
+  },
+  {
+    "name": "cuaca",
+    "count": 52
+  },
+  {
+    "name": "hd2",
+    "count": 48
   },
   {
     "name": "sendngl",
-    "count": 41
-  },
-  {
-    "name": "wanumber",
     "count": 40
   },
   {
-    "name": "add",
-    "count": 41
-  },
-  {
-    "name": "transfer",
+    "name": "antisticker",
     "count": 40
   },
   {
-    "name": "darkjokes",
+    "name": "tiktoksearch",
+    "count": 70
+  },
+  {
+    "name": "google",
+    "count": 43
+  },
+  {
+    "name": "spotify",
+    "count": 44
+  },
+  {
+    "name": "tebakanime",
     "count": 39
-  },
-  {
-    "name": "buy",
-    "count": 39
-  },
-  {
-    "name": "pintar",
-    "count": 39
-  },
-  {
-    "name": "capcut",
-    "count": 39
-  },
-  {
-    "name": "gitclone",
-    "count": 38
-  },
-  {
-    "name": "animestyle",
-    "count": 38
-  },
-  {
-    "name": "ocr",
-    "count": 38
   },
   {
     "name": "closetime",
+    "count": 37
+  },
+  {
+    "name": "rpgmenu",
+    "count": 42
+  },
+  {
+    "name": "add",
     "count": 37
   },
   {
@@ -992,131 +892,99 @@
     "count": 37
   },
   {
-    "name": "toimage",
+    "name": "stickermenu",
+    "count": 41
+  },
+  {
+    "name": "capcut",
     "count": 37
   },
   {
-    "name": "igs",
-    "count": 39
+    "name": "buy",
+    "count": 36
   },
   {
-    "name": "terima",
-    "count": 37
+    "name": "mangastyle",
+    "count": 45
   },
   {
     "name": "antipromosi",
+    "count": 35
+  },
+  {
+    "name": "toimage",
     "count": 36
   },
   {
-    "name": "moonthly",
-    "count": 40
+    "name": "db",
+    "count": 67
+  },
+  {
+    "name": "facebook",
+    "count": 37
+  },
+  {
+    "name": "ocr",
+    "count": 34
+  },
+  {
+    "name": "sangecek",
+    "count": 33
   },
   {
     "name": "jpm",
-    "count": 38
+    "count": 33
   },
   {
-    "name": "funmenu",
-    "count": 36
+    "name": "ttaudio",
+    "count": 47
   },
   {
-    "name": "aimenu",
-    "count": 37
+    "name": "antiimage",
+    "count": 32
   },
   {
-    "name": "kucing",
-    "count": 37
-  },
-  {
-    "name": "stickermeme",
-    "count": 41
+    "name": "terima",
+    "count": 32
   },
   {
     "name": "wibu",
     "count": 35
   },
   {
-    "name": "npmjs",
-    "count": 35
-  },
-  {
-    "name": "sangecek",
-    "count": 35
-  },
-  {
-    "name": "balance",
-    "count": 36
-  },
-  {
-    "name": "bank",
-    "count": 37
-  },
-  {
-    "name": "antiimage",
-    "count": 33
-  },
-  {
-    "name": "addowner",
-    "count": 33
-  },
-  {
-    "name": "oi",
-    "count": 35
-  },
-  {
-    "name": "asupanmenu",
-    "count": 34
-  },
-  {
     "name": "setprofil",
     "count": 31
   },
   {
-    "name": "subdo",
+    "name": "gitclone",
+    "count": 34
+  },
+  {
+    "name": "addowner",
+    "count": 32
+  },
+  {
+    "name": "bank",
     "count": 31
   },
   {
-    "name": "mfdl",
+    "name": "balance",
     "count": 31
-  },
-  {
-    "name": "suitpvp",
-    "count": 33
   },
   {
     "name": "gay",
-    "count": 31
-  },
-  {
-    "name": "bukajam",
     "count": 30
   },
   {
-    "name": "babi",
+    "name": "igs",
     "count": 30
   },
   {
-    "name": "public",
-    "count": 31
-  },
-  {
-    "name": "sider",
-    "count": 29
-  },
-  {
-    "name": "cekip",
+    "name": "moonthly",
     "count": 30
   },
   {
-    "name": "ttmp3",
-    "count": 31
-  },
-  {
-    "name": "wwpc",
-    "count": 29
-  },
-  {
-    "name": "lengkapikalimat",
+    "name": "subdo",
     "count": 30
   },
   {
@@ -1124,19 +992,23 @@
     "count": 28
   },
   {
-    "name": "mlstalk",
+    "name": "babi",
     "count": 28
   },
   {
-    "name": "nobg",
-    "count": 29
+    "name": "funmenu",
+    "count": 33
   },
   {
-    "name": "monyet",
+    "name": "tiktokaudio",
     "count": 28
   },
   {
-    "name": "kickme",
+    "name": "darkjokes",
+    "count": 34
+  },
+  {
+    "name": "bukajam",
     "count": 29
   },
   {
@@ -1144,11 +1016,23 @@
     "count": 27
   },
   {
-    "name": "hentai",
-    "count": 36
+    "name": "attack",
+    "count": 27
   },
   {
-    "name": "get2",
+    "name": "sider",
+    "count": 28
+  },
+  {
+    "name": "hentai",
+    "count": 27
+  },
+  {
+    "name": "aimenu",
+    "count": 30
+  },
+  {
+    "name": "mfdl",
     "count": 29
   },
   {
@@ -1156,60 +1040,48 @@
     "count": 26
   },
   {
+    "name": "transfer",
+    "count": 29
+  },
+  {
     "name": "pluginmenu",
+    "count": 26
+  },
+  {
+    "name": "kucing",
     "count": 27
+  },
+  {
+    "name": "asupanmenu",
+    "count": 27
+  },
+  {
+    "name": "ceksubdo",
+    "count": 25
   },
   {
     "name": "kurang",
     "count": 26
   },
   {
-    "name": "carbon",
-    "count": 26
-  },
-  {
-    "name": "perawan",
-    "count": 26
-  },
-  {
-    "name": "bocil",
-    "count": 26
-  },
-  {
-    "name": "promote",
-    "count": 26
-  },
-  {
-    "name": "ceksubdo",
-    "count": 26
+    "name": "getgc",
+    "count": 33
   },
   {
     "name": "rate",
     "count": 25
   },
   {
-    "name": "delowner",
-    "count": 25
-  },
-  {
-    "name": "asupan",
-    "count": 39
-  },
-  {
-    "name": "roblox",
-    "count": 56
-  },
-  {
-    "name": "imagemenu",
-    "count": 25
-  },
-  {
-    "name": "gantengcek",
-    "count": 25
-  },
-  {
-    "name": "atmall",
+    "name": "public",
     "count": 28
+  },
+  {
+    "name": "stickermeme",
+    "count": 27
+  },
+  {
+    "name": "cekip",
+    "count": 29
   },
   {
     "name": "cekgay",
@@ -1220,55 +1092,51 @@
     "count": 24
   },
   {
-    "name": "tambah",
-    "count": 24
+    "name": "animestyle",
+    "count": 31
   },
   {
-    "name": "patrick",
-    "count": 24
-  },
-  {
-    "name": "pastebin",
-    "count": 24
-  },
-  {
-    "name": "recolor",
-    "count": 24
-  },
-  {
-    "name": "addfile",
-    "count": 40
+    "name": "oi",
+    "count": 31
   },
   {
     "name": "waktu",
     "count": 23
   },
   {
-    "name": "inventory",
+    "name": "promote",
     "count": 23
   },
   {
-    "name": "bandwidth",
-    "count": 24
+    "name": "pintar",
+    "count": 23
   },
   {
-    "name": "my",
-    "count": 24
-  },
-  {
-    "name": "listsewa",
-    "count": 26
-  },
-  {
-    "name": "topsaldo",
-    "count": 27
-  },
-  {
-    "name": "premium",
+    "name": "mlstalk",
     "count": 28
   },
   {
+    "name": "carbon",
+    "count": 25
+  },
+  {
+    "name": "my",
+    "count": 22
+  },
+  {
     "name": "opentime",
+    "count": 22
+  },
+  {
+    "name": "ttmp3",
+    "count": 22
+  },
+  {
+    "name": "tambah",
+    "count": 23
+  },
+  {
+    "name": "patrick",
     "count": 22
   },
   {
@@ -1276,60 +1144,48 @@
     "count": 22
   },
   {
-    "name": "delchat",
-    "count": 23
-  },
-  {
-    "name": "igstory",
-    "count": 22
-  },
-  {
-    "name": "stalkmenu",
-    "count": 24
-  },
-  {
-    "name": "dashboard",
-    "count": 22
-  },
-  {
-    "name": "bstation",
-    "count": 22
-  },
-  {
-    "name": "janda",
-    "count": 22
-  },
-  {
     "name": "depo",
-    "count": 28
+    "count": 21
   },
   {
     "name": "tfgamelimit",
     "count": 21
   },
   {
+    "name": "inventory",
+    "count": 21
+  },
+  {
+    "name": "igstory",
+    "count": 21
+  },
+  {
+    "name": "bocil",
+    "count": 22
+  },
+  {
     "name": "addimg",
     "count": 21
   },
   {
-    "name": "anonymousmenu",
+    "name": "delowner",
     "count": 22
   },
   {
-    "name": "tester",
+    "name": "imagemenu",
+    "count": 23
+  },
+  {
+    "name": "npmjs",
+    "count": 31
+  },
+  {
+    "name": "suitpvp",
     "count": 21
   },
   {
-    "name": "michi_jkt48",
-    "count": 21
-  },
-  {
-    "name": "tebakhero2",
-    "count": 21
-  },
-  {
-    "name": "photoshop",
-    "count": 21
+    "name": "pastebin",
+    "count": 23
   },
   {
     "name": "ttnowm",
@@ -1340,11 +1196,51 @@
     "count": 20
   },
   {
+    "name": "wwpc",
+    "count": 20
+  },
+  {
     "name": "igphoto",
     "count": 20
   },
   {
+    "name": "gantengcek",
+    "count": 20
+  },
+  {
+    "name": "monyet",
+    "count": 20
+  },
+  {
+    "name": "stalkmenu",
+    "count": 21
+  },
+  {
+    "name": "get2",
+    "count": 22
+  },
+  {
     "name": "setan",
+    "count": 20
+  },
+  {
+    "name": "dashboard",
+    "count": 20
+  },
+  {
+    "name": "anonymousmenu",
+    "count": 20
+  },
+  {
+    "name": "tester",
+    "count": 21
+  },
+  {
+    "name": "nowa",
+    "count": 46
+  },
+  {
+    "name": "janda",
     "count": 20
   },
   {
@@ -1352,71 +1248,19 @@
     "count": 20
   },
   {
-    "name": "stikersearch",
-    "count": 25
-  },
-  {
-    "name": "tesai",
-    "count": 20
-  },
-  {
-    "name": "cekbio",
-    "count": 20
-  },
-  {
-    "name": "dm",
-    "count": 20
-  },
-  {
-    "name": "balancemenu",
-    "count": 20
-  },
-  {
-    "name": "tovid",
-    "count": 21
-  },
-  {
-    "name": "udanlaurenzarixzyraul",
-    "count": 21
-  },
-  {
-    "name": "tutupjam",
+    "name": "tebakhero2",
     "count": 19
   },
   {
-    "name": "antivideo",
-    "count": 19
+    "name": "tebakjkt48",
+    "count": 26
   },
   {
-    "name": "mainmenu",
-    "count": 20
+    "name": "delchat",
+    "count": 22
   },
   {
-    "name": "anonymouschat",
-    "count": 19
-  },
-  {
-    "name": "listgc",
-    "count": 20
-  },
-  {
-    "name": "evalmenu",
-    "count": 19
-  },
-  {
-    "name": "profile",
-    "count": 19
-  },
-  {
-    "name": "textmenu",
-    "count": 19
-  },
-  {
-    "name": "hd3",
-    "count": 19
-  },
-  {
-    "name": "bl",
+    "name": "michi_jkt48",
     "count": 19
   },
   {
@@ -1424,7 +1268,19 @@
     "count": 18
   },
   {
+    "name": "balancemenu",
+    "count": 18
+  },
+  {
     "name": "swm",
+    "count": 18
+  },
+  {
+    "name": "tutupjam",
+    "count": 18
+  },
+  {
+    "name": "asupan",
     "count": 19
   },
   {
@@ -1432,75 +1288,51 @@
     "count": 18
   },
   {
-    "name": "panelmenu",
+    "name": "profile",
+    "count": 18
+  },
+  {
+    "name": "perawan",
+    "count": 26
+  },
+  {
+    "name": "antivideo",
+    "count": 18
+  },
+  {
+    "name": "stikersearch",
+    "count": 18
+  },
+  {
+    "name": "dm",
     "count": 19
-  },
-  {
-    "name": "ownermenu",
-    "count": 18
-  },
-  {
-    "name": "addb",
-    "count": 18
   },
   {
     "name": "bass",
     "count": 17
   },
   {
+    "name": "spy",
+    "count": 17
+  },
+  {
+    "name": "mainmenu",
+    "count": 18
+  },
+  {
     "name": "addstik",
     "count": 17
   },
   {
-    "name": "convertmenu",
-    "count": 17
-  },
-  {
-    "name": "addaudio",
-    "count": 17
-  },
-  {
-    "name": "ephotomenu",
-    "count": 17
-  },
-  {
-    "name": "nsfw",
-    "count": 24
-  },
-  {
-    "name": "savefile",
-    "count": 17
-  },
-  {
-    "name": "menfess",
-    "count": 17
-  },
-  {
-    "name": "info",
-    "count": 17
-  },
-  {
-    "name": "addlist",
-    "count": 17
-  },
-  {
-    "name": "translate",
-    "count": 17
-  },
-  {
-    "name": "withdraw",
+    "name": "anonymouschat",
     "count": 19
   },
   {
-    "name": "tolink",
-    "count": 22
+    "name": "textmenu",
+    "count": 18
   },
   {
-    "name": "cantikcek",
-    "count": 17
-  },
-  {
-    "name": "stikermeme",
+    "name": "tolol",
     "count": 17
   },
   {
@@ -1516,16 +1348,36 @@
     "count": 16
   },
   {
+    "name": "kickme",
+    "count": 16
+  },
+  {
     "name": "pantun",
     "count": 16
   },
   {
-    "name": "getch",
+    "name": "panelmenu",
     "count": 16
   },
   {
-    "name": "ceritahoror",
+    "name": "nsfw",
     "count": 16
+  },
+  {
+    "name": "lengkapikalimat",
+    "count": 18
+  },
+  {
+    "name": "convertmenu",
+    "count": 16
+  },
+  {
+    "name": "savefile",
+    "count": 16
+  },
+  {
+    "name": "addlist",
+    "count": 15
   },
   {
     "name": "addsticker",
@@ -1536,40 +1388,44 @@
     "count": 15
   },
   {
+    "name": "translate",
+    "count": 15
+  },
+  {
+    "name": "menfess",
+    "count": 16
+  },
+  {
     "name": "ngentot",
     "count": 15
   },
   {
-    "name": "bagi",
-    "count": 15
+    "name": "addaudio",
+    "count": 17
   },
   {
-    "name": "report",
-    "count": 15
+    "name": "ephotomenu",
+    "count": 16
   },
   {
-    "name": "leavegc",
-    "count": 15
+    "name": "listsewa",
+    "count": 18
   },
   {
-    "name": "kurs",
-    "count": 15
+    "name": "faktaunik",
+    "count": 38
   },
   {
-    "name": "cekasalmember",
-    "count": 15
+    "name": "getch",
+    "count": 16
   },
   {
-    "name": "list",
+    "name": "tesai",
     "count": 15
-  },
-  {
-    "name": "upscale",
-    "count": 24
   },
   {
     "name": "katabijak",
-    "count": 15
+    "count": 14
   },
   {
     "name": "putus",
@@ -1581,7 +1437,7 @@
   },
   {
     "name": "popoci",
-    "count": 15
+    "count": 14
   },
   {
     "name": "ceklesbi",
@@ -1593,50 +1449,50 @@
   },
   {
     "name": "cekhp",
-    "count": 35
+    "count": 14
   },
   {
     "name": "start",
     "count": 14
   },
   {
+    "name": "ownermenu",
+    "count": 17
+  },
+  {
     "name": "readmore",
     "count": 14
+  },
+  {
+    "name": "nobg",
+    "count": 20
+  },
+  {
+    "name": "info",
+    "count": 16
+  },
+  {
+    "name": "bagi",
+    "count": 15
   },
   {
     "name": "gconly",
     "count": 14
   },
   {
+    "name": "tovid",
+    "count": 16
+  },
+  {
+    "name": "report",
+    "count": 15
+  },
+  {
+    "name": "kurs",
+    "count": 14
+  },
+  {
     "name": "prefix",
-    "count": 14
-  },
-  {
-    "name": "totalfitur",
-    "count": 14
-  },
-  {
-    "name": "pocoyo",
-    "count": 20
-  },
-  {
-    "name": "tovn",
-    "count": 14
-  },
-  {
-    "name": "istirahat",
-    "count": 14
-  },
-  {
-    "name": "searchmenu",
-    "count": 14
-  },
-  {
-    "name": "storemenu",
-    "count": 14
-  },
-  {
-    "name": "goblok",
     "count": 14
   },
   {
@@ -1648,7 +1504,15 @@
     "count": 13
   },
   {
+    "name": "list",
+    "count": 13
+  },
+  {
     "name": "unblock",
+    "count": 13
+  },
+  {
+    "name": "totalfitur",
     "count": 13
   },
   {
@@ -1660,8 +1524,16 @@
     "count": 13
   },
   {
-    "name": "katasindiran",
+    "name": "pocoyo",
     "count": 13
+  },
+  {
+    "name": "crafting",
+    "count": 12
+  },
+  {
+    "name": "katasindiran",
+    "count": 12
   },
   {
     "name": "image",
@@ -1676,51 +1548,27 @@
     "count": 13
   },
   {
-    "name": "quiz",
+    "name": "tovn",
     "count": 13
   },
   {
-    "name": "help",
-    "count": 13
-  },
-  {
-    "name": "ban",
+    "name": "listgc",
     "count": 14
   },
   {
-    "name": "bstationdl",
-    "count": 13
+    "name": "bl",
+    "count": 14
+  },
+  {
+    "name": "quiz",
+    "count": 12
+  },
+  {
+    "name": "bingimg",
+    "count": 42
   },
   {
     "name": "addlimit",
-    "count": 14
-  },
-  {
-    "name": "simplemenu",
-    "count": 13
-  },
-  {
-    "name": "ttc",
-    "count": 13
-  },
-  {
-    "name": "ytdocument",
-    "count": 13
-  },
-  {
-    "name": "antibot2",
-    "count": 13
-  },
-  {
-    "name": "getppgc",
-    "count": 14
-  },
-  {
-    "name": "hpdetail",
-    "count": 14
-  },
-  {
-    "name": "crafting",
     "count": 12
   },
   {
@@ -1728,56 +1576,28 @@
     "count": 12
   },
   {
-    "name": "kusonime",
-    "count": 12
-  },
-  {
-    "name": "waifu",
-    "count": 12
-  },
-  {
-    "name": "liriklagu",
-    "count": 12
-  },
-  {
-    "name": "ytcomment",
-    "count": 12
-  },
-  {
-    "name": "toaudio",
-    "count": 12
-  },
-  {
-    "name": "delsampah",
-    "count": 12
-  },
-  {
-    "name": "creategist",
-    "count": 12
-  },
-  {
-    "name": "bodoh",
-    "count": 12
-  },
-  {
-    "name": "puki",
-    "count": 12
-  },
-  {
-    "name": "pinter",
-    "count": 12
-  },
-  {
     "name": "chatgpt2",
     "count": 11
+  },
+  {
+    "name": "help",
+    "count": 12
   },
   {
     "name": "redeem",
     "count": 11
   },
   {
+    "name": "antibot2",
+    "count": 11
+  },
+  {
     "name": "antipolling",
     "count": 11
+  },
+  {
+    "name": "ban",
+    "count": 12
   },
   {
     "name": "atm",
@@ -1786,6 +1606,10 @@
   {
     "name": "antisw",
     "count": 11
+  },
+  {
+    "name": "simplemenu",
+    "count": 12
   },
   {
     "name": "bansos",
@@ -1800,36 +1624,28 @@
     "count": 11
   },
   {
-    "name": "clearsesi",
-    "count": 11
-  },
-  {
-    "name": "awoawo",
+    "name": "cekasalmember",
     "count": 14
   },
   {
-    "name": "ritsuki",
+    "name": "bioall",
+    "count": 32
+  },
+  {
+    "name": "ceritahoror",
+    "count": 13
+  },
+  {
+    "name": "udanlaurenzarixzyraul",
+    "count": 13
+  },
+  {
+    "name": "kusonime",
     "count": 12
   },
   {
-    "name": "ceklimit",
-    "count": 11
-  },
-  {
-    "name": "mulai",
-    "count": 11
-  },
-  {
-    "name": "hdr2",
-    "count": 11
-  },
-  {
-    "name": "aturan",
-    "count": 11
-  },
-  {
-    "name": "10gb",
-    "count": 11
+    "name": "bodoh",
+    "count": 10
   },
   {
     "name": "quotesdilan",
@@ -1840,6 +1656,14 @@
     "count": 10
   },
   {
+    "name": "ceklimit",
+    "count": 10
+  },
+  {
+    "name": "evalmenu",
+    "count": 17
+  },
+  {
     "name": "pengaman",
     "count": 10
   },
@@ -1848,48 +1672,60 @@
     "count": 10
   },
   {
+    "name": "leavegc",
+    "count": 12
+  },
+  {
+    "name": "waifu",
+    "count": 11
+  },
+  {
+    "name": "getppgc",
+    "count": 10
+  },
+  {
     "name": "tts",
     "count": 10
   },
   {
+    "name": "liriklagu",
+    "count": 11
+  },
+  {
+    "name": "puki",
+    "count": 10
+  },
+  {
+    "name": "ytcomment",
+    "count": 11
+  },
+  {
+    "name": "hpdetail",
+    "count": 10
+  },
+  {
+    "name": "mulai",
+    "count": 10
+  },
+  {
     "name": "quotesanime",
-    "count": 11
-  },
-  {
-    "name": "setppgc2",
     "count": 10
   },
   {
-    "name": "kayes",
+    "name": "storemenu",
     "count": 10
   },
   {
-    "name": "setppgc",
-    "count": 10
+    "name": "bstation",
+    "count": 21
   },
   {
-    "name": "china",
-    "count": 11
+    "name": "addfile",
+    "count": 14
   },
   {
-    "name": "naruto",
-    "count": 10
-  },
-  {
-    "name": "test",
-    "count": 12
-  },
-  {
-    "name": "confess",
-    "count": 10
-  },
-  {
-    "name": "fakehidetag",
-    "count": 10
-  },
-  {
-    "name": "1917style",
-    "count": 10
+    "name": "goblok",
+    "count": 9
   },
   {
     "name": "adp",
@@ -1897,6 +1733,10 @@
   },
   {
     "name": "loli",
+    "count": 9
+  },
+  {
+    "name": "hdr2",
     "count": 9
   },
   {
@@ -1920,11 +1760,19 @@
     "count": 9
   },
   {
+    "name": "clearsesi",
+    "count": 10
+  },
+  {
     "name": "setppbot2",
     "count": 9
   },
   {
     "name": "typographytext",
+    "count": 9
+  },
+  {
+    "name": "toaudio",
     "count": 9
   },
   {
@@ -1936,7 +1784,15 @@
     "count": 9
   },
   {
+    "name": "setppgc2",
+    "count": 10
+  },
+  {
     "name": "iblis",
+    "count": 9
+  },
+  {
+    "name": "kayes",
     "count": 9
   },
   {
@@ -1945,59 +1801,23 @@
   },
   {
     "name": "japan",
-    "count": 10
+    "count": 9
+  },
+  {
+    "name": "istirahat",
+    "count": 9
+  },
+  {
+    "name": "awoawo",
+    "count": 9
+  },
+  {
+    "name": "hd3",
+    "count": 11
   },
   {
     "name": "tiktoks2",
-    "count": 9
-  },
-  {
-    "name": "liststik",
-    "count": 9
-  },
-  {
-    "name": "stickergif",
-    "count": 9
-  },
-  {
-    "name": "dns",
-    "count": 9
-  },
-  {
-    "name": "remini2",
-    "count": 9
-  },
-  {
-    "name": "sampah",
-    "count": 9
-  },
-  {
-    "name": "img2img",
-    "count": 9
-  },
-  {
-    "name": "jpm2",
-    "count": 9
-  },
-  {
-    "name": "delcmd",
-    "count": 9
-  },
-  {
-    "name": "donasi",
-    "count": 9
-  },
-  {
-    "name": "cococlip",
-    "count": 9
-  },
-  {
-    "name": "hdr3",
-    "count": 9
-  },
-  {
-    "name": "toghibli",
-    "count": 9
+    "count": 8
   },
   {
     "name": "autoaigc",
@@ -2006,6 +1826,10 @@
   {
     "name": "logomaker",
     "count": 8
+  },
+  {
+    "name": "delsampah",
+    "count": 9
   },
   {
     "name": "transferlimit",
@@ -2020,6 +1844,10 @@
     "count": 8
   },
   {
+    "name": "setppgc",
+    "count": 9
+  },
+  {
     "name": "tolak",
     "count": 8
   },
@@ -2029,7 +1857,11 @@
   },
   {
     "name": "cancel",
-    "count": 10
+    "count": 8
+  },
+  {
+    "name": "china",
+    "count": 9
   },
   {
     "name": "totag",
@@ -2040,76 +1872,20 @@
     "count": 8
   },
   {
+    "name": "ttc",
+    "count": 8
+  },
+  {
+    "name": "bandwidth",
+    "count": 22
+  },
+  {
+    "name": "atmall",
+    "count": 8
+  },
+  {
     "name": "bella",
     "count": 8
-  },
-  {
-    "name": "tovideo",
-    "count": 8
-  },
-  {
-    "name": "capcuts",
-    "count": 8
-  },
-  {
-    "name": "ass",
-    "count": 8
-  },
-  {
-    "name": "gdrive",
-    "count": 8
-  },
-  {
-    "name": "aidrawing",
-    "count": 8
-  },
-  {
-    "name": "meow",
-    "count": 9
-  },
-  {
-    "name": "wd",
-    "count": 8
-  },
-  {
-    "name": "api",
-    "count": 8
-  },
-  {
-    "name": "quoted",
-    "count": 9
-  },
-  {
-    "name": "yuri",
-    "count": 12
-  },
-  {
-    "name": "device",
-    "count": 8
-  },
-  {
-    "name": "addsewa",
-    "count": 8
-  },
-  {
-    "name": "ghibli",
-    "count": 8
-  },
-  {
-    "name": "notnot",
-    "count": 8
-  },
-  {
-    "name": "tthd",
-    "count": 12
-  },
-  {
-    "name": "bangsat",
-    "count": 8
-  },
-  {
-    "name": "xnxxdl",
-    "count": 9
   },
   {
     "name": "fbdl",
@@ -2120,7 +1896,23 @@
     "count": 7
   },
   {
+    "name": "api",
+    "count": 7
+  },
+  {
     "name": "slow",
+    "count": 7
+  },
+  {
+    "name": "liststik",
+    "count": 9
+  },
+  {
+    "name": "stickergif",
+    "count": 9
+  },
+  {
+    "name": "confess",
     "count": 7
   },
   {
@@ -2128,12 +1920,20 @@
     "count": 7
   },
   {
+    "name": "upscale",
+    "count": 7
+  },
+  {
     "name": "order",
     "count": 7
   },
   {
+    "name": "searchmenu",
+    "count": 11
+  },
+  {
     "name": "ahegao",
-    "count": 8
+    "count": 7
   },
   {
     "name": "islamimenu",
@@ -2144,6 +1944,10 @@
     "count": 7
   },
   {
+    "name": "dns",
+    "count": 9
+  },
+  {
     "name": "lanjut",
     "count": 7
   },
@@ -2152,7 +1956,15 @@
     "count": 7
   },
   {
+    "name": "test",
+    "count": 9
+  },
+  {
     "name": "demote",
+    "count": 7
+  },
+  {
+    "name": "quoted",
     "count": 7
   },
   {
@@ -2160,64 +1972,32 @@
     "count": 7
   },
   {
+    "name": "yuri",
+    "count": 7
+  },
+  {
+    "name": "fakehidetag",
+    "count": 8
+  },
+  {
     "name": "sound1",
     "count": 7
   },
   {
-    "name": "keluar",
+    "name": "ytdocument",
+    "count": 12
+  },
+  {
+    "name": "device",
     "count": 7
   },
   {
-    "name": "anya",
-    "count": 7
-  },
-  {
-    "name": "gimage",
-    "count": 7
-  },
-  {
-    "name": "cekidgc",
-    "count": 7
-  },
-  {
-    "name": "qccode",
-    "count": 7
-  },
-  {
-    "name": "listcase",
-    "count": 7
-  },
-  {
-    "name": "abebocil",
-    "count": 7
-  },
-  {
-    "name": "setcmd",
-    "count": 7
-  },
-  {
-    "name": "jancok",
-    "count": 7
-  },
-  {
-    "name": "blowjob",
-    "count": 7
-  },
-  {
-    "name": "stickerwm",
-    "count": 7
-  },
-  {
-    "name": "ttslide",
-    "count": 7
-  },
-  {
-    "name": "playspotify",
-    "count": 16
-  },
-  {
-    "name": "sendprofil",
+    "name": "tovideo",
     "count": 8
+  },
+  {
+    "name": "aturan",
+    "count": 7
   },
   {
     "name": "kayu",
@@ -2226,6 +2006,10 @@
   {
     "name": "topup",
     "count": 6
+  },
+  {
+    "name": "remini2",
+    "count": 9
   },
   {
     "name": "clearallgc",
@@ -2240,7 +2024,19 @@
     "count": 6
   },
   {
+    "name": "sampah",
+    "count": 7
+  },
+  {
     "name": "listblock",
+    "count": 6
+  },
+  {
+    "name": "capcuts",
+    "count": 6
+  },
+  {
+    "name": "1917style",
     "count": 6
   },
   {
@@ -2256,11 +2052,43 @@
     "count": 6
   },
   {
+    "name": "ass",
+    "count": 8
+  },
+  {
     "name": "addimage",
     "count": 6
   },
   {
+    "name": "jancok",
+    "count": 6
+  },
+  {
+    "name": "keluar",
+    "count": 6
+  },
+  {
+    "name": "gdrive",
+    "count": 8
+  },
+  {
     "name": "korea",
+    "count": 6
+  },
+  {
+    "name": "cantikcek",
+    "count": 6
+  },
+  {
+    "name": "anya",
+    "count": 7
+  },
+  {
+    "name": "aidrawing",
+    "count": 8
+  },
+  {
+    "name": "notnot",
     "count": 6
   },
   {
@@ -2268,52 +2096,12 @@
     "count": 6
   },
   {
-    "name": "stoprest",
-    "count": 6
-  },
-  {
-    "name": "yts2",
-    "count": 6
-  },
-  {
-    "name": "text2anime",
-    "count": 6
-  },
-  {
-    "name": "pastegg",
-    "count": 6
-  },
-  {
-    "name": "flux",
-    "count": 6
-  },
-  {
-    "name": "daftarprem",
-    "count": 7
-  },
-  {
-    "name": "backupsc",
-    "count": 6
-  },
-  {
-    "name": "react",
-    "count": 6
-  },
-  {
-    "name": "store",
-    "count": 6
-  },
-  {
-    "name": "werewolf",
-    "count": 6
-  },
-  {
-    "name": "ttsearch2",
-    "count": 6
-  },
-  {
     "name": "spek",
     "count": 5
+  },
+  {
+    "name": "gimage",
+    "count": 7
   },
   {
     "name": "deep",
@@ -2322,6 +2110,10 @@
   {
     "name": "regis",
     "count": 5
+  },
+  {
+    "name": "cekidgc",
+    "count": 7
   },
   {
     "name": "autoread",
@@ -2336,8 +2128,16 @@
     "count": 5
   },
   {
+    "name": "blowjob",
+    "count": 5
+  },
+  {
     "name": "backup",
     "count": 5
+  },
+  {
+    "name": "naruto",
+    "count": 7
   },
   {
     "name": "twitter",
@@ -2349,6 +2149,10 @@
   },
   {
     "name": "text2waifu",
+    "count": 5
+  },
+  {
+    "name": "playspotify",
     "count": 5
   },
   {
@@ -2372,7 +2176,15 @@
     "count": 5
   },
   {
+    "name": "stoprest",
+    "count": 5
+  },
+  {
     "name": "alquranaudio",
+    "count": 5
+  },
+  {
+    "name": "sendprofil",
     "count": 5
   },
   {
@@ -2388,12 +2200,24 @@
     "count": 5
   },
   {
+    "name": "stickerwm",
+    "count": 5
+  },
+  {
     "name": "igslide",
     "count": 5
   },
   {
     "name": "ceksewa",
-    "count": 12
+    "count": 5
+  },
+  {
+    "name": "yts2",
+    "count": 6
+  },
+  {
+    "name": "10gb",
+    "count": 10
   },
   {
     "name": "autosholat",
@@ -2401,6 +2225,18 @@
   },
   {
     "name": "revoke",
+    "count": 5
+  },
+  {
+    "name": "meow",
+    "count": 6
+  },
+  {
+    "name": "addsewa",
+    "count": 5
+  },
+  {
+    "name": "qccode",
     "count": 5
   },
   {
@@ -2412,6 +2248,10 @@
     "count": 5
   },
   {
+    "name": "listcase",
+    "count": 7
+  },
+  {
     "name": "katailham",
     "count": 5
   },
@@ -2420,87 +2260,27 @@
     "count": 5
   },
   {
+    "name": "tthd",
+    "count": 5
+  },
+  {
+    "name": "ritsuki",
+    "count": 5
+  },
+  {
+    "name": "ghibli",
+    "count": 6
+  },
+  {
     "name": "kisahnabi",
-    "count": 7
-  },
-  {
-    "name": "storagemenu",
-    "count": 5
-  },
-  {
-    "name": "spoiler",
-    "count": 5
-  },
-  {
-    "name": "husbu",
-    "count": 5
-  },
-  {
-    "name": "blacklist",
-    "count": 5
-  },
-  {
-    "name": "jadwalsholat",
-    "count": 5
-  },
-  {
-    "name": "unblacklist",
-    "count": 5
-  },
-  {
-    "name": "linkgrup",
-    "count": 5
-  },
-  {
-    "name": "drive",
-    "count": 5
-  },
-  {
-    "name": "antitagsw",
-    "count": 5
-  },
-  {
-    "name": "removebg2",
-    "count": 7
-  },
-  {
-    "name": "pedagang",
-    "count": 5
-  },
-  {
-    "name": "igsearch",
-    "count": 10
-  },
-  {
-    "name": "setclose",
-    "count": 5
-  },
-  {
-    "name": "getvideo",
-    "count": 5
-  },
-  {
-    "name": "royaltext",
-    "count": 5
-  },
-  {
-    "name": "tl",
-    "count": 5
-  },
-  {
-    "name": "regmail",
-    "count": 5
-  },
-  {
-    "name": "whatmusic",
-    "count": 5
-  },
-  {
-    "name": "alldl",
     "count": 5
   },
   {
     "name": "unban",
+    "count": 4
+  },
+  {
+    "name": "setclose",
     "count": 4
   },
   {
@@ -2512,12 +2292,24 @@
     "count": 4
   },
   {
+    "name": "img2img",
+    "count": 9
+  },
+  {
     "name": "5gb",
-    "count": 5
+    "count": 4
   },
   {
     "name": "subdomain",
     "count": 4
+  },
+  {
+    "name": "addb",
+    "count": 18
+  },
+  {
+    "name": "storagemenu",
+    "count": 5
   },
   {
     "name": "setdesc",
@@ -2526,6 +2318,10 @@
   {
     "name": "kapak",
     "count": 4
+  },
+  {
+    "name": "text2anime",
+    "count": 6
   },
   {
     "name": "katasenja",
@@ -2553,7 +2349,7 @@
   },
   {
     "name": "spotifysearch",
-    "count": 5
+    "count": 4
   },
   {
     "name": "status",
@@ -2564,6 +2360,10 @@
     "count": 4
   },
   {
+    "name": "spoiler",
+    "count": 5
+  },
+  {
     "name": "thighs",
     "count": 4
   },
@@ -2572,15 +2372,35 @@
     "count": 4
   },
   {
+    "name": "wd",
+    "count": 4
+  },
+  {
+    "name": "stikermeme",
+    "count": 4
+  },
+  {
     "name": "quotes",
-    "count": 7
+    "count": 4
   },
   {
     "name": "setopen",
     "count": 4
   },
   {
+    "name": "husbu",
+    "count": 4
+  },
+  {
+    "name": "pastegg",
+    "count": 6
+  },
+  {
     "name": "done",
+    "count": 4
+  },
+  {
+    "name": "react",
     "count": 4
   },
   {
@@ -2589,6 +2409,10 @@
   },
   {
     "name": "igdl",
+    "count": 4
+  },
+  {
+    "name": "bangsat",
     "count": 4
   },
   {
@@ -2604,6 +2428,10 @@
     "count": 4
   },
   {
+    "name": "blacklist",
+    "count": 4
+  },
+  {
     "name": "setname",
     "count": 4
   },
@@ -2612,7 +2440,15 @@
     "count": 4
   },
   {
+    "name": "getvideo",
+    "count": 4
+  },
+  {
     "name": "motivasi",
+    "count": 4
+  },
+  {
+    "name": "royaltext",
     "count": 4
   },
   {
@@ -2624,7 +2460,15 @@
     "count": 4
   },
   {
+    "name": "jadwalsholat",
+    "count": 4
+  },
+  {
     "name": "zettai",
+    "count": 4
+  },
+  {
+    "name": "jpm2",
     "count": 4
   },
   {
@@ -2632,67 +2476,23 @@
     "count": 4
   },
   {
+    "name": "flux",
+    "count": 6
+  },
+  {
+    "name": "daftarprem",
+    "count": 4
+  },
+  {
     "name": "elaina",
     "count": 4
   },
   {
+    "name": "unblacklist",
+    "count": 4
+  },
+  {
     "name": "fb2",
-    "count": 4
-  },
-  {
-    "name": "bcgc",
-    "count": 4
-  },
-  {
-    "name": "delprem",
-    "count": 4
-  },
-  {
-    "name": "bc",
-    "count": 4
-  },
-  {
-    "name": "lesbicek",
-    "count": 4
-  },
-  {
-    "name": "animediffusion",
-    "count": 4
-  },
-  {
-    "name": "roblox-stalk",
-    "count": 6
-  },
-  {
-    "name": "gdrivedl",
-    "count": 4
-  },
-  {
-    "name": "xnxxsearch",
-    "count": 7
-  },
-  {
-    "name": "deltebakbom",
-    "count": 4
-  },
-  {
-    "name": "delfile",
-    "count": 8
-  },
-  {
-    "name": "ramalancuaca",
-    "count": 4
-  },
-  {
-    "name": "toanime",
-    "count": 4
-  },
-  {
-    "name": "xnxxs",
-    "count": 4
-  },
-  {
-    "name": "buypoint",
     "count": 4
   },
   {
@@ -2713,7 +2513,7 @@
   },
   {
     "name": "goodbye",
-    "count": 4
+    "count": 3
   },
   {
     "name": "$",
@@ -2732,6 +2532,10 @@
     "count": 3
   },
   {
+    "name": "linkgrup",
+    "count": 4
+  },
+  {
     "name": "reset",
     "count": 3
   },
@@ -2740,12 +2544,20 @@
     "count": 3
   },
   {
+    "name": "bcgc",
+    "count": 4
+  },
+  {
+    "name": "donasi",
+    "count": 4
+  },
+  {
     "name": "sell",
     "count": 3
   },
   {
     "name": "listbahasa",
-    "count": 4
+    "count": 3
   },
   {
     "name": "tinyurl",
@@ -2764,7 +2576,15 @@
     "count": 3
   },
   {
+    "name": "drive",
+    "count": 5
+  },
+  {
     "name": "luxurygold",
+    "count": 3
+  },
+  {
+    "name": "regmail",
     "count": 3
   },
   {
@@ -2796,6 +2616,10 @@
     "count": 3
   },
   {
+    "name": "delprem",
+    "count": 3
+  },
+  {
     "name": "gifs",
     "count": 3
   },
@@ -2808,12 +2632,20 @@
     "count": 3
   },
   {
+    "name": "bc",
+    "count": 4
+  },
+  {
     "name": "8gb",
     "count": 3
   },
   {
     "name": "jahy",
     "count": 3
+  },
+  {
+    "name": "lesbicek",
+    "count": 4
   },
   {
     "name": "addcoins",
@@ -2828,6 +2660,14 @@
     "count": 3
   },
   {
+    "name": "whatmusic",
+    "count": 3
+  },
+  {
+    "name": "ttslide",
+    "count": 6
+  },
+  {
     "name": "listvideo",
     "count": 3
   },
@@ -2840,6 +2680,10 @@
     "count": 3
   },
   {
+    "name": "store",
+    "count": 3
+  },
+  {
     "name": "pantek",
     "count": 3
   },
@@ -2848,87 +2692,15 @@
     "count": 3
   },
   {
+    "name": "tl",
+    "count": 3
+  },
+  {
     "name": "pixiv",
     "count": 3
   },
   {
     "name": "myka",
-    "count": 3
-  },
-  {
-    "name": "clearram",
-    "count": 3
-  },
-  {
-    "name": "adam",
-    "count": 3
-  },
-  {
-    "name": "yuki",
-    "count": 3
-  },
-  {
-    "name": "readvo",
-    "count": 3
-  },
-  {
-    "name": "tempmail",
-    "count": 3
-  },
-  {
-    "name": "newbie",
-    "count": 3
-  },
-  {
-    "name": "balasreport",
-    "count": 3
-  },
-  {
-    "name": "diff",
-    "count": 3
-  },
-  {
-    "name": "ted",
-    "count": 3
-  },
-  {
-    "name": "youtube",
-    "count": 6
-  },
-  {
-    "name": "minecraft-stalk",
-    "count": 3
-  },
-  {
-    "name": "txt2img",
-    "count": 3
-  },
-  {
-    "name": "registeronly",
-    "count": 3
-  },
-  {
-    "name": "updatelist",
-    "count": 3
-  },
-  {
-    "name": "toplimit",
-    "count": 3
-  },
-  {
-    "name": "cekbalance",
-    "count": 3
-  },
-  {
-    "name": "xnxx",
-    "count": 5
-  },
-  {
-    "name": "dana",
-    "count": 3
-  },
-  {
-    "name": "ttmonet",
     "count": 3
   },
   {
@@ -3000,6 +2772,10 @@
     "count": 2
   },
   {
+    "name": "txt2img",
+    "count": 2
+  },
+  {
     "name": "instatv",
     "count": 2
   },
@@ -3045,7 +2821,11 @@
   },
   {
     "name": "puisi",
-    "count": 5
+    "count": 2
+  },
+  {
+    "name": "clearram",
+    "count": 3
   },
   {
     "name": "49gb",
@@ -3065,6 +2845,10 @@
   },
   {
     "name": "total",
+    "count": 2
+  },
+  {
+    "name": "registeronly",
     "count": 2
   },
   {
@@ -3088,7 +2872,15 @@
     "count": 2
   },
   {
+    "name": "recolor",
+    "count": 18
+  },
+  {
     "name": "bdsm",
+    "count": 2
+  },
+  {
+    "name": "pinter",
     "count": 2
   },
   {
@@ -3116,6 +2908,10 @@
     "count": 2
   },
   {
+    "name": "ttsearch2",
+    "count": 2
+  },
+  {
     "name": "replicate",
     "count": 2
   },
@@ -3125,6 +2921,10 @@
   },
   {
     "name": "cekode",
+    "count": 2
+  },
+  {
+    "name": "updatelist",
     "count": 2
   },
   {
@@ -3148,12 +2948,24 @@
     "count": 2
   },
   {
+    "name": "adam",
+    "count": 2
+  },
+  {
     "name": "gempa",
     "count": 2
   },
   {
     "name": "sapi",
     "count": 2
+  },
+  {
+    "name": "deltebakbom",
+    "count": 2
+  },
+  {
+    "name": "backupsc",
+    "count": 5
   },
   {
     "name": "ytplay",
@@ -3164,6 +2976,10 @@
     "count": 2
   },
   {
+    "name": "abebocil",
+    "count": 3
+  },
+  {
     "name": "rem",
     "count": 2
   },
@@ -3172,7 +2988,19 @@
     "count": 2
   },
   {
+    "name": "yuki",
+    "count": 2
+  },
+  {
+    "name": "animediffusion",
+    "count": 4
+  },
+  {
     "name": "tomp4",
+    "count": 2
+  },
+  {
+    "name": "werewolf",
     "count": 2
   },
   {
@@ -3184,87 +3012,15 @@
     "count": 2
   },
   {
-    "name": "cekwaktu",
-    "count": 3
+    "name": "roblox-stalk",
+    "count": 4
   },
   {
-    "name": "buang",
-    "count": 2
+    "name": "antitagsw",
+    "count": 4
   },
   {
-    "name": "anticall",
-    "count": 2
-  },
-  {
-    "name": "infogempa",
-    "count": 2
-  },
-  {
-    "name": "kaga",
-    "count": 2
-  },
-  {
-    "name": "antiwame2",
-    "count": 2
-  },
-  {
-    "name": "rize",
-    "count": 2
-  },
-  {
-    "name": "doge",
-    "count": 2
-  },
-  {
-    "name": "minato",
-    "count": 2
-  },
-  {
-    "name": "cecan",
-    "count": 2
-  },
-  {
-    "name": "bingimg2",
-    "count": 2
-  },
-  {
-    "name": "ppcp",
-    "count": 2
-  },
-  {
-    "name": "listgist",
-    "count": 2
-  },
-  {
-    "name": "addcmd",
-    "count": 2
-  },
-  {
-    "name": "addstiker",
-    "count": 2
-  },
-  {
-    "name": "jadianime",
-    "count": 2
-  },
-  {
-    "name": "vimeo",
-    "count": 5
-  },
-  {
-    "name": "ryujin",
-    "count": 2
-  },
-  {
-    "name": "infocuaca",
-    "count": 2
-  },
-  {
-    "name": "bcsewa",
-    "count": 3
-  },
-  {
-    "name": "tiktokmonet",
+    "name": "hdr3",
     "count": 2
   },
   {
@@ -3285,7 +3041,7 @@
   },
   {
     "name": "next",
-    "count": 2
+    "count": 1
   },
   {
     "name": "delttt",
@@ -3306,6 +3062,10 @@
   {
     "name": "bcaudio",
     "count": 1
+  },
+  {
+    "name": "readvo",
+    "count": 3
   },
   {
     "name": "yta",
@@ -3356,11 +3116,19 @@
     "count": 1
   },
   {
+    "name": "cococlip",
+    "count": 3
+  },
+  {
     "name": "ssweb2",
     "count": 1
   },
   {
     "name": "unbanned",
+    "count": 1
+  },
+  {
+    "name": "cekwaktu",
     "count": 1
   },
   {
@@ -3396,6 +3164,10 @@
     "count": 1
   },
   {
+    "name": "buang",
+    "count": 2
+  },
+  {
     "name": "addcoin",
     "count": 1
   },
@@ -3428,6 +3200,10 @@
     "count": 1
   },
   {
+    "name": "gdrivedl",
+    "count": 1
+  },
+  {
     "name": "kaguya",
     "count": 1
   },
@@ -3437,6 +3213,10 @@
   },
   {
     "name": "cuckold",
+    "count": 1
+  },
+  {
+    "name": "anticall",
     "count": 1
   },
   {
@@ -3480,12 +3260,20 @@
     "count": 1
   },
   {
-    "name": "randomquran",
+    "name": "infogempa",
     "count": 2
+  },
+  {
+    "name": "randomquran",
+    "count": 1
   },
   {
     "name": "down",
     "count": 1
+  },
+  {
+    "name": "kaga",
+    "count": 2
   },
   {
     "name": "gcsider",
@@ -3497,6 +3285,10 @@
   },
   {
     "name": "pantex",
+    "count": 1
+  },
+  {
+    "name": "antiwame2",
     "count": 1
   },
   {
@@ -3528,6 +3320,10 @@
     "count": 1
   },
   {
+    "name": "rize",
+    "count": 1
+  },
+  {
     "name": "block",
     "count": 1
   },
@@ -3541,7 +3337,7 @@
   },
   {
     "name": "ukhty",
-    "count": 2
+    "count": 1
   },
   {
     "name": "nightcore",
@@ -3576,12 +3372,28 @@
     "count": 1
   },
   {
+    "name": "cekbalance",
+    "count": 1
+  },
+  {
+    "name": "tempmail",
+    "count": 3
+  },
+  {
+    "name": "doge",
+    "count": 2
+  },
+  {
     "name": "antidocument",
     "count": 1
   },
   {
     "name": "hijaber",
     "count": 1
+  },
+  {
+    "name": "minato",
+    "count": 2
   },
   {
     "name": "addvideo",
@@ -3612,6 +3424,14 @@
     "count": 1
   },
   {
+    "name": "ramalancuaca",
+    "count": 1
+  },
+  {
+    "name": "withdraw",
+    "count": 2
+  },
+  {
     "name": "listsurah",
     "count": 1
   },
@@ -3636,7 +3456,15 @@
     "count": 1
   },
   {
+    "name": "cecan",
+    "count": 2
+  },
+  {
     "name": "imagelist",
+    "count": 1
+  },
+  {
+    "name": "ryujin",
     "count": 1
   },
   {
@@ -3648,7 +3476,19 @@
     "count": 1
   },
   {
+    "name": "toanime",
+    "count": 1
+  },
+  {
+    "name": "bingimg2",
+    "count": 2
+  },
+  {
     "name": "petakbom",
+    "count": 1
+  },
+  {
+    "name": "infocuaca",
     "count": 1
   },
   {
@@ -3657,15 +3497,27 @@
   },
   {
     "name": "mikasa",
-    "count": 2
+    "count": 1
+  },
+  {
+    "name": "removebg2",
+    "count": 4
   },
   {
     "name": "kaori",
     "count": 1
   },
   {
+    "name": "newbie",
+    "count": 1
+  },
+  {
     "name": "delvn",
     "count": 1
+  },
+  {
+    "name": "balasreport",
+    "count": 3
   },
   {
     "name": "stopreport",
@@ -3676,12 +3528,36 @@
     "count": 1
   },
   {
+    "name": "creategist",
+    "count": 8
+  },
+  {
     "name": "kurbal",
     "count": 1
   },
   {
+    "name": "tolink",
+    "count": 3
+  },
+  {
     "name": "simisimi",
     "count": 1
+  },
+  {
+    "name": "topsaldo",
+    "count": 3
+  },
+  {
+    "name": "toplimit",
+    "count": 2
+  },
+  {
+    "name": "premium",
+    "count": 7
+  },
+  {
+    "name": "cekbio",
+    "count": 19
   },
   {
     "name": "asuna",
@@ -3704,20 +3580,52 @@
     "count": 1
   },
   {
+    "name": "delfile",
+    "count": 2
+  },
+  {
     "name": "getidgc",
     "count": 1
+  },
+  {
+    "name": "diff",
+    "count": 3
+  },
+  {
+    "name": "pedagang",
+    "count": 5
+  },
+  {
+    "name": "ppcp",
+    "count": 2
   },
   {
     "name": "dehaze",
     "count": 1
   },
   {
+    "name": "igsearch",
+    "count": 5
+  },
+  {
     "name": "ighastags",
     "count": 1
   },
   {
+    "name": "bstationdl",
+    "count": 13
+  },
+  {
     "name": "mcstalk",
     "count": 1
+  },
+  {
+    "name": "roblox",
+    "count": 18
+  },
+  {
+    "name": "wanumber",
+    "count": 38
   },
   {
     "name": "colorizer",
@@ -3728,143 +3636,39 @@
     "count": 1
   },
   {
+    "name": "ghiblistyle",
+    "count": 31
+  },
+  {
+    "name": "xnxxs",
+    "count": 1
+  },
+  {
+    "name": "setcmd",
+    "count": 7
+  },
+  {
+    "name": "listgist",
+    "count": 1
+  },
+  {
+    "name": "delcmd",
+    "count": 9
+  },
+  {
+    "name": "addcmd",
+    "count": 2
+  },
+  {
+    "name": "addstiker",
+    "count": 2
+  },
+  {
     "name": "tiktokstalk",
     "count": 1
   },
   {
-    "name": "dokter",
-    "count": 1
-  },
-  {
-    "name": "anticallgc",
-    "count": 1
-  },
-  {
-    "name": "justina",
-    "count": 1
-  },
-  {
-    "name": "pornbox",
-    "count": 1
-  },
-  {
-    "name": "sakura",
-    "count": 1
-  },
-  {
-    "name": "runtime",
-    "count": 1
-  },
-  {
-    "name": "delgist",
-    "count": 1
-  },
-  {
-    "name": "playsp",
-    "count": 1
-  },
-  {
-    "name": "kaneki",
-    "count": 1
-  },
-  {
-    "name": "qq",
-    "count": 2
-  },
-  {
-    "name": "bri",
-    "count": 1
-  },
-  {
-    "name": "listpremium",
-    "count": 1
-  },
-  {
-    "name": "adduang",
-    "count": 1
-  },
-  {
-    "name": "heroml",
-    "count": 1
-  },
-  {
-    "name": "alightmotion",
-    "count": 1
-  },
-  {
-    "name": "ihancer",
-    "count": 1
-  },
-  {
-    "name": "jadibot",
-    "count": 1
-  },
-  {
-    "name": "vietnam",
-    "count": 1
-  },
-  {
-    "name": "jeni",
-    "count": 2
-  },
-  {
-    "name": "jingga",
-    "count": 1
-  },
-  {
-    "name": "webtoapk",
-    "count": 15
-  },
-  {
-    "name": "vocalonly",
-    "count": 12
-  },
-  {
-    "name": "vocalremover",
-    "count": 5
-  },
-  {
     "name": "hdvideo",
-    "count": 13
-  },
-  {
-    "name": "searchstik",
-    "count": 1
-  },
-  {
-    "name": "lighteffects",
-    "count": 2
-  },
-  {
-    "name": "nezuko",
-    "count": 3
-  },
-  {
-    "name": "getbio",
-    "count": 1
-  },
-  {
-    "name": "aplod",
-    "count": 1
-  },
-  {
-    "name": "mosyne",
-    "count": 11
-  },
-  {
-    "name": "7gb",
-    "count": 1
-  },
-  {
-    "name": "quotesislamic",
-    "count": 2
-  },
-  {
-    "name": "ttdoc",
-    "count": 1
-  },
-  {
-    "name": "vocalsplit",
-    "count": 2
+    "count": 5
   }
 ]
