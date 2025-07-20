@@ -5,7 +5,7 @@
   },
   {
     "name": "ai",
-    "count": 21126
+    "count": 21131
   },
   {
     "name": "bratvid",
@@ -25,7 +25,7 @@
   },
   {
     "name": "tt",
-    "count": 15523
+    "count": 15530
   },
   {
     "name": "me",
@@ -37,7 +37,7 @@
   },
   {
     "name": "hd",
-    "count": 12541
+    "count": 12543
   },
   {
     "name": "afk",
@@ -69,7 +69,7 @@
   },
   {
     "name": "s",
-    "count": 1964
+    "count": 1967
   },
   {
     "name": "tebakgambar",
@@ -81,7 +81,7 @@
   },
   {
     "name": "qc",
-    "count": 1190
+    "count": 1191
   },
   {
     "name": "mining",
@@ -97,11 +97,11 @@
   },
   {
     "name": "d",
-    "count": 1396
+    "count": 1398
   },
   {
     "name": "tes",
-    "count": 945
+    "count": 946
   },
   {
     "name": "ytmp4",
@@ -117,7 +117,7 @@
   },
   {
     "name": "wink",
-    "count": 769
+    "count": 770
   },
   {
     "name": "ig",
@@ -185,7 +185,7 @@
   },
   {
     "name": "getcase",
-    "count": 344
+    "count": 347
   },
   {
     "name": "get",
@@ -229,7 +229,7 @@
   },
   {
     "name": "delete",
-    "count": 292
+    "count": 293
   },
   {
     "name": "gpt",
@@ -245,7 +245,7 @@
   },
   {
     "name": "ttsearch",
-    "count": 458
+    "count": 460
   },
   {
     "name": "metaai",
@@ -461,7 +461,7 @@
   },
   {
     "name": "fb",
-    "count": 127
+    "count": 128
   },
   {
     "name": "saldo",
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "tiktokaudio",
-    "count": 31
+    "count": 32
   },
   {
     "name": "darkjokes",
@@ -1213,7 +1213,7 @@
   },
   {
     "name": "stalkmenu",
-    "count": 21
+    "count": 22
   },
   {
     "name": "get2",
@@ -1817,7 +1817,7 @@
   },
   {
     "name": "tiktoks2",
-    "count": 8
+    "count": 9
   },
   {
     "name": "autoaigc",
@@ -2153,7 +2153,7 @@
   },
   {
     "name": "playspotify",
-    "count": 5
+    "count": 6
   },
   {
     "name": "swm2",
@@ -3702,5 +3702,25 @@
   {
     "name": "hdmosyne",
     "count": 2
+  },
+  {
+    "name": "alldl",
+    "count": 9
+  },
+  {
+    "name": "shopeepay",
+    "count": 1
+  },
+  {
+    "name": "dana",
+    "count": 1
+  },
+  {
+    "name": "playsp",
+    "count": 6
+  },
+  {
+    "name": "hdplus",
+    "count": 1
   }
 ]
