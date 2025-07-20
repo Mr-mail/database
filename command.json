@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 24357
+    "count": 24400
   },
   {
     "name": "ai",
@@ -9,7 +9,7 @@
   },
   {
     "name": "bratvid",
-    "count": 18220
+    "count": 18230
   },
   {
     "name": "play",
@@ -21,11 +21,11 @@
   },
   {
     "name": "ytmp3",
-    "count": 14397
+    "count": 14402
   },
   {
     "name": "tt",
-    "count": 15465
+    "count": 15494
   },
   {
     "name": "me",
@@ -37,11 +37,11 @@
   },
   {
     "name": "hd",
-    "count": 12483
+    "count": 12512
   },
   {
     "name": "afk",
-    "count": 11780
+    "count": 11781
   },
   {
     "name": "menu",
@@ -69,7 +69,7 @@
   },
   {
     "name": "s",
-    "count": 1958
+    "count": 1964
   },
   {
     "name": "tebakgambar",
@@ -97,11 +97,11 @@
   },
   {
     "name": "d",
-    "count": 1360
+    "count": 1364
   },
   {
     "name": "tes",
-    "count": 940
+    "count": 941
   },
   {
     "name": "ytmp4",
@@ -117,11 +117,11 @@
   },
   {
     "name": "wink",
-    "count": 755
+    "count": 758
   },
   {
     "name": "ig",
-    "count": 750
+    "count": 752
   },
   {
     "name": "h",
@@ -133,7 +133,7 @@
   },
   {
     "name": "tiktok",
-    "count": 524
+    "count": 525
   },
   {
     "name": "hidetag",
@@ -173,7 +173,7 @@
   },
   {
     "name": "audio",
-    "count": 365
+    "count": 368
   },
   {
     "name": "ytdoc",
@@ -245,7 +245,7 @@
   },
   {
     "name": "ttsearch",
-    "count": 428
+    "count": 437
   },
   {
     "name": "metaai",
@@ -277,7 +277,7 @@
   },
   {
     "name": "getpp",
-    "count": 218
+    "count": 219
   },
   {
     "name": "linkgc",
@@ -357,7 +357,7 @@
   },
   {
     "name": "toimg",
-    "count": 180
+    "count": 181
   },
   {
     "name": "berburu",
@@ -937,7 +937,7 @@
   },
   {
     "name": "ttaudio",
-    "count": 49
+    "count": 50
   },
   {
     "name": "antiimage",
@@ -1129,7 +1129,7 @@
   },
   {
     "name": "ttmp3",
-    "count": 22
+    "count": 23
   },
   {
     "name": "tambah",
@@ -1829,7 +1829,7 @@
   },
   {
     "name": "delsampah",
-    "count": 9
+    "count": 10
   },
   {
     "name": "transferlimit",
@@ -1957,7 +1957,7 @@
   },
   {
     "name": "test",
-    "count": 9
+    "count": 10
   },
   {
     "name": "demote",
@@ -3309,7 +3309,7 @@
   },
   {
     "name": "bingimage",
-    "count": 1
+    "count": 2
   },
   {
     "name": "aiimg",
@@ -3637,7 +3637,7 @@
   },
   {
     "name": "ghiblistyle",
-    "count": 32
+    "count": 35
   },
   {
     "name": "xnxxs",
@@ -3690,5 +3690,9 @@
   {
     "name": "searchstik",
     "count": 4
+  },
+  {
+    "name": "ttdoc",
+    "count": 1
   }
 ]
