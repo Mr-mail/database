@@ -1,19 +1,19 @@
 [
   {
     "name": "brat",
-    "count": 24306
+    "count": 24341
   },
   {
     "name": "ai",
-    "count": 21116
+    "count": 21117
   },
   {
     "name": "bratvid",
-    "count": 18214
+    "count": 18216
   },
   {
     "name": "play",
-    "count": 18064
+    "count": 18067
   },
   {
     "name": "bantuan",
@@ -25,7 +25,7 @@
   },
   {
     "name": "tt",
-    "count": 15394
+    "count": 15434
   },
   {
     "name": "me",
@@ -37,15 +37,15 @@
   },
   {
     "name": "hd",
-    "count": 12454
+    "count": 12464
   },
   {
     "name": "afk",
-    "count": 11773
+    "count": 11775
   },
   {
     "name": "menu",
-    "count": 9877
+    "count": 9878
   },
   {
     "name": "kuis",
@@ -69,7 +69,7 @@
   },
   {
     "name": "s",
-    "count": 1924
+    "count": 1953
   },
   {
     "name": "tebakgambar",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 993
+    "count": 997
   },
   {
     "name": "kick",
@@ -97,11 +97,11 @@
   },
   {
     "name": "d",
-    "count": 1346
+    "count": 1356
   },
   {
     "name": "tes",
-    "count": 936
+    "count": 940
   },
   {
     "name": "ytmp4",
@@ -117,11 +117,11 @@
   },
   {
     "name": "wink",
-    "count": 737
+    "count": 753
   },
   {
     "name": "ig",
-    "count": 731
+    "count": 743
   },
   {
     "name": "h",
@@ -133,7 +133,7 @@
   },
   {
     "name": "tiktok",
-    "count": 520
+    "count": 522
   },
   {
     "name": "hidetag",
@@ -185,7 +185,7 @@
   },
   {
     "name": "getcase",
-    "count": 343
+    "count": 344
   },
   {
     "name": "get",
@@ -245,11 +245,11 @@
   },
   {
     "name": "ttsearch",
-    "count": 416
+    "count": 420
   },
   {
     "name": "metaai",
-    "count": 220
+    "count": 222
   },
   {
     "name": "tr",
@@ -273,7 +273,7 @@
   },
   {
     "name": "del",
-    "count": 216
+    "count": 223
   },
   {
     "name": "getpp",
@@ -281,7 +281,7 @@
   },
   {
     "name": "linkgc",
-    "count": 218
+    "count": 219
   },
   {
     "name": "casino",
@@ -301,7 +301,7 @@
   },
   {
     "name": "jokowi",
-    "count": 211
+    "count": 212
   },
   {
     "name": "yts",
@@ -337,7 +337,7 @@
   },
   {
     "name": "ai2",
-    "count": 162
+    "count": 164
   },
   {
     "name": "collect",
@@ -445,7 +445,7 @@
   },
   {
     "name": "remini",
-    "count": 130
+    "count": 135
   },
   {
     "name": "ceksifat",
@@ -761,7 +761,7 @@
   },
   {
     "name": "removebg",
-    "count": 55
+    "count": 71
   },
   {
     "name": "downloadmenu",
@@ -777,7 +777,7 @@
   },
   {
     "name": "megawati",
-    "count": 48
+    "count": 49
   },
   {
     "name": "bokep",
@@ -817,7 +817,7 @@
   },
   {
     "name": "ai3",
-    "count": 44
+    "count": 47
   },
   {
     "name": "listprem",
@@ -1173,7 +1173,7 @@
   },
   {
     "name": "imagemenu",
-    "count": 23
+    "count": 24
   },
   {
     "name": "npmjs",
@@ -1349,7 +1349,7 @@
   },
   {
     "name": "kickme",
-    "count": 16
+    "count": 17
   },
   {
     "name": "pantun",
@@ -1721,7 +1721,7 @@
   },
   {
     "name": "addfile",
-    "count": 14
+    "count": 17
   },
   {
     "name": "goblok",
@@ -3686,5 +3686,9 @@
   {
     "name": "webtoapk",
     "count": 2
+  },
+  {
+    "name": "searchstik",
+    "count": 4
   }
 ]
