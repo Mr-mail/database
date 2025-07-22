@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 24635
+    "count": 24642
   },
   {
     "name": "ai",
-    "count": 21195
+    "count": 21196
   },
   {
     "name": "bratvid",
@@ -25,7 +25,7 @@
   },
   {
     "name": "tt",
-    "count": 15764
+    "count": 15768
   },
   {
     "name": "me",
@@ -37,15 +37,15 @@
   },
   {
     "name": "hd",
-    "count": 12628
+    "count": 12633
   },
   {
     "name": "afk",
-    "count": 11792
+    "count": 11794
   },
   {
     "name": "menu",
-    "count": 9888
+    "count": 9892
   },
   {
     "name": "kuis",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1012
+    "count": 1013
   },
   {
     "name": "kick",
@@ -273,7 +273,7 @@
   },
   {
     "name": "del",
-    "count": 225
+    "count": 226
   },
   {
     "name": "getpp",
@@ -541,7 +541,7 @@
   },
   {
     "name": "nsfwmenu",
-    "count": 85
+    "count": 87
   },
   {
     "name": "owner",
@@ -577,7 +577,7 @@
   },
   {
     "name": "gamemenu",
-    "count": 84
+    "count": 85
   },
   {
     "name": "caklontong",
@@ -693,7 +693,7 @@
   },
   {
     "name": "ri",
-    "count": 68
+    "count": 69
   },
   {
     "name": "kali",
@@ -897,7 +897,7 @@
   },
   {
     "name": "capcut",
-    "count": 37
+    "count": 38
   },
   {
     "name": "buy",
@@ -1045,7 +1045,7 @@
   },
   {
     "name": "pluginmenu",
-    "count": 26
+    "count": 27
   },
   {
     "name": "kucing",
@@ -1173,7 +1173,7 @@
   },
   {
     "name": "imagemenu",
-    "count": 25
+    "count": 26
   },
   {
     "name": "npmjs",
@@ -1329,7 +1329,7 @@
   },
   {
     "name": "textmenu",
-    "count": 18
+    "count": 19
   },
   {
     "name": "tolol",
@@ -2989,7 +2989,7 @@
   },
   {
     "name": "yuki",
-    "count": 2
+    "count": 3
   },
   {
     "name": "animediffusion",
@@ -3457,7 +3457,7 @@
   },
   {
     "name": "cecan",
-    "count": 2
+    "count": 3
   },
   {
     "name": "imagelist",
@@ -3737,6 +3737,10 @@
   },
   {
     "name": "xnxxdl",
+    "count": 1
+  },
+  {
+    "name": "kagura",
     "count": 1
   }
 ]
