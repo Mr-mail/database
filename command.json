@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 24841
+    "count": 24843
   },
   {
     "name": "ai",
@@ -9,11 +9,11 @@
   },
   {
     "name": "bratvid",
-    "count": 18255
+    "count": 18256
   },
   {
     "name": "play",
-    "count": 18210
+    "count": 18211
   },
   {
     "name": "bantuan",
@@ -25,11 +25,11 @@
   },
   {
     "name": "tt",
-    "count": 16119
+    "count": 16127
   },
   {
     "name": "me",
-    "count": 14189
+    "count": 14190
   },
   {
     "name": "susunkata",
@@ -45,7 +45,7 @@
   },
   {
     "name": "menu",
-    "count": 9905
+    "count": 9906
   },
   {
     "name": "kuis",
@@ -81,7 +81,7 @@
   },
   {
     "name": "qc",
-    "count": 1212
+    "count": 1215
   },
   {
     "name": "mining",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1022
+    "count": 1024
   },
   {
     "name": "kick",
@@ -133,7 +133,7 @@
   },
   {
     "name": "tiktok",
-    "count": 609
+    "count": 610
   },
   {
     "name": "hidetag",
@@ -185,7 +185,7 @@
   },
   {
     "name": "getcase",
-    "count": 355
+    "count": 356
   },
   {
     "name": "get",
@@ -245,7 +245,7 @@
   },
   {
     "name": "ttsearch",
-    "count": 590
+    "count": 591
   },
   {
     "name": "metaai",
@@ -505,7 +505,7 @@
   },
   {
     "name": "ttp",
-    "count": 116
+    "count": 117
   },
   {
     "name": "cekpacar",
@@ -677,7 +677,7 @@
   },
   {
     "name": "stiker",
-    "count": 69
+    "count": 70
   },
   {
     "name": "join",
@@ -821,7 +821,7 @@
   },
   {
     "name": "listprem",
-    "count": 49
+    "count": 50
   },
   {
     "name": "setppbot",
@@ -861,7 +861,7 @@
   },
   {
     "name": "tiktoksearch",
-    "count": 86
+    "count": 88
   },
   {
     "name": "google",
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "stikersearch",
-    "count": 18
+    "count": 19
   },
   {
     "name": "dm",
@@ -3725,7 +3725,7 @@
   },
   {
     "name": "dragonify",
-    "count": 1
+    "count": 2
   },
   {
     "name": "hitamputih",
@@ -3766,5 +3766,13 @@
   {
     "name": "cek",
     "count": 2
+  },
+  {
+    "name": "delstiker",
+    "count": 1
+  },
+  {
+    "name": "tiktoksearch2",
+    "count": 1
   }
 ]
