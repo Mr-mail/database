@@ -1,15 +1,15 @@
 [
   {
     "name": "brat",
-    "count": 25111
+    "count": 25118
   },
   {
     "name": "ai",
-    "count": 21286
+    "count": 21289
   },
   {
     "name": "bratvid",
-    "count": 18272
+    "count": 18277
   },
   {
     "name": "play",
@@ -21,7 +21,7 @@
   },
   {
     "name": "tt",
-    "count": 16515
+    "count": 16520
   },
   {
     "name": "ytmp3",
@@ -33,7 +33,7 @@
   },
   {
     "name": "hd",
-    "count": 12815
+    "count": 12820
   },
   {
     "name": "susunkata",
@@ -65,7 +65,7 @@
   },
   {
     "name": "s",
-    "count": 2103
+    "count": 2104
   },
   {
     "name": "tebakhero",
@@ -73,7 +73,7 @@
   },
   {
     "name": "d",
-    "count": 1605
+    "count": 1609
   },
   {
     "name": "tebakgambar",
@@ -93,7 +93,7 @@
   },
   {
     "name": "tes",
-    "count": 981
+    "count": 982
   },
   {
     "name": "mining",
@@ -101,7 +101,7 @@
   },
   {
     "name": "ig",
-    "count": 962
+    "count": 973
   },
   {
     "name": "kick",
@@ -129,11 +129,11 @@
   },
   {
     "name": "tiktok",
-    "count": 637
+    "count": 639
   },
   {
     "name": "ttsearch",
-    "count": 642
+    "count": 648
   },
   {
     "name": "h",
@@ -189,7 +189,7 @@
   },
   {
     "name": "get",
-    "count": 342
+    "count": 343
   },
   {
     "name": "jual",
@@ -409,7 +409,7 @@
   },
   {
     "name": "fb",
-    "count": 136
+    "count": 141
   },
   {
     "name": "tebakaplikasi",
@@ -453,7 +453,7 @@
   },
   {
     "name": "prabowo",
-    "count": 117
+    "count": 118
   },
   {
     "name": "say",
@@ -1029,7 +1029,7 @@
   },
   {
     "name": "mfdl",
-    "count": 31
+    "count": 32
   },
   {
     "name": "animestyle",
@@ -3810,5 +3810,9 @@
   {
     "name": "artikel",
     "count": 1
+  },
+  {
+    "name": "4gb",
+    "count": 7
   }
 ]
