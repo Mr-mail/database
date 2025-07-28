@@ -1,19 +1,19 @@
 [
   {
     "name": "brat",
-    "count": 25495
+    "count": 25554
   },
   {
     "name": "ai",
-    "count": 21378
+    "count": 21380
   },
   {
     "name": "bratvid",
-    "count": 18293
+    "count": 18298
   },
   {
     "name": "play",
-    "count": 18318
+    "count": 18322
   },
   {
     "name": "bantuan",
@@ -21,7 +21,7 @@
   },
   {
     "name": "tt",
-    "count": 16828
+    "count": 16871
   },
   {
     "name": "ytmp3",
@@ -33,7 +33,7 @@
   },
   {
     "name": "hd",
-    "count": 12912
+    "count": 12927
   },
   {
     "name": "susunkata",
@@ -41,7 +41,7 @@
   },
   {
     "name": "afk",
-    "count": 11831
+    "count": 11833
   },
   {
     "name": "menu",
@@ -65,7 +65,7 @@
   },
   {
     "name": "s",
-    "count": 2126
+    "count": 2135
   },
   {
     "name": "tebakhero",
@@ -73,7 +73,7 @@
   },
   {
     "name": "d",
-    "count": 1691
+    "count": 1697
   },
   {
     "name": "tebakgambar",
@@ -81,11 +81,11 @@
   },
   {
     "name": "qc",
-    "count": 1248
+    "count": 1262
   },
   {
     "name": "pin",
-    "count": 1169
+    "count": 1174
   },
   {
     "name": "allmenu",
@@ -93,11 +93,11 @@
   },
   {
     "name": "tes",
-    "count": 984
+    "count": 985
   },
   {
     "name": "ig",
-    "count": 1011
+    "count": 1015
   },
   {
     "name": "mining",
@@ -109,7 +109,7 @@
   },
   {
     "name": "wink",
-    "count": 863
+    "count": 865
   },
   {
     "name": "family100",
@@ -117,7 +117,7 @@
   },
   {
     "name": "ytmp4",
-    "count": 714
+    "count": 715
   },
   {
     "name": "nyerah",
@@ -125,7 +125,7 @@
   },
   {
     "name": "ttsearch",
-    "count": 725
+    "count": 734
   },
   {
     "name": "buyglimit",
@@ -133,7 +133,7 @@
   },
   {
     "name": "tiktok",
-    "count": 656
+    "count": 657
   },
   {
     "name": "h",
@@ -209,7 +209,7 @@
   },
   {
     "name": "ping",
-    "count": 299
+    "count": 301
   },
   {
     "name": "asahotak",
@@ -317,11 +317,11 @@
   },
   {
     "name": "toimg",
-    "count": 187
+    "count": 188
   },
   {
     "name": "tourl",
-    "count": 186
+    "count": 187
   },
   {
     "name": "cekganteng",
@@ -2141,7 +2141,7 @@
   },
   {
     "name": "youtube",
-    "count": 7
+    "count": 8
   },
   {
     "name": "qccode",
@@ -2265,7 +2265,7 @@
   },
   {
     "name": "stat",
-    "count": 7
+    "count": 8
   },
   {
     "name": "5gb",
@@ -3641,7 +3641,7 @@
   },
   {
     "name": "igreels",
-    "count": 1
+    "count": 2
   },
   {
     "name": "unblack",
@@ -3825,6 +3825,10 @@
   },
   {
     "name": "gruponly",
+    "count": 1
+  },
+  {
+    "name": "ted",
     "count": 1
   }
 ]
