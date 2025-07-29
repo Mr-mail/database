@@ -1,19 +1,19 @@
 [
   {
     "name": "brat",
-    "count": 24920
+    "count": 24958
   },
   {
     "name": "ai",
-    "count": 21265
+    "count": 21267
   },
   {
     "name": "bratvid",
-    "count": 18256
+    "count": 18260
   },
   {
     "name": "play",
-    "count": 18214
+    "count": 18218
   },
   {
     "name": "bantuan",
@@ -21,11 +21,11 @@
   },
   {
     "name": "ytmp3",
-    "count": 14425
+    "count": 14426
   },
   {
     "name": "tt",
-    "count": 16238
+    "count": 16282
   },
   {
     "name": "me",
@@ -37,7 +37,7 @@
   },
   {
     "name": "hd",
-    "count": 12741
+    "count": 12755
   },
   {
     "name": "afk",
@@ -45,7 +45,7 @@
   },
   {
     "name": "menu",
-    "count": 9912
+    "count": 9913
   },
   {
     "name": "kuis",
@@ -69,7 +69,7 @@
   },
   {
     "name": "s",
-    "count": 2039
+    "count": 2041
   },
   {
     "name": "tebakgambar",
@@ -81,7 +81,7 @@
   },
   {
     "name": "qc",
-    "count": 1238
+    "count": 1249
   },
   {
     "name": "mining",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1028
+    "count": 1030
   },
   {
     "name": "kick",
@@ -97,7 +97,7 @@
   },
   {
     "name": "d",
-    "count": 1525
+    "count": 1527
   },
   {
     "name": "tes",
@@ -117,15 +117,15 @@
   },
   {
     "name": "wink",
-    "count": 820
+    "count": 825
   },
   {
     "name": "ig",
-    "count": 862
+    "count": 865
   },
   {
     "name": "h",
-    "count": 534
+    "count": 535
   },
   {
     "name": "tebakff",
@@ -169,7 +169,7 @@
   },
   {
     "name": "wm",
-    "count": 479
+    "count": 480
   },
   {
     "name": "audio",
@@ -245,7 +245,7 @@
   },
   {
     "name": "ttsearch",
-    "count": 603
+    "count": 608
   },
   {
     "name": "metaai",
@@ -281,7 +281,7 @@
   },
   {
     "name": "linkgc",
-    "count": 226
+    "count": 227
   },
   {
     "name": "casino",
@@ -489,7 +489,7 @@
   },
   {
     "name": "tomp3",
-    "count": 115
+    "count": 116
   },
   {
     "name": "open",
@@ -661,7 +661,7 @@
   },
   {
     "name": "instagram",
-    "count": 61
+    "count": 63
   },
   {
     "name": "self",
@@ -677,7 +677,7 @@
   },
   {
     "name": "stiker",
-    "count": 70
+    "count": 71
   },
   {
     "name": "join",
@@ -937,7 +937,7 @@
   },
   {
     "name": "ttaudio",
-    "count": 55
+    "count": 56
   },
   {
     "name": "antiimage",
@@ -1289,7 +1289,7 @@
   },
   {
     "name": "profile",
-    "count": 18
+    "count": 19
   },
   {
     "name": "perawan",
@@ -1541,7 +1541,7 @@
   },
   {
     "name": "getmusic",
-    "count": 14
+    "count": 16
   },
   {
     "name": "cekprem",
@@ -2037,7 +2037,7 @@
   },
   {
     "name": "1917style",
-    "count": 6
+    "count": 8
   },
   {
     "name": "neko2",
@@ -2153,7 +2153,7 @@
   },
   {
     "name": "playspotify",
-    "count": 6
+    "count": 8
   },
   {
     "name": "swm2",
@@ -3782,5 +3782,9 @@
   {
     "name": "ted",
     "count": 1
+  },
+  {
+    "name": "veo3",
+    "count": 4
   }
 ]
