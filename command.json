@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 25182
+    "count": 25204
   },
   {
     "name": "ai",
-    "count": 21332
+    "count": 21336
   },
   {
     "name": "bratvid",
@@ -25,11 +25,11 @@
   },
   {
     "name": "tt",
-    "count": 16662
+    "count": 16672
   },
   {
     "name": "me",
-    "count": 14208
+    "count": 14209
   },
   {
     "name": "susunkata",
@@ -65,7 +65,7 @@
   },
   {
     "name": "tebakhero",
-    "count": 1983
+    "count": 1984
   },
   {
     "name": "s",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1039
+    "count": 1040
   },
   {
     "name": "kick",
@@ -101,7 +101,7 @@
   },
   {
     "name": "tes",
-    "count": 1046
+    "count": 1047
   },
   {
     "name": "ytmp4",
@@ -121,7 +121,7 @@
   },
   {
     "name": "ig",
-    "count": 912
+    "count": 913
   },
   {
     "name": "h",
@@ -661,7 +661,7 @@
   },
   {
     "name": "instagram",
-    "count": 64
+    "count": 67
   },
   {
     "name": "self",
@@ -861,7 +861,7 @@
   },
   {
     "name": "tiktoksearch",
-    "count": 93
+    "count": 95
   },
   {
     "name": "google",
@@ -949,7 +949,7 @@
   },
   {
     "name": "wibu",
-    "count": 41
+    "count": 42
   },
   {
     "name": "setprofil",
@@ -1413,7 +1413,7 @@
   },
   {
     "name": "faktaunik",
-    "count": 38
+    "count": 43
   },
   {
     "name": "getch",
@@ -1633,7 +1633,7 @@
   },
   {
     "name": "ceritahoror",
-    "count": 13
+    "count": 14
   },
   {
     "name": "udanlaurenzarixzyraul",
@@ -3797,6 +3797,10 @@
   },
   {
     "name": "artikel",
+    "count": 1
+  },
+  {
+    "name": "isuzu",
     "count": 1
   }
 ]
