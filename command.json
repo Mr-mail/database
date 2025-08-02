@@ -1,19 +1,19 @@
 [
   {
     "name": "brat",
-    "count": 25389
+    "count": 25401
   },
   {
     "name": "ai",
-    "count": 21377
+    "count": 21378
   },
   {
     "name": "bratvid",
-    "count": 18278
+    "count": 18282
   },
   {
     "name": "play",
-    "count": 18261
+    "count": 18262
   },
   {
     "name": "bantuan",
@@ -25,7 +25,7 @@
   },
   {
     "name": "tt",
-    "count": 16925
+    "count": 16959
   },
   {
     "name": "me",
@@ -37,7 +37,7 @@
   },
   {
     "name": "hd",
-    "count": 12944
+    "count": 12954
   },
   {
     "name": "afk",
@@ -45,7 +45,7 @@
   },
   {
     "name": "menu",
-    "count": 9934
+    "count": 9936
   },
   {
     "name": "kuis",
@@ -69,7 +69,7 @@
   },
   {
     "name": "s",
-    "count": 2160
+    "count": 2163
   },
   {
     "name": "tebakgambar",
@@ -77,11 +77,11 @@
   },
   {
     "name": "pin",
-    "count": 1165
+    "count": 1169
   },
   {
     "name": "qc",
-    "count": 1269
+    "count": 1272
   },
   {
     "name": "mining",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1050
+    "count": 1051
   },
   {
     "name": "kick",
@@ -97,11 +97,11 @@
   },
   {
     "name": "d",
-    "count": 1649
+    "count": 1653
   },
   {
     "name": "tes",
-    "count": 1056
+    "count": 1057
   },
   {
     "name": "ytmp4",
@@ -121,7 +121,7 @@
   },
   {
     "name": "ig",
-    "count": 944
+    "count": 961
   },
   {
     "name": "h",
@@ -133,7 +133,7 @@
   },
   {
     "name": "tiktok",
-    "count": 677
+    "count": 678
   },
   {
     "name": "hidetag",
@@ -229,7 +229,7 @@
   },
   {
     "name": "delete",
-    "count": 326
+    "count": 327
   },
   {
     "name": "gpt",
@@ -545,7 +545,7 @@
   },
   {
     "name": "owner",
-    "count": 86
+    "count": 87
   },
   {
     "name": "masadepan",
@@ -573,7 +573,7 @@
   },
   {
     "name": "infogc",
-    "count": 80
+    "count": 83
   },
   {
     "name": "gamemenu",
@@ -597,7 +597,7 @@
   },
   {
     "name": "limit",
-    "count": 95
+    "count": 96
   },
   {
     "name": "cekhost",
@@ -761,7 +761,7 @@
   },
   {
     "name": "removebg",
-    "count": 82
+    "count": 84
   },
   {
     "name": "downloadmenu",
@@ -769,7 +769,7 @@
   },
   {
     "name": "antibot",
-    "count": 53
+    "count": 55
   },
   {
     "name": "getname",
@@ -1589,7 +1589,7 @@
   },
   {
     "name": "antibot2",
-    "count": 11
+    "count": 13
   },
   {
     "name": "antipolling",
@@ -3801,6 +3801,14 @@
   },
   {
     "name": "isuzu",
+    "count": 1
+  },
+  {
+    "name": "brat2",
+    "count": 2
+  },
+  {
+    "name": "brat3",
     "count": 1
   }
 ]
