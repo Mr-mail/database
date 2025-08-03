@@ -1,19 +1,19 @@
 [
   {
     "name": "brat",
-    "count": 25795
+    "count": 25824
   },
   {
     "name": "ai",
-    "count": 21446
+    "count": 21448
   },
   {
     "name": "bratvid",
-    "count": 18307
+    "count": 18308
   },
   {
     "name": "play",
-    "count": 18300
+    "count": 18302
   },
   {
     "name": "bantuan",
@@ -21,23 +21,23 @@
   },
   {
     "name": "ytmp3",
-    "count": 14448
+    "count": 14451
   },
   {
     "name": "tt",
-    "count": 17312
+    "count": 17363
   },
   {
     "name": "me",
-    "count": 14227
+    "count": 14230
   },
   {
     "name": "susunkata",
-    "count": 12558
+    "count": 12561
   },
   {
     "name": "hd",
-    "count": 13087
+    "count": 13096
   },
   {
     "name": "afk",
@@ -69,7 +69,7 @@
   },
   {
     "name": "s",
-    "count": 2199
+    "count": 2220
   },
   {
     "name": "tebakgambar",
@@ -81,7 +81,7 @@
   },
   {
     "name": "qc",
-    "count": 1297
+    "count": 1298
   },
   {
     "name": "mining",
@@ -97,11 +97,11 @@
   },
   {
     "name": "d",
-    "count": 1747
+    "count": 1760
   },
   {
     "name": "tes",
-    "count": 1061
+    "count": 1062
   },
   {
     "name": "ytmp4",
@@ -117,7 +117,7 @@
   },
   {
     "name": "wink",
-    "count": 905
+    "count": 906
   },
   {
     "name": "ig",
@@ -125,7 +125,7 @@
   },
   {
     "name": "h",
-    "count": 566
+    "count": 567
   },
   {
     "name": "tebakff",
@@ -141,7 +141,7 @@
   },
   {
     "name": "mingguan",
-    "count": 464
+    "count": 465
   },
   {
     "name": "math",
@@ -161,7 +161,7 @@
   },
   {
     "name": "bulanan",
-    "count": 370
+    "count": 372
   },
   {
     "name": "jual",
@@ -177,7 +177,7 @@
   },
   {
     "name": "ytdoc",
-    "count": 381
+    "count": 383
   },
   {
     "name": "tebakhewan",
@@ -185,7 +185,7 @@
   },
   {
     "name": "getcase",
-    "count": 369
+    "count": 372
   },
   {
     "name": "get",
@@ -229,7 +229,7 @@
   },
   {
     "name": "delete",
-    "count": 331
+    "count": 332
   },
   {
     "name": "gpt",
@@ -273,7 +273,7 @@
   },
   {
     "name": "del",
-    "count": 242
+    "count": 243
   },
   {
     "name": "getpp",
@@ -281,7 +281,7 @@
   },
   {
     "name": "linkgc",
-    "count": 235
+    "count": 236
   },
   {
     "name": "casino",
@@ -301,7 +301,7 @@
   },
   {
     "name": "jokowi",
-    "count": 216
+    "count": 217
   },
   {
     "name": "yts",
@@ -321,7 +321,7 @@
   },
   {
     "name": "tourl",
-    "count": 185
+    "count": 186
   },
   {
     "name": "ulartangga",
@@ -329,7 +329,7 @@
   },
   {
     "name": "rvo",
-    "count": 172
+    "count": 174
   },
   {
     "name": "suit",
@@ -357,7 +357,7 @@
   },
   {
     "name": "toimg",
-    "count": 190
+    "count": 192
   },
   {
     "name": "berburu",
@@ -393,7 +393,7 @@
   },
   {
     "name": "set",
-    "count": 146
+    "count": 148
   },
   {
     "name": "tebaksiapa",
@@ -737,7 +737,7 @@
   },
   {
     "name": "yt",
-    "count": 61
+    "count": 62
   },
   {
     "name": "joinrpg",
@@ -829,7 +829,7 @@
   },
   {
     "name": "pm",
-    "count": 48
+    "count": 49
   },
   {
     "name": "tebakchara",
@@ -885,7 +885,7 @@
   },
   {
     "name": "add",
-    "count": 37
+    "count": 38
   },
   {
     "name": "antitoxic",
@@ -1417,7 +1417,7 @@
   },
   {
     "name": "getch",
-    "count": 16
+    "count": 17
   },
   {
     "name": "tesai",
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "listgc",
-    "count": 15
+    "count": 16
   },
   {
     "name": "bl",
@@ -2469,7 +2469,7 @@
   },
   {
     "name": "jpm2",
-    "count": 4
+    "count": 5
   },
   {
     "name": "listvn",
@@ -3345,7 +3345,7 @@
   },
   {
     "name": "delsetwelcome",
-    "count": 1
+    "count": 2
   },
   {
     "name": "icon",
@@ -3789,7 +3789,7 @@
   },
   {
     "name": "sidompul",
-    "count": 5
+    "count": 6
   },
   {
     "name": "nezuko",
@@ -3810,5 +3810,9 @@
   {
     "name": "brat3",
     "count": 1
+  },
+  {
+    "name": "ttstc",
+    "count": 2
   }
 ]
