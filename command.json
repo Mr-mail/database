@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 26010
+    "count": 26027
   },
   {
     "name": "ai",
-    "count": 21474
+    "count": 21475
   },
   {
     "name": "bratvid",
@@ -17,7 +17,7 @@
   },
   {
     "name": "bantuan",
-    "count": 17374
+    "count": 17386
   },
   {
     "name": "ytmp3",
@@ -25,19 +25,19 @@
   },
   {
     "name": "tt",
-    "count": 17572
+    "count": 17600
   },
   {
     "name": "me",
-    "count": 14252
+    "count": 14263
   },
   {
     "name": "susunkata",
-    "count": 12569
+    "count": 12601
   },
   {
     "name": "hd",
-    "count": 13138
+    "count": 13144
   },
   {
     "name": "afk",
@@ -53,11 +53,11 @@
   },
   {
     "name": "slot",
-    "count": 4362
+    "count": 4370
   },
   {
     "name": "tebakkata",
-    "count": 4018
+    "count": 4030
   },
   {
     "name": "tebakjenaka",
@@ -69,7 +69,7 @@
   },
   {
     "name": "s",
-    "count": 2344
+    "count": 2347
   },
   {
     "name": "tebakgambar",
@@ -81,7 +81,7 @@
   },
   {
     "name": "qc",
-    "count": 1313
+    "count": 1321
   },
   {
     "name": "mining",
@@ -97,7 +97,7 @@
   },
   {
     "name": "d",
-    "count": 1812
+    "count": 1818
   },
   {
     "name": "tes",
@@ -113,15 +113,15 @@
   },
   {
     "name": "nyerah",
-    "count": 701
+    "count": 702
   },
   {
     "name": "wink",
-    "count": 919
+    "count": 924
   },
   {
     "name": "ig",
-    "count": 1011
+    "count": 1012
   },
   {
     "name": "h",
@@ -141,7 +141,7 @@
   },
   {
     "name": "mingguan",
-    "count": 469
+    "count": 470
   },
   {
     "name": "math",
@@ -161,7 +161,7 @@
   },
   {
     "name": "bulanan",
-    "count": 378
+    "count": 379
   },
   {
     "name": "jual",
@@ -205,7 +205,7 @@
   },
   {
     "name": "cn",
-    "count": 279
+    "count": 280
   },
   {
     "name": "asahotak",
@@ -245,15 +245,15 @@
   },
   {
     "name": "ttsearch",
-    "count": 778
+    "count": 784
   },
   {
     "name": "metaai",
-    "count": 222
+    "count": 223
   },
   {
     "name": "tr",
-    "count": 248
+    "count": 249
   },
   {
     "name": "tagall",
@@ -381,11 +381,11 @@
   },
   {
     "name": "hdr",
-    "count": 166
+    "count": 167
   },
   {
     "name": "q",
-    "count": 169
+    "count": 173
   },
   {
     "name": "nebang",
@@ -433,7 +433,7 @@
   },
   {
     "name": "rampok",
-    "count": 117
+    "count": 133
   },
   {
     "name": "prabowo",
@@ -489,7 +489,7 @@
   },
   {
     "name": "tomp3",
-    "count": 129
+    "count": 130
   },
   {
     "name": "open",
@@ -3785,7 +3785,7 @@
   },
   {
     "name": "veo3",
-    "count": 24
+    "count": 27
   },
   {
     "name": "sidompul",
@@ -3833,6 +3833,10 @@
   },
   {
     "name": "img2ghibli",
+    "count": 1
+  },
+  {
+    "name": "transkrip",
     "count": 1
   }
 ]
