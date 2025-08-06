@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 26169
+    "count": 26189
   },
   {
     "name": "ai",
-    "count": 21538
+    "count": 21541
   },
   {
     "name": "play",
@@ -17,7 +17,7 @@
   },
   {
     "name": "tt",
-    "count": 17817
+    "count": 17832
   },
   {
     "name": "bantuan",
@@ -29,7 +29,7 @@
   },
   {
     "name": "me",
-    "count": 14281
+    "count": 14284
   },
   {
     "name": "hd",
@@ -37,11 +37,11 @@
   },
   {
     "name": "susunkata",
-    "count": 12820
+    "count": 12821
   },
   {
     "name": "afk",
-    "count": 11827
+    "count": 11828
   },
   {
     "name": "menu",
@@ -73,7 +73,7 @@
   },
   {
     "name": "d",
-    "count": 1853
+    "count": 1855
   },
   {
     "name": "tebakgambar",
@@ -81,11 +81,11 @@
   },
   {
     "name": "qc",
-    "count": 1330
+    "count": 1331
   },
   {
     "name": "pin",
-    "count": 1175
+    "count": 1179
   },
   {
     "name": "allmenu",
@@ -97,7 +97,7 @@
   },
   {
     "name": "ig",
-    "count": 1050
+    "count": 1051
   },
   {
     "name": "mining",
@@ -105,7 +105,7 @@
   },
   {
     "name": "wink",
-    "count": 939
+    "count": 941
   },
   {
     "name": "kick",
@@ -209,7 +209,7 @@
   },
   {
     "name": "ping",
-    "count": 300
+    "count": 301
   },
   {
     "name": "asahotak",
@@ -389,7 +389,7 @@
   },
   {
     "name": "rampok",
-    "count": 143
+    "count": 150
   },
   {
     "name": "buka",
@@ -545,7 +545,7 @@
   },
   {
     "name": "instagram",
-    "count": 89
+    "count": 99
   },
   {
     "name": "owner",
@@ -877,7 +877,7 @@
   },
   {
     "name": "google",
-    "count": 46
+    "count": 47
   },
   {
     "name": "spotify",
@@ -1149,7 +1149,7 @@
   },
   {
     "name": "veo3",
-    "count": 27
+    "count": 29
   },
   {
     "name": "antidelete",
@@ -3857,6 +3857,6 @@
   },
   {
     "name": "instauser",
-    "count": 1
+    "count": 2
   }
 ]
