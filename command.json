@@ -13,7 +13,7 @@
   },
   {
     "name": "play",
-    "count": 18372
+    "count": 18373
   },
   {
     "name": "bantuan",
@@ -25,7 +25,7 @@
   },
   {
     "name": "tt",
-    "count": 17731
+    "count": 17738
   },
   {
     "name": "me",
@@ -37,7 +37,7 @@
   },
   {
     "name": "hd",
-    "count": 13165
+    "count": 13166
   },
   {
     "name": "afk",
@@ -177,7 +177,7 @@
   },
   {
     "name": "ytdoc",
-    "count": 384
+    "count": 385
   },
   {
     "name": "tebakhewan",
@@ -245,7 +245,7 @@
   },
   {
     "name": "ttsearch",
-    "count": 807
+    "count": 809
   },
   {
     "name": "metaai",
@@ -705,7 +705,7 @@
   },
   {
     "name": "nailongc",
-    "count": 77
+    "count": 78
   },
   {
     "name": "igstalk",
@@ -3846,5 +3846,9 @@
   {
     "name": "perplexity",
     "count": 3
+  },
+  {
+    "name": "photoshop",
+    "count": 1
   }
 ]
