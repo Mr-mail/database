@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 26308
+    "count": 26326
   },
   {
     "name": "ai",
@@ -17,11 +17,11 @@
   },
   {
     "name": "tt",
-    "count": 18018
+    "count": 18028
   },
   {
     "name": "bantuan",
-    "count": 17440
+    "count": 17441
   },
   {
     "name": "ytmp3",
@@ -57,7 +57,7 @@
   },
   {
     "name": "tebakkata",
-    "count": 4041
+    "count": 4042
   },
   {
     "name": "tebakjenaka",
@@ -65,7 +65,7 @@
   },
   {
     "name": "s",
-    "count": 2426
+    "count": 2427
   },
   {
     "name": "tebakhero",
@@ -73,7 +73,7 @@
   },
   {
     "name": "d",
-    "count": 1888
+    "count": 1890
   },
   {
     "name": "tebakgambar",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1075
+    "count": 1076
   },
   {
     "name": "tes",
@@ -97,7 +97,7 @@
   },
   {
     "name": "ig",
-    "count": 1079
+    "count": 1080
   },
   {
     "name": "mining",
@@ -105,7 +105,7 @@
   },
   {
     "name": "wink",
-    "count": 946
+    "count": 948
   },
   {
     "name": "kick",
@@ -129,7 +129,7 @@
   },
   {
     "name": "nyerah",
-    "count": 714
+    "count": 715
   },
   {
     "name": "buyglimit",
@@ -137,7 +137,7 @@
   },
   {
     "name": "h",
-    "count": 609
+    "count": 610
   },
   {
     "name": "tebakff",
@@ -213,7 +213,7 @@
   },
   {
     "name": "asahotak",
-    "count": 289
+    "count": 290
   },
   {
     "name": "cn",
@@ -469,7 +469,7 @@
   },
   {
     "name": "cekkodam",
-    "count": 111
+    "count": 117
   },
   {
     "name": "mediafire",
@@ -509,7 +509,7 @@
   },
   {
     "name": "limit",
-    "count": 100
+    "count": 101
   },
   {
     "name": "open",
@@ -773,7 +773,7 @@
   },
   {
     "name": "cekkhodam",
-    "count": 53
+    "count": 55
   },
   {
     "name": "downloadmenu",
@@ -897,7 +897,7 @@
   },
   {
     "name": "faktaunik",
-    "count": 45
+    "count": 46
   },
   {
     "name": "bingimg",
@@ -3858,5 +3858,9 @@
   {
     "name": "instauser",
     "count": 2
+  },
+  {
+    "name": "kuning",
+    "count": 1
   }
 ]
