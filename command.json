@@ -1,15 +1,15 @@
 [
   {
     "name": "brat",
-    "count": 26829
+    "count": 26832
   },
   {
     "name": "ai",
-    "count": 21718
+    "count": 21729
   },
   {
     "name": "play",
-    "count": 18476
+    "count": 18486
   },
   {
     "name": "bratvid",
@@ -17,7 +17,7 @@
   },
   {
     "name": "tt",
-    "count": 18609
+    "count": 18634
   },
   {
     "name": "bantuan",
@@ -29,11 +29,11 @@
   },
   {
     "name": "me",
-    "count": 14342
+    "count": 14343
   },
   {
     "name": "hd",
-    "count": 13465
+    "count": 13472
   },
   {
     "name": "susunkata",
@@ -45,7 +45,7 @@
   },
   {
     "name": "menu",
-    "count": 9982
+    "count": 9983
   },
   {
     "name": "kuis",
@@ -65,7 +65,7 @@
   },
   {
     "name": "s",
-    "count": 2621
+    "count": 2624
   },
   {
     "name": "tebakhero",
@@ -73,7 +73,7 @@
   },
   {
     "name": "d",
-    "count": 2035
+    "count": 2036
   },
   {
     "name": "tebakgambar",
@@ -81,7 +81,7 @@
   },
   {
     "name": "qc",
-    "count": 1393
+    "count": 1394
   },
   {
     "name": "pin",
@@ -89,15 +89,15 @@
   },
   {
     "name": "allmenu",
-    "count": 1108
+    "count": 1109
   },
   {
     "name": "tes",
-    "count": 1102
+    "count": 1103
   },
   {
     "name": "ig",
-    "count": 1213
+    "count": 1218
   },
   {
     "name": "mining",
@@ -137,7 +137,7 @@
   },
   {
     "name": "h",
-    "count": 712
+    "count": 716
   },
   {
     "name": "tebakff",
@@ -145,7 +145,7 @@
   },
   {
     "name": "wm",
-    "count": 498
+    "count": 499
   },
   {
     "name": "mingguan",
@@ -165,7 +165,7 @@
   },
   {
     "name": "ytdoc",
-    "count": 388
+    "count": 389
   },
   {
     "name": "bulanan",
@@ -189,7 +189,7 @@
   },
   {
     "name": "get",
-    "count": 367
+    "count": 371
   },
   {
     "name": "jual",
@@ -197,7 +197,7 @@
   },
   {
     "name": "delete",
-    "count": 344
+    "count": 345
   },
   {
     "name": "gfl",
@@ -257,7 +257,7 @@
   },
   {
     "name": "linkgc",
-    "count": 255
+    "count": 256
   },
   {
     "name": "meme",
@@ -585,7 +585,7 @@
   },
   {
     "name": "infogc",
-    "count": 93
+    "count": 94
   },
   {
     "name": "pinterest",
@@ -797,7 +797,7 @@
   },
   {
     "name": "hdvideo",
-    "count": 67
+    "count": 68
   },
   {
     "name": "autoai",
@@ -1489,7 +1489,7 @@
   },
   {
     "name": "info",
-    "count": 16
+    "count": 17
   },
   {
     "name": "tovid",
@@ -1745,7 +1745,7 @@
   },
   {
     "name": "premium",
-    "count": 13
+    "count": 14
   },
   {
     "name": "sidompul",
@@ -3825,7 +3825,7 @@
   },
   {
     "name": "artikel",
-    "count": 1
+    "count": 4
   },
   {
     "name": "isuzu",
@@ -3894,5 +3894,9 @@
   {
     "name": "xnxx",
     "count": 1
+  },
+  {
+    "name": "artikeldetail",
+    "count": 2
   }
 ]
