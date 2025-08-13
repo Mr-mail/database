@@ -1,15 +1,15 @@
 [
   {
     "name": "brat",
-    "count": 26883
+    "count": 26885
   },
   {
     "name": "ai",
-    "count": 21733
+    "count": 21740
   },
   {
     "name": "play",
-    "count": 18495
+    "count": 18496
   },
   {
     "name": "bratvid",
@@ -17,7 +17,7 @@
   },
   {
     "name": "tt",
-    "count": 18665
+    "count": 18666
   },
   {
     "name": "bantuan",
@@ -73,7 +73,7 @@
   },
   {
     "name": "d",
-    "count": 2050
+    "count": 2061
   },
   {
     "name": "tebakgambar",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1111
+    "count": 1112
   },
   {
     "name": "tes",
@@ -1237,7 +1237,7 @@
   },
   {
     "name": "delchat",
-    "count": 22
+    "count": 26
   },
   {
     "name": "mainmenu",
@@ -1669,7 +1669,7 @@
   },
   {
     "name": "leavegc",
-    "count": 14
+    "count": 15
   },
   {
     "name": "waifu",
@@ -3901,6 +3901,6 @@
   },
   {
     "name": "xvideos",
-    "count": 10
+    "count": 11
   }
 ]
