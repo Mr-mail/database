@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 27224
+    "count": 27254
   },
   {
     "name": "ai",
@@ -13,11 +13,11 @@
   },
   {
     "name": "bratvid",
-    "count": 18337
+    "count": 18338
   },
   {
     "name": "tt",
-    "count": 18831
+    "count": 18839
   },
   {
     "name": "bantuan",
@@ -33,7 +33,7 @@
   },
   {
     "name": "hd",
-    "count": 13555
+    "count": 13561
   },
   {
     "name": "susunkata",
@@ -65,7 +65,7 @@
   },
   {
     "name": "s",
-    "count": 2694
+    "count": 2703
   },
   {
     "name": "tebakhero",
@@ -73,7 +73,7 @@
   },
   {
     "name": "d",
-    "count": 2135
+    "count": 2145
   },
   {
     "name": "tebakgambar",
@@ -81,7 +81,7 @@
   },
   {
     "name": "qc",
-    "count": 1455
+    "count": 1457
   },
   {
     "name": "pin",
@@ -97,7 +97,7 @@
   },
   {
     "name": "ig",
-    "count": 1267
+    "count": 1274
   },
   {
     "name": "mining",
@@ -245,7 +245,7 @@
   },
   {
     "name": "del",
-    "count": 259
+    "count": 262
   },
   {
     "name": "gpt",
@@ -517,7 +517,7 @@
   },
   {
     "name": "removebg",
-    "count": 110
+    "count": 111
   },
   {
     "name": "tebaktebakan",
@@ -2693,7 +2693,7 @@
   },
   {
     "name": "brat2",
-    "count": 20
+    "count": 23
   },
   {
     "name": "bugmenu",
@@ -3902,5 +3902,9 @@
   {
     "name": "xvideos",
     "count": 11
+  },
+  {
+    "name": "jadianime",
+    "count": 1
   }
 ]
