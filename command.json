@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 28001
+    "count": 28012
   },
   {
     "name": "ai",
@@ -9,7 +9,7 @@
   },
   {
     "name": "play",
-    "count": 18571
+    "count": 18572
   },
   {
     "name": "bratvid",
@@ -17,7 +17,7 @@
   },
   {
     "name": "tt",
-    "count": 19383
+    "count": 19384
   },
   {
     "name": "bantuan",
@@ -73,7 +73,7 @@
   },
   {
     "name": "d",
-    "count": 2300
+    "count": 2307
   },
   {
     "name": "tebakgambar",
@@ -81,7 +81,7 @@
   },
   {
     "name": "qc",
-    "count": 1492
+    "count": 1493
   },
   {
     "name": "pin",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1133
+    "count": 1134
   },
   {
     "name": "tes",
@@ -829,7 +829,7 @@
   },
   {
     "name": "tiktokaudio",
-    "count": 55
+    "count": 57
   },
   {
     "name": "getname",
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "anonymouschat",
-    "count": 21
+    "count": 22
   },
   {
     "name": "convertmenu",
@@ -3917,6 +3917,14 @@
   },
   {
     "name": "ikan",
+    "count": 1
+  },
+  {
+    "name": "alightmotion",
+    "count": 1
+  },
+  {
+    "name": "minecraft-stalk",
     "count": 1
   }
 ]
