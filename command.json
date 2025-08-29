@@ -1,11 +1,11 @@
 [
   {
     "name": "brat",
-    "count": 29233
+    "count": 29243
   },
   {
     "name": "ai",
-    "count": 22168
+    "count": 22174
   },
   {
     "name": "play",
@@ -13,11 +13,11 @@
   },
   {
     "name": "bratvid",
-    "count": 18437
+    "count": 18438
   },
   {
     "name": "tt",
-    "count": 20736
+    "count": 20751
   },
   {
     "name": "bantuan",
@@ -33,7 +33,7 @@
   },
   {
     "name": "hd",
-    "count": 14040
+    "count": 14044
   },
   {
     "name": "susunkata",
@@ -41,7 +41,7 @@
   },
   {
     "name": "afk",
-    "count": 11846
+    "count": 11853
   },
   {
     "name": "menu",
@@ -65,7 +65,7 @@
   },
   {
     "name": "s",
-    "count": 3280
+    "count": 3281
   },
   {
     "name": "tebakhero",
@@ -73,7 +73,7 @@
   },
   {
     "name": "d",
-    "count": 2671
+    "count": 2675
   },
   {
     "name": "tebakgambar",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1178
+    "count": 1179
   },
   {
     "name": "tes",
@@ -113,7 +113,7 @@
   },
   {
     "name": "ttsearch",
-    "count": 1232
+    "count": 1238
   },
   {
     "name": "family100",
@@ -197,7 +197,7 @@
   },
   {
     "name": "delete",
-    "count": 363
+    "count": 367
   },
   {
     "name": "gfl",
@@ -257,7 +257,7 @@
   },
   {
     "name": "linkgc",
-    "count": 270
+    "count": 271
   },
   {
     "name": "meme",
@@ -325,7 +325,7 @@
   },
   {
     "name": "sticker",
-    "count": 228
+    "count": 230
   },
   {
     "name": "cekganteng",
@@ -541,7 +541,7 @@
   },
   {
     "name": "acc",
-    "count": 91
+    "count": 92
   },
   {
     "name": "instagram",
@@ -573,7 +573,7 @@
   },
   {
     "name": "stiker",
-    "count": 147
+    "count": 148
   },
   {
     "name": "daftar",
@@ -745,7 +745,7 @@
   },
   {
     "name": "ghiblistyle",
-    "count": 60
+    "count": 62
   },
   {
     "name": "pralayanan",
@@ -753,7 +753,7 @@
   },
   {
     "name": "antibot",
-    "count": 58
+    "count": 59
   },
   {
     "name": "berlayar",
@@ -853,7 +853,7 @@
   },
   {
     "name": "add",
-    "count": 49
+    "count": 50
   },
   {
     "name": "mangastyle",
@@ -1661,7 +1661,7 @@
   },
   {
     "name": "antibot2",
-    "count": 13
+    "count": 15
   },
   {
     "name": "udanlaurenzarixzyraul",
@@ -3617,7 +3617,7 @@
   },
   {
     "name": "antiaudio",
-    "count": 1
+    "count": 2
   },
   {
     "name": "getdesc",
@@ -3933,6 +3933,10 @@
   },
   {
     "name": "download",
+    "count": 1
+  },
+  {
+    "name": "antiwame",
     "count": 1
   }
 ]
