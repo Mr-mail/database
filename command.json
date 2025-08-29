@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 29247
+    "count": 29253
   },
   {
     "name": "ai",
@@ -9,7 +9,7 @@
   },
   {
     "name": "play",
-    "count": 18681
+    "count": 18683
   },
   {
     "name": "bratvid",
@@ -17,23 +17,23 @@
   },
   {
     "name": "tt",
-    "count": 20756
+    "count": 20778
   },
   {
     "name": "bantuan",
-    "count": 17555
+    "count": 17556
   },
   {
     "name": "ytmp3",
-    "count": 14520
+    "count": 14522
   },
   {
     "name": "me",
-    "count": 14410
+    "count": 14411
   },
   {
     "name": "hd",
-    "count": 14048
+    "count": 14060
   },
   {
     "name": "susunkata",
@@ -57,7 +57,7 @@
   },
   {
     "name": "tebakkata",
-    "count": 4073
+    "count": 4074
   },
   {
     "name": "tebakjenaka",
@@ -65,7 +65,7 @@
   },
   {
     "name": "s",
-    "count": 3281
+    "count": 3289
   },
   {
     "name": "tebakhero",
@@ -73,7 +73,7 @@
   },
   {
     "name": "d",
-    "count": 2679
+    "count": 2684
   },
   {
     "name": "tebakgambar",
@@ -105,7 +105,7 @@
   },
   {
     "name": "wink",
-    "count": 1146
+    "count": 1154
   },
   {
     "name": "kick",
@@ -113,7 +113,7 @@
   },
   {
     "name": "ttsearch",
-    "count": 1238
+    "count": 1239
   },
   {
     "name": "family100",
@@ -121,11 +121,11 @@
   },
   {
     "name": "tiktok",
-    "count": 914
+    "count": 915
   },
   {
     "name": "ytmp4",
-    "count": 753
+    "count": 754
   },
   {
     "name": "nyerah",
@@ -165,7 +165,7 @@
   },
   {
     "name": "ytdoc",
-    "count": 393
+    "count": 394
   },
   {
     "name": "bulanan",
@@ -245,7 +245,7 @@
   },
   {
     "name": "del",
-    "count": 362
+    "count": 364
   },
   {
     "name": "gpt",
@@ -413,7 +413,7 @@
   },
   {
     "name": "tebakbom",
-    "count": 138
+    "count": 139
   },
   {
     "name": "tebakaplikasi",
@@ -3937,6 +3937,10 @@
   },
   {
     "name": "antiwame",
+    "count": 1
+  },
+  {
+    "name": "veo3a",
     "count": 1
   }
 ]
