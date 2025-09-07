@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 25188
+    "count": 25210
   },
   {
     "name": "ai",
@@ -13,7 +13,7 @@
   },
   {
     "name": "play",
-    "count": 18277
+    "count": 18282
   },
   {
     "name": "bantuan",
@@ -21,11 +21,11 @@
   },
   {
     "name": "ytmp3",
-    "count": 14427
+    "count": 14429
   },
   {
     "name": "tt",
-    "count": 16554
+    "count": 16600
   },
   {
     "name": "me",
@@ -37,7 +37,7 @@
   },
   {
     "name": "hd",
-    "count": 12848
+    "count": 12855
   },
   {
     "name": "afk",
@@ -69,7 +69,7 @@
   },
   {
     "name": "s",
-    "count": 2212
+    "count": 2220
   },
   {
     "name": "tebakgambar",
@@ -81,7 +81,7 @@
   },
   {
     "name": "qc",
-    "count": 1256
+    "count": 1262
   },
   {
     "name": "mining",
@@ -89,7 +89,7 @@
   },
   {
     "name": "allmenu",
-    "count": 1045
+    "count": 1049
   },
   {
     "name": "kick",
@@ -97,7 +97,7 @@
   },
   {
     "name": "d",
-    "count": 1624
+    "count": 1634
   },
   {
     "name": "tes",
@@ -105,7 +105,7 @@
   },
   {
     "name": "ytmp4",
-    "count": 703
+    "count": 704
   },
   {
     "name": "buyglimit",
@@ -117,11 +117,11 @@
   },
   {
     "name": "wink",
-    "count": 864
+    "count": 866
   },
   {
     "name": "ig",
-    "count": 880
+    "count": 881
   },
   {
     "name": "h",
@@ -169,7 +169,7 @@
   },
   {
     "name": "wm",
-    "count": 478
+    "count": 479
   },
   {
     "name": "audio",
@@ -177,7 +177,7 @@
   },
   {
     "name": "ytdoc",
-    "count": 362
+    "count": 363
   },
   {
     "name": "tebakhewan",
@@ -245,7 +245,7 @@
   },
   {
     "name": "ttsearch",
-    "count": 629
+    "count": 631
   },
   {
     "name": "metaai",
@@ -489,7 +489,7 @@
   },
   {
     "name": "tomp3",
-    "count": 117
+    "count": 119
   },
   {
     "name": "open",
@@ -497,7 +497,7 @@
   },
   {
     "name": "mediafire",
-    "count": 101
+    "count": 105
   },
   {
     "name": "war",
@@ -505,7 +505,7 @@
   },
   {
     "name": "ttp",
-    "count": 123
+    "count": 125
   },
   {
     "name": "cekpacar",
@@ -761,7 +761,7 @@
   },
   {
     "name": "removebg",
-    "count": 98
+    "count": 99
   },
   {
     "name": "downloadmenu",
@@ -3790,5 +3790,13 @@
   {
     "name": "web2apk",
     "count": 5
+  },
+  {
+    "name": "osearch",
+    "count": 1
+  },
+  {
+    "name": "veo3a",
+    "count": 1
   }
 ]
