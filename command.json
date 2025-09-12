@@ -1,7 +1,7 @@
 [
   {
     "name": "brat",
-    "count": 25910
+    "count": 25911
   },
   {
     "name": "ai",
@@ -25,7 +25,7 @@
   },
   {
     "name": "tt",
-    "count": 17257
+    "count": 17258
   },
   {
     "name": "me",
@@ -765,7 +765,7 @@
   },
   {
     "name": "downloadmenu",
-    "count": 53
+    "count": 54
   },
   {
     "name": "antibot",
@@ -2493,7 +2493,7 @@
   },
   {
     "name": "fb2",
-    "count": 4
+    "count": 5
   },
   {
     "name": "bugmenu",
@@ -3825,6 +3825,6 @@
   },
   {
     "name": "download",
-    "count": 1
+    "count": 2
   }
 ]
